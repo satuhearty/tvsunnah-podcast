@@ -1,0 +1,33 @@
+<section id="one" class="tiles">
+	{% for podcast in site.data.podcasts limit:site.tiles-count %}
+    {% if site.tiles-source == 'posts' %}
+      {% for speaker in site.data.speakers %}
+        {% if podcast.speaker_id == speaker.speaker_id %}
+          {% assign speaker = speaker %}
+        {% endif %}
+      {% endfor %}
+      <article>
+        <span class="image">
+          <img src="{{ podcast.image }}" alt="" />
+        </span>
+        <header class="major">
+          <h3><a href="{{ podcast.url  | relative_url }}" class="link">{{ podcast.title }}</a></h3>
+          <p>{{ speaker.name }}</p>
+        </header>
+      </article>
+    {% endif %}
+	{% endfor %}
+	{% for page in site.pages limit:site.tiles-count %}
+    {% if site.tiles-source == 'pages' %}
+      <article>
+        <span class="image">
+          <img src="{{ page.image }}" alt="" />
+        </span>
+        <header class="major">
+          <h3><a href="{{ page.url | relative_url  }}" class="link">{{ page.title }}</a></h3>
+          <p>{{ page.description }}</p>
+        </header>
+      </article>
+    {% endif %}
+	{% endfor %}
+</section>

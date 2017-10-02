@@ -1,0 +1,14 @@
+---
+layout: post
+title: Ummu Salamah Apabila Ditimpa Musibah
+id: ummu-salamah-apabila-ditimpa-musibah
+date: 2017-09-21 18:00:00
+audio: assets/audio/mencari-sakinah/ummu-salamah-apabila-ditimpa-musibah.mp3
+album: Mencari Sakinah
+speaker_id: drmaza
+categories: mencari-sakinah
+permalink: podcast/:categories/:title
+image: assets/images/pic01.jpg
+---
+
+Kecekalan Ummu Salamah apabila kehilangan suaminya dan Allah gantikan dengan yang lebih baik darinya. 

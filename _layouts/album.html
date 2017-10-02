@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<html>
+
+{% include head.html %}
+
+<body>
+
+{% include header.html %}
+
+{% for podcast in site.data.podcasts %}
+  {% if podcast.podcast_id == page.podcast_id %}
+    {% assign podcast = podcast %}
+  {% endif %}
+{% endfor %}
+
+{% for speaker in site.data.speakers %}
+  {% if speaker.speaker_id == podcast.speaker_id %}
+    {% assign speaker = speaker %}
+  {% endif %}
+{% endfor %}
+
+<section id="banner" class="style2">
+  <div class="inner">
+    <span class="image">
+      <img src="{{ site.baseurl }}/{{ podcast.image }}" alt="">
+    </span>
+    <header class="major">
+      <h1>{{ podcast.title }}</h1>
+    </header>
+    <div class="content">
+      {{ podcast.description }}
+    </div>
+  </div>
+</section>
+
+<section id="one">
+  <div class="inner">
+    <section class="spotlights post">
+      <section>
+        <div class="image">
+          <img src="{{ site.baseurl }}/{{ speaker.image }}" alt="" data-position="center center" />
+          <div class="speaker-description">
+            <h4>{{ speaker.name }}</h4>
+            <p>{{ speaker.description }}</p>
+          </div>
+        </div>
+        <div class="content">
+          {% assign index = 0 %}
+          {% for post in site.posts %}
+            {% if post.categories contains page.podcast_id %}
+              <div class="inner">
+                <a href="{{ post.id }}">
+                  <h3>{{ post.title }}</h3>
+                </a>
+                <p>{{ post.content }}</p>
+                <div id="waveform-{{ index }}" class="js-waveform">
+                  <audio id="audio-{{ index }}" style="display: none" preload="false" src="{{ site.baseurl }}/{{ post.audio }}"></audio>
+                </div>
+                <div class="controls">
+                  <button id="button-{{ index }}" class="btn btn-primary js-audio-button" data-action="play" data-current="play">
+                    <i class="fa fa-play"></i> Play
+                  </button>
+                  <span id="waveform-counter-{{ index }}" class="waveform-counter"></span>
+                  <span id="waveform-duration-{{ index }}" class="waveform-duration"></span>
+                </div>
+              </div>
+              {% assign index = index | plus: 1 %}
+            {% endif %}
+          {% endfor %}
+        </div>
+      </section>
+    </section>
+  </div>
+</section>
+
+{{ content }}
+
+{% include footer.html %}
+
+</body>
+
+</html>

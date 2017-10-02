@@ -1,0 +1,10 @@
+.controls {
+  margin-top: 15px;
+}
+
+span {
+  &.waveform-counter,
+  &.waveform-duration {
+    padding-left: 20px;
+  }
+}

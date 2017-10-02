@@ -1,0 +1,20 @@
+- speaker_id: drmaza
+  name: Dr. Mohd Asri Zainul Abidin
+  image: assets/images/speakers/drmaza.jpg
+  description: Assoc. Prof. Dato' Dr. Mohd Asri Zainul Abidin (born January 1, 1971), commercially known as Dr. Maza, is a popular independent Islamic preacher, writer, lecturer and Islamic consultant from Malaysia. He's currently a Mufti of Perlis for the second time since February 2, 2015. His first term as a mufti was from 2006 until 2008.
+- speaker_id: nak
+  name: Nouman Ali Khan
+  image: assets/images/speakers/nak.jpg
+  description: Nouman Ali Khan is a Pakistani-American Muslim speaker and founder, CEO and lead instructor at Bayyinah, the Institute for Arabic and Qur'anic Studies.
+- speaker_id: yusufestes
+  name: Yusuf Estes
+  image: assets/images/speakers/yusufestes.jpg
+  description: Yusuf Estes (born Joseph Estes, 1944) is an American preacher from Texas who converted from Christianity to Islam in 1991. He claims to have been a Muslim Chaplain for the United States Bureau of Prisons through the 1990s, and to have served a Muslim delegate to the United Nations World Peace Conference for Religious Leaders held at the U.N. in September 2000.
+- speaker_id: loon
+  name: Amir Junaid Muhaddith Aka Loon
+  image: assets/images/speakers/loon.jpg
+  description: Amir Junaid Muhadith (born Chauncey Lamont Hawkins, June 20th 1975 in Harlem, New York) best known by his stage name Loon, was an American rapper formerly signed to P. Diddy's Bad Boy Records. He is best known for his role in P. Diddy's 2001 hits "I Need a Girl (Part One)" & "I Need a Girl (Part Two)".
+- speaker_id: muftimenk
+  name: Mufti Ismail Menk
+  image: assets/images/speakers/muftimenk.jpg
+  description: Ismail ibn Musa Menk, also known as Mufti Menk, is a Muslim cleric and Grand Mufti of Zimbabwe.

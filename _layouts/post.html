@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+{% include header.html %}
+
+{% for speaker in site.data.speakers %}
+  {% if speaker.speaker_id == page.speaker_id %}
+    {% assign speaker = speaker %}
+  {% endif %}
+{% endfor %}
+
+<div id="main" class="alt">
+  <section id="one">
+    <div class="inner">
+      {% if page.image %}
+        <div class="header-image" style="background: url({{ site.baseurl }}/{{ page.image }}) no-repeat center top; background-size: 100% auto;">
+          <span class="header-title">{{ page.album }}</span>
+        </div>
+      {% endif %}
+      <section class="spotlights post">
+        <section>
+          <div class="image">
+            <img src="{{ site.baseurl }}/{{ speaker.image }}" alt="" data-position="center center" />
+            <div class="speaker-description">
+              <h4>{{ speaker.name }}</h4>
+              <p>{{ speaker.description }}</p>
+            </div>
+          </div>
+          <div class="content">
+            <div class="inner">
+              <header class="major">
+                <h2>{{ page.title }}</h2>
+              </header>
+              <h3>{{ page.date | date: "%b %d, %Y" }}</h3>
+              <div id="waveform-0" class="js-waveform">
+                <audio id="audio-0" style="display: none" preload="false" src="{{ site.baseurl }}/{{ page.audio }}"></audio>
+              </div>
+              <div class="controls">
+                <button id="button-0" class="btn btn-primary js-audio-button" data-action="play" data-current="play">
+                  <i class="fa fa-play"></i> Play
+                </button>
+                <span id="waveform-counter-0" class="waveform-counter"></span>
+                <span id="waveform-duration-0" class="waveform-duration"></span>
+              </div>
+              <p>{{ content }}</p>
+            </div>
+          </div>
+        </section>
+      </section>
+    </div>
+  </section>
+</div>
+
+{% include footer.html %}
+
+</body>
+
+</html>
