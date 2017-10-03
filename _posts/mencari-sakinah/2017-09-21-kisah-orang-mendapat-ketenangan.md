@@ -6,8 +6,8 @@ date: 2017-09-21 16:00:00
 audio: assets/audio/mencari-sakinah/kisah-orang-mendapat-ketenangan.mp3
 album: Mencari Sakinah
 speaker_id: drmaza
-categories: mencari-sakinah
-permalink: podcast/:categories/:title
+podcast: mencari-sakinah
+permalink: podcast/mencari-sakinah/:title
 image: assets/images/pic01.jpg
 ---
 

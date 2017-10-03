@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+
+{% include head.html %}
+
+<body>
+
+{% include header.html %}
+
+<div id="main" class="alt">
+  <section id="one">
+    <div class="inner">
+      <ul class="grid effect-7" id="grid">
+        {% for podcast in site.data.podcasts %}
+          {% for speaker in site.data.speakers %}
+            {% if speaker.speaker_id == podcast.speaker_id %}
+              {% assign speaker = speaker %}
+            {% endif %}
+          {% endfor %}
+          <li class="grid-item">
+            <a href="{{ podcast.url  | relative_url }}" class="link">
+              <img src="{{ site.baseurl }}/{{ podcast.image }}" alt=""/>
+              <h4 class="grid-item-title">{{ podcast.title }}</h4>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+</div>
+
+{% include footer.html %}
+
+</body>
+
+</html>

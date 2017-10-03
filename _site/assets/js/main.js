@@ -356,9 +356,10 @@
   // wavesurfer.playPause();
 
 // Init & load audio file
-  document.addEventListener('DOMContentLoaded', function () {
-
+  const audio = $('.js-waveform');
+  if (audio.length !== 0) {
     $('.js-waveform').each(function (index, element) {
+      index += 1;
       const audioId = `#audio-${index}`;
       const buttonId = `#button-${index}`;
       const counterId = `#waveform-counter-${index}`;
@@ -415,5 +416,14 @@
         $(durationId).text(formatTime(wavesurfer.getDuration()));
       });
     });
-  });
+  }
+
+  const masonryGrid = $('.grid');
+  if (masonryGrid.length !== 0) {
+    $('.grid').masonry({
+      itemSelector: '.grid-item',
+      horizontalOrder: true
+    });
+  }
+
 })(jQuery);

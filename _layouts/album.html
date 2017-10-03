@@ -20,7 +20,7 @@
   {% endif %}
 {% endfor %}
 
-<section id="banner" class="style2">
+<section id="banner" class="{{ podcast.style }}">
   <div class="inner">
     <span class="image">
       <img src="{{ site.baseurl }}/{{ podcast.image }}" alt="">
@@ -46,12 +46,12 @@
           </div>
         </div>
         <div class="content">
-          {% assign index = 0 %}
+          {% assign index = 1 %}
           {% for post in site.posts %}
-            {% if post.categories contains page.podcast_id %}
+            {% if post.podcast == page.podcast_id %}
               <div class="inner">
-                <a href="{{ post.id }}">
-                  <h3>{{ post.title }}</h3>
+                <a href="{{ post.id  | relative_url }}">
+                  <h3>{{ index }}. {{ post.title }}</h3>
                 </a>
                 <p>{{ post.content }}</p>
                 <div id="waveform-{{ index }}" class="js-waveform">

@@ -6,8 +6,8 @@ date: 2017-09-17 23:00:00
 audio: assets/audio/loon-a-tick/islamic-university-malaysia.mp3
 album: Loon-A-Tick
 speaker_id: loon
-categories: loon-a-tick
-permalink: podcast/:categories/:title
+podcast: loon-a-tick
+permalink: podcast/loon-a-tick/:title
 image: assets/images/pic04.jpg
 ---
 

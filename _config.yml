@@ -3,7 +3,8 @@ title: TVSunnah Podcast
 #subtitle: by TVSunnah
 email: youremailaddress@gmail.com
 description: If you’re new to TVSunnah Podcast, we’ve got a lot of podcasts for you!
-baseurl: "tvsunnah-podcast/"
+baseurl: "/tvsunnah-podcast"
+#baseurl: ""
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
