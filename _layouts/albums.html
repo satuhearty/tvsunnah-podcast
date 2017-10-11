@@ -20,8 +20,25 @@
           {% endfor %}
           <li class="grid-item">
             <a href="{{ podcast.url  | relative_url }}" class="link">
-              <img src="{{ site.baseurl }}/{{ podcast.image }}" alt=""/>
-              <h4 class="grid-item-title">{{ podcast.title }}</h4>
+              <div class="example-2 card">
+                <div class="wrapper">
+                  <img src="{{ site.baseurl }}/{{ podcast.image }}" alt=""/>
+                  <!--<div class="header">-->
+                    <!--<div class="date">-->
+                      <!--<span class="day">12</span>-->
+                      <!--<span class="month">Aug</span>-->
+                      <!--<span class="year">2016</span>-->
+                    <!--</div>-->
+                  <!--</div>-->
+                  <div class="data">
+                    <div class="content">
+                      <span class="author">{{ speaker.name }}</span>
+                      <h1 class="title"><a href="#">{{ podcast.title }}</a></h1>
+                      <p class="text">{{ podcast.description }}</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </a>
           </li>
         {% endfor %}

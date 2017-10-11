@@ -13,7 +13,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <atom:link href="http://localhost:4000/feed/" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000</link>
         <description>If you’re new to TVSunnah Podcast, we’ve got a lot of podcasts for you!</description>
-        <lastBuildDate>Tue, 03 Oct 2017 01:03:57 -0400</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2017 02:09:44 -0400</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -22,335 +22,137 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
             
         
             
-                <item>
-                    <title><![CDATA[Makna Sakinah]]></title>
-                    <link>http://localhost:4000/podcast/mencari-sakinah/makna-sakinah</link>
-                    <pubDate>Thu, 21 Sep 2017 23:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
-                    
-                    
-                    <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/makna-sakinah</guid>
-                    <description>
-                        <![CDATA[Huraian tentang makna perkataan sakinah dalam bahasa Arab.
-]]>
-                    </description>
-                    <content:encoded>
-                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic01.jpg" /><p>Huraian tentang makna perkataan sakinah dalam bahasa Arab.</p>
-]]>
-                    </content:encoded>
-                </item>
+        
+            
+        
             
         
             
         
             
-                <item>
-                    <title><![CDATA[Salah Sangka Tentang Ketenangan Dalam Hidup]]></title>
-                    <link>http://localhost:4000/podcast/mencari-sakinah/salah-sangka-tentang-ketenangan-dalam-hidup</link>
-                    <pubDate>Thu, 21 Sep 2017 22:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
-                    
-                    
-                    <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/salah-sangka-tentang-ketenangan-dalam-hidup</guid>
-                    <description>
-                        <![CDATA[Adakah harta mampu memberi ketenangan dalam hidup?
-]]>
-                    </description>
-                    <content:encoded>
-                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic01.jpg" /><p>Adakah harta mampu memberi ketenangan dalam hidup?</p>
-]]>
-                    </content:encoded>
-                </item>
+        
+            
+        
             
         
             
         
             
-                <item>
-                    <title><![CDATA[Sakinah Yang Diberikan Kepada Nabi SAW & Abu Bakar RA]]></title>
-                    <link>http://localhost:4000/podcast/mencari-sakinah/sakinah-yang-diberikan-kepada-nabi</link>
-                    <pubDate>Thu, 21 Sep 2017 21:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
-                    
-                    
-                    <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/sakinah-yang-diberikan-kepada-nabi</guid>
-                    <description>
-                        <![CDATA[Kisah keresahan Abu Bakar RA ketika berhijrah bersama Nabi SAW.
-]]>
-                    </description>
-                    <content:encoded>
-                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic01.jpg" /><p>Kisah keresahan Abu Bakar RA ketika berhijrah bersama Nabi SAW.</p>
-]]>
-                    </content:encoded>
-                </item>
+        
+            
+        
             
         
             
         
             
-                <item>
-                    <title><![CDATA[Tawakkal]]></title>
-                    <link>http://localhost:4000/podcast/mencari-sakinah/tawakkal</link>
-                    <pubDate>Thu, 21 Sep 2017 20:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
-                    
-                    
-                    <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/tawakkal</guid>
-                    <description>
-                        <![CDATA[Huraian tentang Tawakkal dan kaitannya dengan sakinah.
-]]>
-                    </description>
-                    <content:encoded>
-                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic01.jpg" /><p>Huraian tentang Tawakkal dan kaitannya dengan sakinah.</p>
-]]>
-                    </content:encoded>
-                </item>
+        
+            
+        
             
         
             
         
             
-                <item>
-                    <title><![CDATA[Doa Yang Nabi SAW Ajar Kepada Fatimah RA]]></title>
-                    <link>http://localhost:4000/podcast/mencari-sakinah/doa-yang-nabi-ajar-kepada-fatimah</link>
-                    <pubDate>Thu, 21 Sep 2017 19:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
-                    
-                    
-                    <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/doa-yang-nabi-ajar-kepada-fatimah</guid>
-                    <description>
-                        <![CDATA[Antara doa yang diajarkan oleh Nabi SAW ketika ditimpa musibah.
-]]>
-                    </description>
-                    <content:encoded>
-                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic01.jpg" /><p>Antara doa yang diajarkan oleh Nabi SAW ketika ditimpa musibah.</p>
-]]>
-                    </content:encoded>
-                </item>
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
             
         
             
         
             
                 <item>
-                    <title><![CDATA[Ummu Salamah Apabila Ditimpa Musibah]]></title>
-                    <link>http://localhost:4000/podcast/mencari-sakinah/ummu-salamah-apabila-ditimpa-musibah</link>
-                    <pubDate>Thu, 21 Sep 2017 18:00:00 +0000</pubDate>
+                    <title><![CDATA[Loon @ Islamic University Malaysia]]></title>
+                    <link>http://localhost:4000/podcast/loon-a-tick/islamic-university-malaysia</link>
+                    <pubDate>Sun, 17 Sep 2017 23:00:00 +0000</pubDate>
                     <dc:creator><![CDATA[]]></dc:creator>
                     
                     
-                    <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/ummu-salamah-apabila-ditimpa-musibah</guid>
+                    <guid isPermaLink="true">http://localhost:4000/podcast/loon-a-tick/islamic-university-malaysia</guid>
                     <description>
-                        <![CDATA[Kecekalan Ummu Salamah apabila kehilangan suaminya dan Allah gantikan dengan yang lebih baik darinya.
+                        <![CDATA[Loon’s talk about his journey to Islam at Islamic University Malaysia.
 ]]>
                     </description>
                     <content:encoded>
-                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic01.jpg" /><p>Kecekalan Ummu Salamah apabila kehilangan suaminya dan Allah gantikan dengan yang lebih baik darinya.</p>
+                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic04.jpg" /><p>Loon’s talk about his journey to Islam at Islamic University Malaysia.</p>
 ]]>
                     </content:encoded>
                 </item>
-            
-        
             
         
             
                 <item>
-                    <title><![CDATA[Pengalaman Tentang Keajaiban Doa]]></title>
-                    <link>http://localhost:4000/podcast/mencari-sakinah/pengalaman-tentang-keajaiban-doa</link>
-                    <pubDate>Thu, 21 Sep 2017 17:00:00 +0000</pubDate>
+                    <title><![CDATA[Loon @ Nottingham University Malaysia]]></title>
+                    <link>http://localhost:4000/podcast/loon-a-tick/nottingham-university-malaysia</link>
+                    <pubDate>Sun, 17 Sep 2017 22:00:00 +0000</pubDate>
                     <dc:creator><![CDATA[]]></dc:creator>
                     
                     
-                    <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/pengalaman-tentang-keajaiban-doa</guid>
+                    <guid isPermaLink="true">http://localhost:4000/podcast/loon-a-tick/nottingham-university-malaysia</guid>
                     <description>
-                        <![CDATA[Pengalaman Dr. Asri tentang keajaiban doa.
+                        <![CDATA[Loon’s talk about his experience as a Muslim.
 ]]>
                     </description>
                     <content:encoded>
-                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic01.jpg" /><p>Pengalaman Dr. Asri tentang keajaiban doa.</p>
+                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic04.jpg" /><p>Loon’s talk about his experience as a Muslim.</p>
 ]]>
                     </content:encoded>
                 </item>
-            
-        
-            
-        
-            
-                <item>
-                    <title><![CDATA[Kisah Orang Yang Mendapat Ketenangan]]></title>
-                    <link>http://localhost:4000/podcast/mencari-sakinah/kisah-orang-mendapat-ketenangan</link>
-                    <pubDate>Thu, 21 Sep 2017 16:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
-                    
-                    
-                    <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/kisah-orang-mendapat-ketenangan</guid>
-                    <description>
-                        <![CDATA[Kisah benar tentang orang yang mendapat sakinah.
-]]>
-                    </description>
-                    <content:encoded>
-                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic01.jpg" /><p>Kisah benar tentang orang yang mendapat sakinah.</p>
-]]>
-                    </content:encoded>
-                </item>
-            
-        
-            
-        
-            
-                <item>
-                    <title><![CDATA[Apabila Insan Melihat Dunia Dari Dimensi Akhirat Bahagian 1]]></title>
-                    <link>http://localhost:4000/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-1</link>
-                    <pubDate>Thu, 21 Sep 2017 15:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
-                    
-                    
-                    <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-1</guid>
-                    <description>
-                        <![CDATA[Bagaimana kita boleh berusaha untuk melihat dunia dari dimensi akhirat (Bahagian 1).
-]]>
-                    </description>
-                    <content:encoded>
-                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic01.jpg" /><p>Bagaimana kita boleh berusaha untuk melihat dunia dari dimensi akhirat (Bahagian 1).</p>
-]]>
-                    </content:encoded>
-                </item>
-            
-        
-            
-        
-            
-                <item>
-                    <title><![CDATA[Apabila Insan Melihat Dunia Dari Dimensi Akhirat Bahagian 2]]></title>
-                    <link>http://localhost:4000/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-2</link>
-                    <pubDate>Thu, 21 Sep 2017 14:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
-                    
-                    
-                    <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-2</guid>
-                    <description>
-                        <![CDATA[Bagaimana kita boleh berusaha untuk melihat dunia dari dimensi akhirat (Bahagian 2).
-]]>
-                    </description>
-                    <content:encoded>
-                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic01.jpg" /><p>Bagaimana kita boleh berusaha untuk melihat dunia dari dimensi akhirat (Bahagian 2).</p>
-]]>
-                    </content:encoded>
-                </item>
-            
-        
-            
-        
-            
-                <item>
-                    <title><![CDATA[Syukur Bahagian 1]]></title>
-                    <link>http://localhost:4000/podcast/mencari-sakinah/syukur-bahagian-1</link>
-                    <pubDate>Thu, 21 Sep 2017 13:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
-                    
-                    
-                    <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/syukur-bahagian-1</guid>
-                    <description>
-                        <![CDATA[Makna Syukur dan kaitannya dengan sakinah (Bahagian 1).
-]]>
-                    </description>
-                    <content:encoded>
-                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic01.jpg" /><p>Makna Syukur dan kaitannya dengan sakinah (Bahagian 1).</p>
-]]>
-                    </content:encoded>
-                </item>
-            
-        
-            
-        
-            
-                <item>
-                    <title><![CDATA[Syukur Bahagian 2]]></title>
-                    <link>http://localhost:4000/podcast/mencari-sakinah/syukur-bahagian-2</link>
-                    <pubDate>Thu, 21 Sep 2017 12:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
-                    
-                    
-                    <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/syukur-bahagian-2</guid>
-                    <description>
-                        <![CDATA[Makna Syukur dan kaitannya dengan sakinah (Bahagian 2).
-]]>
-                    </description>
-                    <content:encoded>
-                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic01.jpg" /><p>Makna Syukur dan kaitannya dengan sakinah (Bahagian 2).</p>
-]]>
-                    </content:encoded>
-                </item>
-            
-        
-            
-        
-            
-                <item>
-                    <title><![CDATA[Doa Dalam Bahasa Selain Bahasa Arab]]></title>
-                    <link>http://localhost:4000/podcast/mencari-sakinah/doa-dalam-bahasa-selain-bahasa-arab</link>
-                    <pubDate>Thu, 21 Sep 2017 11:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
-                    
-                    
-                    <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/doa-dalam-bahasa-selain-bahasa-arab</guid>
-                    <description>
-                        <![CDATA[Soalan daripada salah seorang jemaah tentang hukum berdoa dalam bahasa selain bahasa arab ketika solat.
-]]>
-                    </description>
-                    <content:encoded>
-                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic01.jpg" /><p>Soalan daripada salah seorang jemaah tentang hukum berdoa dalam bahasa selain bahasa arab ketika solat.</p>
-]]>
-                    </content:encoded>
-                </item>
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
             
         
             

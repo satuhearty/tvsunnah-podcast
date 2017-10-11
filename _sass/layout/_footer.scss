@@ -1,6 +1,8 @@
 /* Footer */
 
 #footer {
+  text-align: center;
+
   .copyright {
     font-size: 0.8em;
     list-style: none;
@@ -8,7 +10,6 @@
 
     li {
       border-left: solid 1px _palette(border);
-      color: _palette(fg-light);
       display: inline-block;
       line-height: 1;
       margin-left: 1em;

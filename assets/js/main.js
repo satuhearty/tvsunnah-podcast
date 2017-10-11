@@ -346,16 +346,6 @@
 
   });
 
-  // var wavesurfer = WaveSurfer.create({
-  //   container: '#waveform',
-  //   waveColor: 'violet',
-  //   progressColor: 'purple'
-  // });
-  //
-  // wavesurfer.load('../../assets/audio/mencari-sakinah/makna-sakinah.mp3');
-  // wavesurfer.playPause();
-
-// Init & load audio file
   const audio = $('.js-waveform');
   if (audio.length !== 0) {
     $('.js-waveform').each(function (index, element) {
@@ -425,5 +415,18 @@
       horizontalOrder: true
     });
   }
+
+  $(window).load(function(){
+    $('#wrapper').addClass('loaded');
+  });
+
+  $('.more-info').click(function(){
+    $("#card").toggleClass('flip');
+    $('#arrow').remove();
+  });
+  $('#background').click(function(){
+    $('#card').removeClass('flip');
+  })
+
 
 })(jQuery);
