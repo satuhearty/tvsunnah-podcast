@@ -350,17 +350,22 @@
         container: element,
         waveColor: '#985E6D',
         progressColor: '#98878F',
-        backend: 'MediaElement'
+        backend: 'MediaElement',
+        partialRender: true
       });
+
+      let audioPeak = [];
+      for (let i = 0; i < 100; i++) {
+        const randomNum = Math.floor(Math.random() * 1000) / 1000;
+        audioPeak.push(randomNum);
+      }
+      wavesurfer.backend.setPeaks(audioPeak);
+      wavesurfer.drawBuffer();
 
       document.querySelector(buttonId).addEventListener('click', function (e) {
         if (audioLoaded[index] === undefined) {
-          let audioPeak = [];
-          for (let i = 0; i < 100; i++) {
-            const randomNum = Math.floor(Math.random() * 1000) / 1000;
-            audioPeak.push(randomNum);
-          }
-          wavesurfer.load(document.querySelector(audioId), audioPeak);
+          wavesurfer.peakCache.clearPeakCache();
+          wavesurfer.load($(audioId)[0].dataset.audio, audioPeak);
           audioLoaded[index] = true;
         }
         wavesurfer.playPause();
