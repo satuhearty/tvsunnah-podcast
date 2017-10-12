@@ -176,12 +176,10 @@
 
           // Redirect.
           window.setTimeout(function () {
-
             if ($link.attr('target') == '_blank')
               window.open(href);
             else
               location.href = href;
-
           }, 500);
 
         });
@@ -194,15 +192,13 @@
     if (skel.vars.IEVersion < 9)
       $header.removeClass('alt');
 
-    if ($banner.length > 0
-      && $header.hasClass('alt')) {
+    if ($banner.length > 0 && $header.hasClass('alt')) {
 
       $window.on('resize', function () {
         $window.trigger('scroll');
       });
 
       $window.on('load', function () {
-
         $banner.scrollex({
           bottom: $header.height() + 10,
           terminate: function () { $header.removeClass('alt'); },
@@ -216,9 +212,7 @@
         window.setTimeout(function () {
           $window.triggerHandler('scroll');
         }, 100);
-
       });
-
     }
 
     // Banner.
@@ -232,15 +226,11 @@
 
       // Image.
       if ($image.length > 0) {
-
         // Set image.
         $this.css('background-image', 'url(' + $img.attr('src') + ')');
-
         // Hide original.
         $image.hide();
-
       }
-
     });
 
     // Menu.
@@ -378,14 +368,11 @@
       });
 
       let audioPeak = [];
-
       for (let i = 0; i < 100; i++) {
-        const randomNum = Math.floor(Math.random() * 1000) / 1000
+        const randomNum = Math.floor(Math.random() * 1000) / 1000;
         audioPeak.push(randomNum);
       }
-
-      // wavesurfer.load('../../assets/audio/mencari-sakinah/makna-sakinah.mp3');
-      wavesurfer.load(document.querySelector(audioId), audioPeak);
+      wavesurfer.load(document.querySelector(audioId), audioPeak, false);
 
       const formatTime = function (time) {
         return [

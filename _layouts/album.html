@@ -55,7 +55,7 @@
                 </a>
                 <p>{{ post.content }}</p>
                 <div id="waveform-{{ index }}" class="js-waveform">
-                  <audio id="audio-{{ index }}" style="display: none" preload="false" src="{{ site.baseurl }}/{{ post.audio }}"></audio>
+                  <audio id="audio-{{ index }}" style="display: none" preload="none" src="{{ site.baseurl }}/{{ post.audio }}"></audio>
                 </div>
                 <div class="controls">
                   <button id="button-{{ index }}" class="btn btn-primary js-audio-button" data-action="play" data-current="play">
