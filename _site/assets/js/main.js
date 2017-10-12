@@ -338,6 +338,7 @@
 
   const audio = $('.js-waveform');
   if (audio.length !== 0) {
+    const audioLoaded = {};
     $('.js-waveform').each(function (index, element) {
       index += 1;
       const audioId = `#audio-${index}`;
@@ -353,6 +354,15 @@
       });
 
       document.querySelector(buttonId).addEventListener('click', function (e) {
+        if (audioLoaded[index] === undefined) {
+          let audioPeak = [];
+          for (let i = 0; i < 100; i++) {
+            const randomNum = Math.floor(Math.random() * 1000) / 1000;
+            audioPeak.push(randomNum);
+          }
+          wavesurfer.load(document.querySelector(audioId), audioPeak);
+          audioLoaded[index] = true;
+        }
         wavesurfer.playPause();
 
         const icon = document.createElement('i');
@@ -366,13 +376,6 @@
           $(buttonId).html('Play ').append(icon);
         }
       });
-
-      let audioPeak = [];
-      for (let i = 0; i < 100; i++) {
-        const randomNum = Math.floor(Math.random() * 1000) / 1000;
-        audioPeak.push(randomNum);
-      }
-      wavesurfer.load(document.querySelector(audioId), audioPeak, false);
 
       const formatTime = function (time) {
         return [
