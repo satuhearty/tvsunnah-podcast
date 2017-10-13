@@ -11,8 +11,8 @@
 <div id="main" class="alt">
   <section id="contact-header">
     <div class="inner">
-      <h2 id="content">Give Us A Shout</h2>
-      <p>Use the form below to drop us an email. Old fashioned phone calls work too.</p>
+      <h1 class="underline">Give Us A Shout</h1>
+      <h3>Use the form below to drop us an email. Old fashioned phone calls work too.</h3>
     </div>
   </section>
   <section id="contact">
@@ -46,37 +46,39 @@
           <div class="contact-method">
             <span class="icon alt fa-envelope"></span>
             <h3>Email</h3>
-            <a href="#">{{ site.email }}</a>
+            <a href="mailto:contact@tvsunnahpodcast.com">{{ site.email }}</a>
           </div>
         </section>
         <section>
           <div class="contact-method">
             <span class="icon alt fa-phone"></span>
             <h3>Phone</h3>
-            <span>{{ site.phone }}</span>
+            <a href="tel:+60123076703">{{ site.phone }}</a>
           </div>
         </section>
         <section>
           <div class="contact-method">
             <span class="icon alt fa-home"></span>
             <h3>Address</h3>
-            <span>
-              {% if site.street_address %}
-                {{ site.street_address }}<br />
-              {% endif %}
-              {% if site.city %}
-                {{ site.city }},
-              {% endif %}
-              {% if site.state %}
-                {{ site.state }}
-              {% endif %}
-              {% if site.zip_code %}
-                {{ site.zip_code }}<br />
-              {% endif %}
-              {% if site.country %}
-                {{ site.country }}
-              {% endif %}
+            <a href="https://goo.gl/maps/UzbPv1dyWDo" target="_blank">
+              <span>
+                {% if site.street_address %}
+                  {{ site.street_address }}<br />
+                {% endif %}
+                {% if site.city %}
+                  {{ site.city }},
+                {% endif %}
+                {% if site.state %}
+                  {{ site.state }}
+                {% endif %}
+                {% if site.zip_code %}
+                  {{ site.zip_code }}<br />
+                {% endif %}
+                {% if site.country %}
+                  {{ site.country }}
+                {% endif %}
             </span>
+            </a>
           </div>
         </section>
       </section>

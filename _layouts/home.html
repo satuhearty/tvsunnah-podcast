@@ -6,45 +6,40 @@
 
 <body>
 
-    {% include header.html %}
+{% include header.html %}
 
-    <!-- Banner -->
-    <section id="banner" class="major">
-        <div class="inner">
-            <header class="major">
-                <h1>{{ page.landing-title }}</h1>
-            </header>
-            <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
-                <ul class="actions">
-                    <li><a href="{{ site.baseurl }}/podcast/" class="button next scrolly">Get Started</a></li>
-                </ul>
-            </div>
-        </div>
-    </section>
-
-    <!-- Main -->
-    <div id="main">
-
-        <!-- One -->
-        {% include tiles.html %}
-
-        <!-- Two -->
-        <section id="two">
-            <div class="inner">
-                <header class="major">
-                    <h2>About Us</h2>
-                </header>
-                <p>{{ content }}</p>
-                <ul class="actions">
-                    <li><a href="{{ site.baseurl }}/podcast/" class="button next">Get Started</a></li>
-                </ul>
-            </div>
-        </section>
-
+<section id="banner" class="major">
+  <div class="inner">
+    <header class="major">
+      <h1>{{ page.landing-title }}</h1>
+    </header>
+    <div class="content">
+      <p style="text-transform: uppercase;">{{ site.description }}</p>
+      <ul class="actions">
+        <li><a href="{{ site.baseurl }}/podcast/" class="button next scrolly">Get Started</a></li>
+      </ul>
     </div>
+  </div>
+</section>
 
-    {% include footer.html %}
+<div id="main">
+
+  {% include tiles.html %}
+
+  <section id="two">
+    <div class="inner">
+      <header class="major">
+        <h2>About Us</h2>
+      </header>
+      <p>{{ content }}</p>
+      <ul class="actions">
+        <li><a href="{{ site.baseurl }}/about/" class="button next">Learn More</a></li>
+      </ul>
+    </div>
+  </section>
+</div>
+
+{% include footer.html %}
 
 </body>
 
