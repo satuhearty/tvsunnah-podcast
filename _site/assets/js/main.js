@@ -393,11 +393,13 @@
     });
   }
 
-  const masonryGrid = $('.grid');
-  if (masonryGrid.length !== 0) {
-    $('.grid').masonry({
-      itemSelector: '.grid-item',
-      horizontalOrder: true
-    });
-  }
+  $(window).load(() => {
+    const masonryGrid = $('.grid');
+    if (masonryGrid.length !== 0) {
+      $('.grid').masonry({
+        itemSelector: '.grid-item',
+        horizontalOrder: true
+      });
+    }
+  });
 })(jQuery);
