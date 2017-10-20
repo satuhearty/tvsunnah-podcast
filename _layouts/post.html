@@ -13,11 +13,17 @@
   {% endif %}
 {% endfor %}
 
+{% for podcast in site.data.podcasts %}
+  {% if podcast.podcast_id == page.podcast %}
+    {% assign podcast = podcast %}
+  {% endif %}
+{% endfor %}
+
 <div id="main" class="alt">
   <section id="one">
     <div class="inner">
       {% if page.image %}
-        <div class="header-image" style="background: url({{ site.baseurl }}/{{ page.image }}) no-repeat center top; background-size: 100% auto;">
+        <div class="header-image" style="background: url({{ site.baseurl }}/{{ podcast.cover_image }}) no-repeat center top; background-size: 100% auto;">
           <h2 class="header-title">{{ page.album }}</h2>
         </div>
       {% endif %}
