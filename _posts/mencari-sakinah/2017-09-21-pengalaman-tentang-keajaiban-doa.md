@@ -9,6 +9,5 @@ speaker_id: drmaza
 podcast: mencari-sakinah
 permalink: podcast/mencari-sakinah/:title
 image: assets/images/pic01.jpg
----
-
-Pengalaman Dr. Asri tentang keajaiban doa. 
+description: Pengalaman Dr. Asri tentang keajaiban doa. 
+--- 

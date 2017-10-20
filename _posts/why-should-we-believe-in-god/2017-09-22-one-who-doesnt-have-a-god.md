@@ -9,6 +9,5 @@ speaker_id: yusufestes
 podcast: why-should-we-believe-in-god
 permalink: podcast/why-should-we-believe-in-god/:title
 image: assets/images/pic03.jpg
+description: Yusuf Estes explaining his own personal experience about people who do not believe in God.
 ---
-
-Yusuf Estes explaining his own personal experience about people who do not believe in God.

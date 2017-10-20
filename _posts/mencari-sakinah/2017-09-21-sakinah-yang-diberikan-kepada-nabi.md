@@ -9,7 +9,5 @@ speaker_id: drmaza
 podcast: mencari-sakinah
 permalink: podcast/mencari-sakinah/:title
 image: assets/images/pic01.jpg
+description: Kisah keresahan Abu Bakar RA ketika berhijrah bersama Nabi SAW. 
 ---
-
-
-Kisah keresahan Abu Bakar RA ketika berhijrah bersama Nabi SAW.

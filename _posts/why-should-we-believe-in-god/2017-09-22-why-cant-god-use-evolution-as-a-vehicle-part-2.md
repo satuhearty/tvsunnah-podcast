@@ -9,6 +9,5 @@ speaker_id: yusufestes
 podcast: why-should-we-believe-in-god
 permalink: podcast/why-should-we-believe-in-god/:title
 image: assets/images/pic03.jpg
+description: Explaining why evolution is not true.
 ---
-
-Explaining why evolution is not true.

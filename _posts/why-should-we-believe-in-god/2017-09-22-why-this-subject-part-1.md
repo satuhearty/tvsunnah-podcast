@@ -9,6 +9,5 @@ speaker_id: yusufestes
 podcast: why-should-we-believe-in-god
 permalink: podcast/why-should-we-believe-in-god/:title
 image: assets/images/pic03.jpg
+description: Why does this subject matter? Yusuf Estes explains why this subject is such crucial for every human being.
 ---
-
-Why does this subject matter? Yusuf Estes explains why this subject is such crucial for every human being.

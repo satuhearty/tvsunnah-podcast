@@ -13,7 +13,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <atom:link href="http://localhost:4000/feed/" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000</link>
         <description>If you’re new to TVSunnah Podcast, we’ve got a lot of podcasts for you!</description>
-        <lastBuildDate>Fri, 13 Oct 2017 02:22:25 -0400</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2017 01:44:47 -0400</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -125,11 +125,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     
                     <guid isPermaLink="true">http://localhost:4000/podcast/loon-a-tick/islamic-university-malaysia</guid>
                     <description>
-                        <![CDATA[Loon’s talk about his journey to Islam at Islamic University Malaysia.
+                        <![CDATA[
 ]]>
                     </description>
                     <content:encoded>
-                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic04.jpg" /><p>Loon’s talk about his journey to Islam at Islamic University Malaysia.</p>
+                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic04.jpg" />
 ]]>
                     </content:encoded>
                 </item>
@@ -145,11 +145,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     
                     <guid isPermaLink="true">http://localhost:4000/podcast/loon-a-tick/nottingham-university-malaysia</guid>
                     <description>
-                        <![CDATA[Loon’s talk about his experience as a Muslim.
+                        <![CDATA[
 ]]>
                     </description>
                     <content:encoded>
-                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic04.jpg" /><p>Loon’s talk about his experience as a Muslim.</p>
+                        <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/pic04.jpg" />
 ]]>
                     </content:encoded>
                 </item>

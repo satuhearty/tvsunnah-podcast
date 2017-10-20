@@ -66,6 +66,7 @@ img {
 
   &-title {
     font-size: 1.5rem;
+    text-transform: uppercase;
   }
 
   &-subtitle {
@@ -74,7 +75,7 @@ img {
 
   &-title,
   &-subtitle {
-    background-color: _palette(bg);
+    background-color: #757C98;
     color: _palette(fg);
     padding: .5em 1.2em;
     line-height: 1;

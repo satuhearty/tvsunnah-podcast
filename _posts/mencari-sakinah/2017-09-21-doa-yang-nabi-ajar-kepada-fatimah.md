@@ -9,6 +9,5 @@ speaker_id: drmaza
 podcast: mencari-sakinah
 permalink: podcast/mencari-sakinah/:title
 image: assets/images/pic01.jpg
----
-
-Antara doa yang diajarkan oleh Nabi SAW ketika ditimpa musibah. 
+description: Antara doa yang diajarkan oleh Nabi SAW ketika ditimpa musibah.
+--- 

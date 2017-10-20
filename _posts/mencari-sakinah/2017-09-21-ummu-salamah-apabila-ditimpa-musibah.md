@@ -9,6 +9,5 @@ speaker_id: drmaza
 podcast: mencari-sakinah
 permalink: podcast/mencari-sakinah/:title
 image: assets/images/pic01.jpg
----
-
-Kecekalan Ummu Salamah apabila kehilangan suaminya dan Allah gantikan dengan yang lebih baik darinya. 
+description: Kecekalan Ummu Salamah apabila kehilangan suaminya dan Allah gantikan dengan yang lebih baik darinya. 
+--- 

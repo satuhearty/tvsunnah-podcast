@@ -1,0 +1,16 @@
+.album-title {
+  text-transform: uppercase;
+}
+
+.audio {
+  &-title {
+    margin: 0;
+  }
+  &-description {
+    margin: 0;
+  }
+}
+
+.speaker-description {
+  padding: 20px;
+}

@@ -9,6 +9,5 @@ speaker_id: yusufestes
 podcast: why-should-we-believe-in-god
 permalink: podcast/why-should-we-believe-in-god/:title
 image: assets/images/pic03.jpg
+description: Where to go to learn more about this?
 ---
-
-Where to go to learn more about this?

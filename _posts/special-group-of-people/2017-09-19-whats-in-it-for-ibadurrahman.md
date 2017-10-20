@@ -9,6 +9,5 @@ speaker_id: nak
 podcast: special-group-of-people
 permalink: podcast/special-group-of-people/:title
 image: assets/images/pic02.jpg
+description: What are the benefits of being one of the people who are in the special group? 
 ---
-
-What are the benefits of being one of the people who are in the special group?

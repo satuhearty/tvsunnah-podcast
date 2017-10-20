@@ -9,6 +9,5 @@ speaker_id: drmaza
 podcast: mencari-sakinah
 permalink: podcast/mencari-sakinah/:title
 image: assets/images/pic01.jpg
----
-
-Bagaimana kita boleh berusaha untuk melihat dunia dari dimensi akhirat (Bahagian 1). 
+description: Bagaimana kita boleh berusaha untuk melihat dunia dari dimensi akhirat (Bahagian 1). 
+--- 

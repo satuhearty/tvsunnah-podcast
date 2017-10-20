@@ -135,22 +135,12 @@
 
     $tiles.each(function () {
 
-      var $this = $(this),
-        $image = $this.find('.image'), $img = $image.find('img'),
-        $link = $this.find('.link'),
-        x;
+      var $this = $(this), $link = $this.find('.link');
 
       // Image.
 
       // Set image.
-      $this.css('background-image', 'url(' + $img.attr('src') + ')');
-
-      // Set position.
-      if (x = $img.data('position'))
-        $image.css('background-position', x);
-
-      // Hide original.
-      $image.hide();
+      $this.css('background-image', 'url(' + $this.data('image') + ')');
 
       // Link.
       if ($link.length > 0) {

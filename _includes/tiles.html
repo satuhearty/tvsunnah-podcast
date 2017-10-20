@@ -6,10 +6,7 @@
           {% assign speaker = speaker %}
         {% endif %}
       {% endfor %}
-      <article>
-        <span class="image">
-          <img src="{{ podcast.image }}" alt="" />
-        </span>
+      <article data-image="{{ podcast.cover_image }}">
         <header class="major">
           <h3><a href="{{ podcast.url  | relative_url }}" class="link">{{ podcast.title }}</a></h3>
           <p>{{ speaker.name }}</p>

@@ -16,7 +16,7 @@
     <div class="content">
       <p style="text-transform: uppercase;">{{ site.description }}</p>
       <ul class="actions">
-        <li><a href="{{ site.baseurl }}/podcast/" class="button next scrolly">Get Started</a></li>
+        <li><a href="{{ site.baseurl }}/podcast/" class="button next scrolly">View Podcasts</a></li>
       </ul>
     </div>
   </div>
@@ -28,13 +28,24 @@
 
   <section id="two">
     <div class="inner">
-      <header class="major">
-        <h2>About Us</h2>
-      </header>
-      <p>{{ content }}</p>
-      <ul class="actions">
-        <li><a href="{{ site.baseurl }}/about/" class="button next">Learn More</a></li>
-      </ul>
+      <div class="row">
+        <div class="9u 12u$(small)">
+          <header class="major">
+            <h2>About Us</h2>
+          </header>
+          <p>{{ content }}</p>
+          <ul class="actions">
+            <li><a href="{{ site.baseurl }}/about/" class="button next">Learn More</a></li>
+          </ul>
+        </div>
+        <div class="3u 12u$(small)">
+          <header>
+            <h3>Sponsored by</h3>
+          </header>
+          <img src="{{ site.baseurl }}/assets/images/satuhearty.jpg" />
+          <a target="_blank" href="http://satuhearty.com" class="button next sponsor">Visit Website</a>
+        </div>
+      </div>
     </div>
   </section>
 </div>

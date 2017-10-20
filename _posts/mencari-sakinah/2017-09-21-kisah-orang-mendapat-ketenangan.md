@@ -9,6 +9,5 @@ speaker_id: drmaza
 podcast: mencari-sakinah
 permalink: podcast/mencari-sakinah/:title
 image: assets/images/pic01.jpg
----
-
-Kisah benar tentang orang yang mendapat sakinah. 
+description: Kisah benar tentang orang yang mendapat sakinah.
+--- 

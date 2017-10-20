@@ -18,7 +18,7 @@
     <div class="inner">
       {% if page.image %}
         <div class="header-image" style="background: url({{ site.baseurl }}/{{ page.image }}) no-repeat center top; background-size: 100% auto;">
-          <span class="header-title">{{ page.album }}</span>
+          <h2 class="header-title">{{ page.album }}</h2>
         </div>
       {% endif %}
       <section class="spotlights post">
@@ -32,12 +32,11 @@
           </div>
           <div class="content">
             <div class="inner">
-              <header class="major">
-                <h2>{{ page.title }}</h2>
-              </header>
-              <h3>{{ page.date | date: "%b %d, %Y" }}</h3>
+              <h2 class="audio-title">{{ page.title }}</h2>
+              <p class="audio-description">{{ page.description }}</p>
+              <p>{{ page.date | date: "%b %d, %Y" }}</p>
               <div id="waveform-1" class="js-waveform">
-                <audio id="audio-1" style="display: none" preload="false" src="{{ site.baseurl }}/{{ page.audio }}"></audio>
+                <audio id="audio-1" style="display: none" preload="none" src="" data-audio="{{ site.baseurl }}/{{ page.audio }}"></audio>
               </div>
               <div class="controls">
                 <button id="button-1" class="btn btn-primary js-audio-button" data-action="play" data-current="play">

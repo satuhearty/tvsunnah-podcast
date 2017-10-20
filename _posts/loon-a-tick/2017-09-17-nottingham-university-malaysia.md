@@ -9,6 +9,5 @@ speaker_id: loon
 podcast: loon-a-tick
 permalink: podcast/loon-a-tick/:title
 image: assets/images/pic04.jpg
+description: Loon's talk about his experience as a Muslim. 
 ---
-
-Loon's talk about his experience as a Muslim.

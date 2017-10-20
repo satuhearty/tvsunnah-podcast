@@ -20,13 +20,13 @@
   {% endif %}
 {% endfor %}
 
-<section id="banner" class="{{ podcast.style }}">
+<section id="banner">
   <div class="inner">
     <span class="image">
-      <img src="{{ site.baseurl }}/{{ podcast.image }}" alt="">
+      <img src="{{ site.baseurl }}/{{ podcast.cover_image }}" alt="">
     </span>
     <header class="major">
-      <h1>{{ podcast.title }}</h1>
+      <h1 class="album-title">{{ podcast.title }}</h1>
     </header>
     <div class="content">
       {{ podcast.description }}
@@ -51,9 +51,10 @@
             {% if post.podcast == page.podcast_id %}
               <div class="inner">
                 <a href="{{ post.id  | relative_url }}">
-                  <h3>{{ index }}. {{ post.title }}</h3>
+                  <h2 class="audio-title">#{{ index }} {{ post.title }}</h2>
                 </a>
-                <p>{{ post.content }}</p>
+                <p class="audio-description">{{ post.description }}</p>
+                <p>{{ post.date | date: "%b %d, %Y" }}</p>
                 <div id="waveform-{{ index }}" class="js-waveform">
                   <audio id="audio-{{ index }}" style="display: none" preload="none" src="" data-audio="{{ site.baseurl }}/{{ post.audio }}"></audio>
                 </div>

@@ -9,6 +9,5 @@ speaker_id: nak
 podcast: special-group-of-people
 permalink: podcast/special-group-of-people/:title
 image: assets/images/pic02.jpg
+description: Introduction about the special group of people.
 ---
-
-Introduction about the special group of people.

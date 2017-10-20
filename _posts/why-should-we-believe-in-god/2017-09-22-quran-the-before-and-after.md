@@ -9,6 +9,5 @@ speaker_id: yusufestes
 podcast: why-should-we-believe-in-god
 permalink: podcast/why-should-we-believe-in-god/:title
 image: assets/images/pic03.jpg
+description: Yusuf Estes explaining about the miracles of Quran.
 ---
-
-Yusuf Estes explaining about the miracles of Quran.

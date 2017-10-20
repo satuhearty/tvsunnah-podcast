@@ -9,6 +9,6 @@ speaker_id: nak
 podcast: special-group-of-people
 permalink: podcast/special-group-of-people/:title
 image: assets/images/pic02.jpg
+description: Explanation about the second and third category of people who are special.
 ---
 
-Explanation about the second and third category of people who are special.
