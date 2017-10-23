@@ -19,14 +19,24 @@
   {% endif %}
 {% endfor %}
 
+<section id="banner">
+  <div class="inner">
+    <span class="image">
+      <img src="{{ site.baseurl }}/{{ podcast.cover_image }}" alt="">
+    </span>
+    <header class="major">
+      <h1 class="album-title">{{ podcast.title }}</h1>
+    </header>
+    <div class="content">
+      {{ podcast.description }}
+    </div>
+  </div>
+</section>
+
 <div id="main" class="alt">
   <section id="one">
     <div class="inner">
-      {% if page.image %}
-        <div class="header-image" style="background: url({{ site.baseurl }}/{{ podcast.cover_image }}) no-repeat center top; background-size: 100% auto;">
-          <h2 class="header-title">{{ page.album }}</h2>
-        </div>
-      {% endif %}
+      <h3><a href="{{ site.baseurl }}/podcast/">Podcast</a> &nbsp; / &nbsp; <a href="{{ site.baseurl }}/podcast/{{ podcast.podcast_id }}/">{{ podcast.title }}</a> &nbsp; / &nbsp; {{ page.title }}</h3>
       <section class="spotlights post">
         <section>
           <div class="image">
