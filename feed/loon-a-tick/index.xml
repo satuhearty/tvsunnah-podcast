@@ -1,7 +1,8 @@
 ---
-layout: null
-permalink: podcast/mencari-sakinah/feed/
+podcast_id: loon-a-tick
+permalink: podcast/loon-a-tick/feed/
 ---
+
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 xmlns:content="http://purl.org/rss/1.0/modules/content/"
 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -9,19 +10,47 @@ xmlns:dc="http://purl.org/dc/elements/1.1/"
 xmlns:atom="http://www.w3.org/2005/Atom"
 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 >
 
+    {% for podcast in site.data.podcasts %}
+        {% if podcast.podcast_id == page.podcast_id %}
+            {% assign podcast = podcast %}
+        {% endif %}
+    {% endfor %}
+
+    {% for speaker in site.data.speakers %}
+        {% if speaker.speaker_id == podcast.speaker_id %}
+            {% assign speaker = speaker %}
+        {% endif %}
+    {% endfor %}
+
     <channel>
-        <title>{{ site.name }}</title>
-        <atom:link href="{{ site.url }}/feed/" rel="self" type="application/rss+xml" />
-        <link>{{ site.url }}</link>
-        <description>{{ site.description }}</description>
+        <title>{{ podcast.title }}</title>
+        <atom:link href="{{ site.baseurl }}/{{ page.permalink }}" rel="self" type="application/rss+xml" />
+        <link>{{ site.baseurl }}</link>
+        <description>Bringing You The World of Sunnah</description>
         <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
         <generator>http://jekyllrb.com/</generator>
+        <itunes:summary>{{ podcast.description }}</itunes:summary>
+        <itunes:author>{{ speaker.name }}</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="{{ site.baseurl }}/{{ podcast.image }}" />
+        <itunes:owner>
+            <itunes:name>{{ site.podcast_owner }}</itunes:name>
+            <itunes:email>{{ site.podcast_email }}</itunes:email>
+        </itunes:owner>
+        <managingEditor>{{ site.podcast_email }} ({{ site.podcast_owner }})</managingEditor>
+        <itunes:subtitle>{{ podcast.description }}</itunes:subtitle>
+        <image>
+            <title>{{ podcast.title }}</title>
+            <url>{{ site.baseurl }}/</url>
+            <link>{{ site.baseurl }} </link>
+        </image>
         {% for post in site.posts %}
             {% if post.podcast == 'loon-a-tick' %}
                 <item>
@@ -45,7 +74,5 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                 </item>
             {% endif %}
         {% endfor %}
-
     </channel>
-
 </rss>
