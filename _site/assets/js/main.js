@@ -382,7 +382,7 @@
       // Show current time
       wavesurfer.on('audioprocess', function () {
         $(counterId).text(formatTime(wavesurfer.getCurrentTime()));
-        $(durationId).text(formatTime(wavesurfer.getCurrentTime() - wavesurfer.getDuration()));
+        $(durationId).text('-' + formatTime(wavesurfer.getDuration() - wavesurfer.getCurrentTime()));
       });
 
       // Show clip duration
