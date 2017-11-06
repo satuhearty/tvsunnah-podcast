@@ -8,6 +8,9 @@ album: Mencari Sakinah
 speaker_id: drmaza
 podcast: mencari-sakinah
 permalink: podcast/mencari-sakinah/:title
-image: assets/images/pic01.jpg
+image: assets/images/podcasts/mencari-sakinah/album-picture-small.jpg
 description: Bagaimana kita boleh berusaha untuk melihat dunia dari dimensi akhirat (Bahagian 2). 
+podcast_file_size: 4.61 MB
+podcast_duration: "07:30"
+podcast_length: 4612078
 --- 

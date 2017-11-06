@@ -8,7 +8,10 @@ album: Special Group of People
 speaker_id: nak
 podcast: special-group-of-people
 permalink: podcast/special-group-of-people/:title
-image: assets/images/pic02.jpg
+image: assets/images/podcasts/special-group-of-people/album-picture-small.jpg
 description: Explanation about the second and third category of people who are special.
+podcast_file_size: 3.48 MB
+podcast_duration: "06:24"
+podcast_length: 3483926
 ---
 

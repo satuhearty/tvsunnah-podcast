@@ -8,6 +8,9 @@ album: The Shade of The Day of Judgement
 speaker_id: muftimenk
 podcast: the-shade-of-the-day-of-judgement
 permalink: podcast/the-shade-of-the-day-of-judgement/:title
-image: assets/images/pic0.jpg
+image: assets/images/podcasts/the-shade-of-the-day-of-judgement/album-picture-small.jpg
 description: Who gets the shade on the day of judgement?
+podcast_file_size: 28.43 MB
+podcast_duration: "58:16"
+podcast_length: 28427531
 ---

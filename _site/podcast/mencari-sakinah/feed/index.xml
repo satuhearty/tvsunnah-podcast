@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+>
+
+    
+
+    
+
+    <channel>
+        <title>Mencari Sakinah</title>
+        <atom:link href="/tvsunnah-podcast/podcast/mencari-sakinah/feed/" rel="self" type="application/rss+xml" />
+        <link>http://localhost:4000/podcast/mencari-sakinah</link>
+        <description>Bringing You The World of Sunnah</description>
+        <lastBuildDate>Sun, 05 Nov 2017 22:24:22 -0500</lastBuildDate>
+        <language>en-US</language>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+        <generator>http://jekyllrb.com/</generator>
+        <itunes:summary>Ceramah yang telah diadakan pada pagi 1 Nov 2009. Dr Mohd Asri ditangkap JAIS pada malamnya. Ceramah ini diadakan Kelana Jaya atas jemputan Badan Kebajikan Islam Kelana Jaya.</itunes:summary>
+        <itunes:author>Dr. Mohd Asri Zainul Abidin</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+        <itunes:owner>
+            <itunes:name>TVSunnah Podcast</itunes:name>
+            <itunes:email>contact@tvsunnahpodcast.com</itunes:email>
+        </itunes:owner>
+        <managingEditor>contact@tvsunnahpodcast.com (TVSunnah Podcast)</managingEditor>
+        <itunes:subtitle>Ceramah yang telah diadakan pada pagi 1 Nov 2009. Dr Mohd Asri ditangkap JAIS pada malamnya. Ceramah ini diadakan Kelana Jaya atas jemputan Badan Kebajikan Islam Kelana Jaya.</itunes:subtitle>
+        <image>
+            <title>Mencari Sakinah</title>
+            <url>/tvsunnah-podcast/</url>
+            <link>/tvsunnah-podcast </link>
+        </image>
+        <itunes:category text="Faith" />
+        <itunes:category text="Islam" />
+        <itunes:category text="Religion" />
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <item>
+            <title>Makna Sakinah</title>
+            <link>http://localhost:4000/podcast/mencari-sakinah/makna-sakinah</link>
+            <pubDate>Thu, 21 Sep 2017 23:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/makna-sakinah</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/makna-sakinah.mp3" length="3620014" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Makna Sakinah]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Huraian tentang makna perkataan sakinah dalam bahasa Arab.]]></itunes:summary>
+            <itunes:author>Dr. Mohd Asri Zainul Abidin</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>05:26</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Salah Sangka Tentang Ketenangan Dalam Hidup</title>
+            <link>http://localhost:4000/podcast/mencari-sakinah/salah-sangka-tentang-ketenangan-dalam-hidup</link>
+            <pubDate>Thu, 21 Sep 2017 22:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/salah-sangka-tentang-ketenangan-dalam-hidup</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/salah-sangka-tentang-ketenangan-dalam-hidup.mp3" length="3892078" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Salah Sangka Tentang Ketenangan Dalam Hidup]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Adakah harta mampu memberi ketenangan dalam hidup?]]></itunes:summary>
+            <itunes:author>Dr. Mohd Asri Zainul Abidin</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>06:00</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Sakinah Yang Diberikan Kepada Nabi SAW &amp; Abu Bakar RA</title>
+            <link>http://localhost:4000/podcast/mencari-sakinah/sakinah-yang-diberikan-kepada-nabi</link>
+            <pubDate>Thu, 21 Sep 2017 21:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/sakinah-yang-diberikan-kepada-nabi</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/sakinah-yang-diberikan-kepada-nabi.mp3" length="5380078" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Sakinah Yang Diberikan Kepada Nabi SAW &amp; Abu Bakar RA]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Kisah keresahan Abu Bakar RA ketika berhijrah bersama Nabi SAW.]]></itunes:summary>
+            <itunes:author>Dr. Mohd Asri Zainul Abidin</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>09:06</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Tawakkal</title>
+            <link>http://localhost:4000/podcast/mencari-sakinah/tawakkal</link>
+            <pubDate>Thu, 21 Sep 2017 20:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/tawakkal</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/tawakkal.mp3" length="2788078" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Tawakkal]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Huraian tentang Tawakkal dan kaitannya dengan sakinah.]]></itunes:summary>
+            <itunes:author>Dr. Mohd Asri Zainul Abidin</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>03:42</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Doa Yang Nabi SAW Ajar Kepada Fatimah RA</title>
+            <link>http://localhost:4000/podcast/mencari-sakinah/doa-yang-nabi-ajar-kepada-fatimah</link>
+            <pubDate>Thu, 21 Sep 2017 19:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/doa-yang-nabi-ajar-kepada-fatimah</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/doa-yang-nabi-ajar-kepada-fatimah.mp3" length="2636206" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Doa Yang Nabi SAW Ajar Kepada Fatimah RA]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Antara doa yang diajarkan oleh Nabi SAW ketika ditimpa musibah.]]></itunes:summary>
+            <itunes:author>Dr. Mohd Asri Zainul Abidin</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>03:23</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Ummu Salamah Apabila Ditimpa Musibah</title>
+            <link>http://localhost:4000/podcast/mencari-sakinah/ummu-salamah-apabila-ditimpa-musibah</link>
+            <pubDate>Thu, 21 Sep 2017 18:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/ummu-salamah-apabila-ditimpa-musibah</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/ummu-salamah-apabila-ditimpa-musibah.mp3" length="2988142" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Ummu Salamah Apabila Ditimpa Musibah]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Kecekalan Ummu Salamah apabila kehilangan suaminya dan Allah gantikan dengan yang lebih baik darinya.]]></itunes:summary>
+            <itunes:author>Dr. Mohd Asri Zainul Abidin</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>04:07</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Pengalaman Tentang Keajaiban Doa</title>
+            <link>http://localhost:4000/podcast/mencari-sakinah/pengalaman-tentang-keajaiban-doa</link>
+            <pubDate>Thu, 21 Sep 2017 17:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/pengalaman-tentang-keajaiban-doa</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/pengalaman-tentang-keajaiban-doa.mp3" length="2340142" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Pengalaman Tentang Keajaiban Doa]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Pengalaman Dr. Asri tentang keajaiban doa.]]></itunes:summary>
+            <itunes:author>Dr. Mohd Asri Zainul Abidin</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>02:46</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Kisah Orang Yang Mendapat Ketenangan</title>
+            <link>http://localhost:4000/podcast/mencari-sakinah/kisah-orang-mendapat-ketenangan</link>
+            <pubDate>Thu, 21 Sep 2017 16:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/kisah-orang-mendapat-ketenangan</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/kisah-orang-mendapat-ketenangan.mp3" length="4388014" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Kisah Orang Yang Mendapat Ketenangan]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Kisah benar tentang orang yang mendapat sakinah.]]></itunes:summary>
+            <itunes:author>Dr. Mohd Asri Zainul Abidin</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>07:02</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Apabila Insan Melihat Dunia Dari Dimensi Akhirat Bahagian 1</title>
+            <link>http://localhost:4000/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-1</link>
+            <pubDate>Thu, 21 Sep 2017 15:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-1</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-1.mp3" length="3964270" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Apabila Insan Melihat Dunia Dari Dimensi Akhirat Bahagian 1]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Bagaimana kita boleh berusaha untuk melihat dunia dari dimensi akhirat (Bahagian 1).]]></itunes:summary>
+            <itunes:author>Dr. Mohd Asri Zainul Abidin</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>06:09</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Apabila Insan Melihat Dunia Dari Dimensi Akhirat Bahagian 2</title>
+            <link>http://localhost:4000/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-2</link>
+            <pubDate>Thu, 21 Sep 2017 14:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-2</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-2.mp3" length="4612078" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Apabila Insan Melihat Dunia Dari Dimensi Akhirat Bahagian 2]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Bagaimana kita boleh berusaha untuk melihat dunia dari dimensi akhirat (Bahagian 2).]]></itunes:summary>
+            <itunes:author>Dr. Mohd Asri Zainul Abidin</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>07:30</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Syukur Bahagian 1</title>
+            <link>http://localhost:4000/podcast/mencari-sakinah/syukur-bahagian-1</link>
+            <pubDate>Thu, 21 Sep 2017 13:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/syukur-bahagian-1</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/syukur-bahagian-1.mp3" length="4380142" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Syukur Bahagian 1]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Makna Syukur dan kaitannya dengan sakinah (Bahagian 1).]]></itunes:summary>
+            <itunes:author>Dr. Mohd Asri Zainul Abidin</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>07:01</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Syukur Bahagian 2</title>
+            <link>http://localhost:4000/podcast/mencari-sakinah/syukur-bahagian-2</link>
+            <pubDate>Thu, 21 Sep 2017 12:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/syukur-bahagian-2</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/syukur-bahagian-2.mp3" length="4108078" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Syukur Bahagian 2]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Makna Syukur dan kaitannya dengan sakinah (Bahagian 2).]]></itunes:summary>
+            <itunes:author>Dr. Mohd Asri Zainul Abidin</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>06:27</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Doa Dalam Bahasa Selain Bahasa Arab</title>
+            <link>http://localhost:4000/podcast/mencari-sakinah/doa-dalam-bahasa-selain-bahasa-arab</link>
+            <pubDate>Thu, 21 Sep 2017 11:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/doa-dalam-bahasa-selain-bahasa-arab</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/doa-dalam-bahasa-selain-bahasa-arab.mp3" length="4748206" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Doa Dalam Bahasa Selain Bahasa Arab]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Soalan daripada salah seorang jemaah tentang hukum berdoa dalam bahasa selain bahasa arab ketika solat.]]></itunes:summary>
+            <itunes:author>Dr. Mohd Asri Zainul Abidin</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>07:47</itunes:duration>
+        </item>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </channel>
+</rss>

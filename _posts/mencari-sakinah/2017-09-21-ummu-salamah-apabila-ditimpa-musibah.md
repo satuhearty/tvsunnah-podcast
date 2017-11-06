@@ -8,6 +8,9 @@ album: Mencari Sakinah
 speaker_id: drmaza
 podcast: mencari-sakinah
 permalink: podcast/mencari-sakinah/:title
-image: assets/images/pic01.jpg
+image: assets/images/podcasts/mencari-sakinah/album-picture-small.jpg
 description: Kecekalan Ummu Salamah apabila kehilangan suaminya dan Allah gantikan dengan yang lebih baik darinya. 
+podcast_file_size: 2.99 MB
+podcast_duration: "04:07"
+podcast_length: 2988142
 --- 

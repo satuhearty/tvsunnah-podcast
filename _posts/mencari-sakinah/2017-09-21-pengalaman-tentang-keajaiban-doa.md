@@ -8,6 +8,9 @@ album: Mencari Sakinah
 speaker_id: drmaza
 podcast: mencari-sakinah
 permalink: podcast/mencari-sakinah/:title
-image: assets/images/pic01.jpg
+image: assets/images/podcasts/mencari-sakinah/album-picture-small.jpg
 description: Pengalaman Dr. Asri tentang keajaiban doa. 
+podcast_file_size: 2.34 MB
+podcast_duration: "02:46"
+podcast_length: 2340142
 --- 

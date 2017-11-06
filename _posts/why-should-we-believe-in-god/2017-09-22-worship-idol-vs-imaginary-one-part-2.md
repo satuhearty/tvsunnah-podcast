@@ -8,6 +8,9 @@ album: Why Should We Believe In God
 speaker_id: yusufestes
 podcast: why-should-we-believe-in-god
 permalink: podcast/:categories/:title
-image: assets/images/why-should-we-believe-in-god
+image: assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg
 description: Where to go to learn more about this?
+podcast_file_size: 2.94 MB
+podcast_duration: "06:07"
+podcast_length: 2935420
 ---

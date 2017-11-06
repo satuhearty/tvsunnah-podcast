@@ -8,6 +8,9 @@ album: Mencari Sakinah
 speaker_id: drmaza
 podcast: mencari-sakinah
 permalink: podcast/mencari-sakinah/:title
-image: assets/images/pic01.jpg
+image: assets/images/podcasts/mencari-sakinah/album-picture-small.jpg
 description: Makna Syukur dan kaitannya dengan sakinah (Bahagian 1). 
+podcast_file_size: 4.38 MB
+podcast_duration: "07:01"
+podcast_length: 4380142
 --- 

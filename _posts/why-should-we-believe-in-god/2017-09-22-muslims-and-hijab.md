@@ -8,6 +8,9 @@ album: Why Should We Believe In God
 speaker_id: yusufestes
 podcast: why-should-we-believe-in-god
 permalink: podcast/:categories/:title
-image: assets/images/why-should-we-believe-in-god
+image: assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg
 description: Do you think that Muslims need to wear hijab? Think again.
+podcast_file_size: 2.47 MB
+podcast_duration: "05:09"
+podcast_length: 2465963
 ---

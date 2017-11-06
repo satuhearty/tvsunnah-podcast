@@ -8,6 +8,9 @@ album: Mencari Sakinah
 speaker_id: drmaza
 podcast: mencari-sakinah
 permalink: podcast/mencari-sakinah/:title
-image: assets/images/pic01.jpg
+image: assets/images/podcasts/mencari-sakinah/album-picture-small.jpg
 description: Kisah keresahan Abu Bakar RA ketika berhijrah bersama Nabi SAW. 
+podcast_file_size: 5.38 MB
+podcast_duration: "09:06"
+podcast_length: 5380078
 ---

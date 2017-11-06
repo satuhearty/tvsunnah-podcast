@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+>
+
+    
+
+    
+
+    <channel>
+        <title>Why Should We Believe In God</title>
+        <atom:link href="/tvsunnah-podcast/podcast/why-should-we-believe-in-god/feed/" rel="self" type="application/rss+xml" />
+        <link>http://localhost:4000/podcast/why-should-we-believe-in-god</link>
+        <description>Bringing You The World of Sunnah</description>
+        <lastBuildDate>Sun, 05 Nov 2017 22:24:22 -0500</lastBuildDate>
+        <language>en-US</language>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+        <generator>http://jekyllrb.com/</generator>
+        <itunes:summary>Why Should We Believe in God? Sheikh Yusuf Estes, The Malaysian Tour University Malaya Malaysia Nov 2008.</itunes:summary>
+        <itunes:author>Yusuf Estes</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+        <itunes:owner>
+            <itunes:name>TVSunnah Podcast</itunes:name>
+            <itunes:email>contact@tvsunnahpodcast.com</itunes:email>
+        </itunes:owner>
+        <managingEditor>contact@tvsunnahpodcast.com (TVSunnah Podcast)</managingEditor>
+        <itunes:subtitle>Why Should We Believe in God? Sheikh Yusuf Estes, The Malaysian Tour University Malaya Malaysia Nov 2008.</itunes:subtitle>
+        <image>
+            <title>Why Should We Believe In God</title>
+            <url>/tvsunnah-podcast/</url>
+            <link>/tvsunnah-podcast </link>
+        </image>
+        <itunes:category text="Faith" />
+        <itunes:category text="Islam" />
+        <itunes:category text="Religion" />
+        
+        
+        <item>
+            <title>Introduction to Why Should We Believe in God</title>
+            <link>http://localhost:4000/podcast/introduction</link>
+            <pubDate>Fri, 22 Sep 2017 23:59:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/introduction</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/introduction.mp3" length="1080708" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Introduction to Why Should We Believe in God]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Introduction to the topic of "Why Should We Believe In God".]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>02:16</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Why This Subject (Part 1)</title>
+            <link>http://localhost:4000/podcast/why-this-subject-part-1</link>
+            <pubDate>Fri, 22 Sep 2017 23:58:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/why-this-subject-part-1</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/why-this-subject-part-1.mp3" length="3369326" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Why This Subject (Part 1)]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Why does this subject matter? Yusuf Estes explains why this subject is such crucial for every human being.]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>07:02</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Why This Subject (Part 2)</title>
+            <link>http://localhost:4000/podcast/why-this-subject-part-2</link>
+            <pubDate>Fri, 22 Sep 2017 23:57:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/why-this-subject-part-2</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/why-this-subject-part-2.mp3" length="2364782" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Why This Subject (Part 2)]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Why does this subject matter? Yusuf Estes explains why this subject is such crucial for every human being.]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>04:56</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Describing The Undescribable</title>
+            <link>http://localhost:4000/podcast/describing-the-undescribable</link>
+            <pubDate>Fri, 22 Sep 2017 23:56:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/describing-the-undescribable</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/describing-the-undescribable.mp3" length="2477491" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Describing The Undescribable]]></itunes:subtitle>
+            <itunes:summary><![CDATA[How would you describe something that can't be described with human words?]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>05:10</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Challenging The Authority</title>
+            <link>http://localhost:4000/podcast/challenging-the-authority</link>
+            <pubDate>Fri, 22 Sep 2017 23:55:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/challenging-the-authority</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/challenging-the-authority.mp3" length="4474288" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Challenging The Authority]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Revealing the most important question; Why?]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>09:20</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>God &amp; Calamities</title>
+            <link>http://localhost:4000/podcast/god-and-calamities</link>
+            <pubDate>Fri, 22 Sep 2017 23:54:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/god-and-calamities</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/god-and-calamities.mp3" length="4228519" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[God &amp; Calamities]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Is there a loving God when there exists calamities?]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>08:49</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>ID &amp; Evolution Theory</title>
+            <link>http://localhost:4000/podcast/id-and-evolution-theory</link>
+            <pubDate>Fri, 22 Sep 2017 23:53:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/id-and-evolution-theory</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/id-and-evolution-theory.mp3" length="3141804" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[ID &amp; Evolution Theory]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Debunking Darwin's Theory of Evolution.]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>06:33</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Mans Reaction</title>
+            <link>http://localhost:4000/podcast/mans-reaction</link>
+            <pubDate>Fri, 22 Sep 2017 23:52:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/mans-reaction</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/mans-reaction.mp3" length="1962916" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Mans Reaction]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Do researches and scientists really tell the truth about their findings?]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>04:06</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>No Brainer</title>
+            <link>http://localhost:4000/podcast/no-brainer</link>
+            <pubDate>Fri, 22 Sep 2017 23:51:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/no-brainer</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/no-brainer.mp3" length="807073" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[No Brainer]]></itunes:subtitle>
+            <itunes:summary><![CDATA[The No Brainer dialog between Yusuf Estes and an Atheist Professor.]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>01:41</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>No Brainer</title>
+            <link>http://localhost:4000/podcast/throw-out-the-numbers</link>
+            <pubDate>Fri, 22 Sep 2017 23:50:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/throw-out-the-numbers</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/throw-out-the-numbers.mp3" length="807073" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[No Brainer]]></itunes:subtitle>
+            <itunes:summary><![CDATA[What is a billion?]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>01:41</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Qur'an The Before &amp; After</title>
+            <link>http://localhost:4000/podcast/quran-the-before-and-after</link>
+            <pubDate>Fri, 22 Sep 2017 23:49:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/quran-the-before-and-after</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/quran-the-before-and-after.mp3" length="4712360" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Qur'an The Before &amp; After]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Yusuf Estes explaining about the miracles of Quran.]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>09:50</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Do You Have a Better Answer? Benefit of Believing in God</title>
+            <link>http://localhost:4000/podcast/do-you-have-a-better-answer</link>
+            <pubDate>Fri, 22 Sep 2017 23:48:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/do-you-have-a-better-answer</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/do-you-have-a-better-answer.mp3" length="4151760" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Do You Have a Better Answer? Benefit of Believing in God]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Calamities that brings us closer to God.]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>08:39</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>One Who Doesn't Have a God</title>
+            <link>http://localhost:4000/podcast/one-who-doesnt-have-a-god</link>
+            <pubDate>Fri, 22 Sep 2017 23:47:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/one-who-doesnt-have-a-god</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/one-who-doesnt-have-a-god.mp3" length="3387569" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[One Who Doesn't Have a God]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Yusuf Estes explaining his own personal experience about people who do not believe in God.]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>07:04</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Explore on Your Own</title>
+            <link>http://localhost:4000/podcast/explore-on-your-own</link>
+            <pubDate>Fri, 22 Sep 2017 23:46:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/explore-on-your-own</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/explore-on-your-own.mp3" length="1617323" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Explore on Your Own]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Do your own research and explore on your own!]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>03:23</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Islam</title>
+            <link>http://localhost:4000/podcast/islam</link>
+            <pubDate>Fri, 22 Sep 2017 23:45:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/islam</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/islam.mp3" length="1033629" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Islam]]></itunes:subtitle>
+            <itunes:summary><![CDATA[What does ISLAM stands for?]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>02:10</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>The Test &amp; Swedish Experience</title>
+            <link>http://localhost:4000/podcast/the-test-and-swedish-experience</link>
+            <pubDate>Fri, 22 Sep 2017 23:44:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/the-test-and-swedish-experience</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/the-test-and-swedish-experience.mp3" length="2058933" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[The Test &amp; Swedish Experience]]></itunes:subtitle>
+            <itunes:summary><![CDATA[The test that you can try on your own.]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>04:18</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>The Train is Coming</title>
+            <link>http://localhost:4000/podcast/the-train-is-coming</link>
+            <pubDate>Fri, 22 Sep 2017 23:43:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/the-train-is-coming</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/the-train-is-coming.mp3" length="4309355" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[The Train is Coming]]></itunes:subtitle>
+            <itunes:summary><![CDATA[A story that you can try with your kids.]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>08:59</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Muslims &amp; Hijab</title>
+            <link>http://localhost:4000/podcast/muslims-and-hijab</link>
+            <pubDate>Fri, 22 Sep 2017 23:42:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/muslims-and-hijab</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/muslims-and-hijab.mp3" length="2465963" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Muslims &amp; Hijab]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Do you think that Muslims need to wear hijab? Think again.]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>05:09</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Muslims and Beard</title>
+            <link>http://localhost:4000/podcast/muslims-and-beard</link>
+            <pubDate>Fri, 22 Sep 2017 23:41:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/muslims-and-beard</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/muslims-and-beard.mp3" length="1705645" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Muslims and Beard]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Do muslims have to grow beard?]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>03:34</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Conditions of Muslims Today</title>
+            <link>http://localhost:4000/podcast/conditions-of-muslims-today</link>
+            <pubDate>Fri, 22 Sep 2017 23:40:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/conditions-of-muslims-today</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/conditions-of-muslims-today.mp3" length="2335411" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Conditions of Muslims Today]]></itunes:subtitle>
+            <itunes:summary><![CDATA[How is the condition of Muslims today?]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>04:52</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Your coming to Islam</title>
+            <link>http://localhost:4000/podcast/your-coming-to-islam</link>
+            <pubDate>Fri, 22 Sep 2017 23:39:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/your-coming-to-islam</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/your-coming-to-islam.mp3" length="1782448" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Your coming to Islam]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Yusuf Estes explaining his journey to Islam.]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>03:43</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Worship Idol vs imaginary One (Part 1)</title>
+            <link>http://localhost:4000/podcast/worship-idol-vs-imaginary-one-part-1</link>
+            <pubDate>Fri, 22 Sep 2017 23:38:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/worship-idol-vs-imaginary-one-part-1</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/worship-idol-vs-imaginary-one-part-1.mp3" length="2753980" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Worship Idol vs imaginary One (Part 1)]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Where to go to learn more about this?]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>05:45</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Worship Idol vs imaginary One (Part 2)</title>
+            <link>http://localhost:4000/podcast/worship-idol-vs-imaginary-one-part-2</link>
+            <pubDate>Fri, 22 Sep 2017 23:37:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/worship-idol-vs-imaginary-one-part-2</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/worship-idol-vs-imaginary-one-part-2.mp3" length="2935420" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Worship Idol vs imaginary One (Part 2)]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Where to go to learn more about this?]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>06:07</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Evolution and God</title>
+            <link>http://localhost:4000/podcast/evolution-and-god</link>
+            <pubDate>Fri, 22 Sep 2017 23:36:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/evolution-and-god</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/evolution-and-god.mp3" length="4097965" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Evolution and God]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Is evolution true?]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>08:33</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Why cant God use evolution as a vehicle Part 1</title>
+            <link>http://localhost:4000/podcast/why-cant-god-use-evolution-as-a-vehicle-part-1</link>
+            <pubDate>Fri, 22 Sep 2017 23:35:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/why-cant-god-use-evolution-as-a-vehicle-part-1</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/why-cant-god-use-evolution-as-a-vehicle-part-1.mp3" length="2793350" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Why cant God use evolution as a vehicle Part 1]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Explaining why evolution is not true.]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>05:50</itunes:duration>
+        </item>
+        
+        
+        
+        <item>
+            <title>Why cant God use evolution as a vehicle Part 2</title>
+            <link>http://localhost:4000/podcast/why-cant-god-use-evolution-as-a-vehicle-part-2</link>
+            <pubDate>Fri, 22 Sep 2017 23:34:00 +0000</pubDate>
+            <dc:creator><![CDATA[]]></dc:creator>
+            <category><![CDATA[religion]]></category>
+            <category><![CDATA[faith]]></category>
+            <category><![CDATA[islam]]></category>
+            <guid isPermaLink="true">http://localhost:4000/podcast/why-cant-god-use-evolution-as-a-vehicle-part-2</guid>
+            <description>
+                <![CDATA[
+]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+]]>
+            </content:encoded>
+            <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/why-cant-god-use-evolution-as-a-vehicle-part-2.mp3" length="2700422" type="audio/mpeg" />
+            <itunes:subtitle><![CDATA[Why cant God use evolution as a vehicle Part 2]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Explaining why evolution is not true.]]></itunes:summary>
+            <itunes:author>Yusuf Estes</itunes:author>
+            <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>05:38</itunes:duration>
+        </item>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </channel>
+</rss>

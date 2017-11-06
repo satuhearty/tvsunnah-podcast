@@ -8,6 +8,9 @@ album: Mencari Sakinah
 speaker_id: drmaza
 podcast: mencari-sakinah
 permalink: podcast/mencari-sakinah/:title
-image: assets/images/pic01.jpg
+image: assets/images/podcasts/mencari-sakinah/album-picture-small.jpg
 description: Adakah harta mampu memberi ketenangan dalam hidup? 
+podcast_file_size: 3.89 MB
+podcast_duration: "06:00"
+podcast_length: 3892078
 ---

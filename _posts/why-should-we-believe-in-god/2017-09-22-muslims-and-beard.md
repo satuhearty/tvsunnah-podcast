@@ -8,6 +8,9 @@ album: Why Should We Believe In God
 speaker_id: yusufestes
 podcast: why-should-we-believe-in-god
 permalink: podcast/:categories/:title
-image: assets/images/why-should-we-believe-in-god
+image: assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg
 description: Do muslims have to grow beard?
+podcast_file_size: 1.71 MB
+podcast_duration: "03:34"
+podcast_length: 1705645
 ---

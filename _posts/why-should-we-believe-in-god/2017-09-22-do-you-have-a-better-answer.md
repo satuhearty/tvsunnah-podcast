@@ -8,6 +8,9 @@ album: Why Should We Believe In God
 speaker_id: yusufestes
 podcast: why-should-we-believe-in-god
 permalink: podcast/:categories/:title
-image: assets/images/why-should-we-believe-in-god
+image: assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg
 description: Calamities that brings us closer to God.
+podcast_file_size: 4.15 MB
+podcast_duration: "08:39"
+podcast_length: 4151760
 ---

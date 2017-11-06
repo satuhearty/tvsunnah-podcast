@@ -8,6 +8,9 @@ album: Why Should We Believe In God
 speaker_id: yusufestes
 podcast: why-should-we-believe-in-god
 permalink: podcast/:categories/:title
-image: assets/images/why-should-we-believe-in-god
+image: assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg
 description: Yusuf Estes explaining his journey to Islam.
+podcast_file_size: 1.78 MB
+podcast_duration: "03:43"
+podcast_length: 1782448
 ---
