@@ -382,13 +382,14 @@
       // Show current time
       wavesurfer.on('audioprocess', function () {
         $(counterId).text(formatTime(wavesurfer.getCurrentTime()));
-        $(durationId).text('-' + formatTime(wavesurfer.getDuration() - wavesurfer.getCurrentTime()));
+        if (!isNaN(wavesurfer.getDuration())) {
+          $(durationId).text('-' + formatTime(wavesurfer.getDuration() - wavesurfer.getCurrentTime()));
+        }
       });
 
       // Show clip duration
       wavesurfer.on('ready', function () {
         $(counterId).text(formatTime(0));
-        $(durationId).text(formatTime(wavesurfer.getDuration()));
       });
     });
   }

@@ -37,7 +37,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <sy:updateFrequency>1</sy:updateFrequency>
         <generator>http://jekyllrb.com/</generator>
         <itunes:summary>{{ podcast.description | replace: '&', '&amp;' }}</itunes:summary>
-        <itunes:author>{{ speaker.name }}</itunes:author>
+        <itunes:author>{{ site.podcast_owner }}</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/{{ podcast.image }}" />
         <itunes:owner>
@@ -51,9 +51,10 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
             <url>{{ site.baseurl }}/{{ podcast.permalink }}</url>
             <link>{{ site.baseurl }} </link>
         </image>
-        <itunes:category text="{{ site.podcast_category }}" />
-        <itunes:category text="{{ site.podcast_subcategory_one }}" />
-        <itunes:category text="{{ site.podcast_subcategory_two }}" />
+        <itunes:category text="{{ site.podcast_category }}">
+            <itunes:category text="{{ site.podcast_subcategory_one }}" />
+            <itunes:category text="{{ site.podcast_subcategory_two }}" />
+        </itunes:category>
         {% for post in site.posts %}
             {% if post.podcast == podcast.podcast_id %}
                 <item>

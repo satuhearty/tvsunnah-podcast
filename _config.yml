@@ -4,8 +4,7 @@ title: TVSunnah Podcast
 email: contact@tvsunnahpodcast.com
 description: If you’re new to TVSunnah Podcast, we’ve got a lot of podcasts for you!
 baseurl: "/tvsunnah-podcast"
-#baseurl: ""
-url: "" # the base hostname & protocol for your site
+url: "https://satuhearty.github.io" # the base hostname & protocol for your site
 author:
 street_address: 42 Jalan SS12/1F
 city: Subang Jaya
@@ -51,7 +50,7 @@ rss_post_limit: 10
 # The homepage of your podcast
 podcast_owner: TVSunnah Podcast
 podcast_email: contact@tvsunnahpodcast.com
-podcast_category: Faith
+podcast_category: Religion &amp; Spirituality
 podcast_subcategory_one: Islam
-podcast_subcategory_two: Religion
+podcast_subcategory_two: Spirituality
 podcast_explicit: "no"

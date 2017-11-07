@@ -18,13 +18,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <atom:link href="/tvsunnah-podcast/podcast/the-shade-of-the-day-of-judgement/feed/" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/podcast/the-shade-of-the-day-of-judgement</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Sun, 05 Nov 2017 22:46:26 -0500</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2017 23:48:10 -0500</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
         <generator>http://jekyllrb.com/</generator>
         <itunes:summary>Lecture at the At-Taqwa Mosque, Taman Tun Dr ismail, Kuala Lumpur, Malaysia on 15th Dec 2012.</itunes:summary>
-        <itunes:author>Mufti Ismail Menk</itunes:author>
+        <itunes:author>TVSunnah Podcast</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/the-shade-of-the-day-of-judgement/album-picture-small.jpg" />
         <itunes:owner>
@@ -38,9 +38,10 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
             <url>/tvsunnah-podcast/</url>
             <link>/tvsunnah-podcast </link>
         </image>
-        <itunes:category text="Faith" />
-        <itunes:category text="Islam" />
-        <itunes:category text="Religion" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Islam" />
+            <itunes:category text="Spirituality" />
+        </itunes:category>
         
         
         
