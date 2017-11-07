@@ -15,10 +15,10 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <channel>
         <title>Special Group of People</title>
-        <atom:link href="/tvsunnah-podcast/podcast/special-group-of-people/feed/" rel="self" type="application/rss+xml" />
-        <link>http://localhost:4000/podcast/special-group-of-people</link>
+        <atom:link href="http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/feed/" rel="self" type="application/rss+xml" />
+        <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Mon, 06 Nov 2017 23:50:44 -0500</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2017 00:03:58 -0500</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -142,7 +142,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/the-special-group-of-people.mp3" length="10715084" type="audio/mpeg" />
             <itunes:subtitle><![CDATA[The Special Group of People]]></itunes:subtitle>
             <itunes:summary><![CDATA[Introduction about the special group of people.]]></itunes:summary>
-            <itunes:author>Nouman Ali Khan</itunes:author>
+            <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>07:10</itunes:duration>
@@ -170,7 +170,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-1.mp3" length="6611753" type="audio/mpeg" />
             <itunes:subtitle><![CDATA[Category No 1]]></itunes:subtitle>
             <itunes:summary><![CDATA[Explanation about the first category of people who are special.]]></itunes:summary>
-            <itunes:author>Nouman Ali Khan</itunes:author>
+            <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>12:55</itunes:duration>
@@ -198,7 +198,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-2-and-3.mp3" length="3483926" type="audio/mpeg" />
             <itunes:subtitle><![CDATA[Category No 2 &amp; 3]]></itunes:subtitle>
             <itunes:summary><![CDATA[Explanation about the second and third category of people who are special.]]></itunes:summary>
-            <itunes:author>Nouman Ali Khan</itunes:author>
+            <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>06:24</itunes:duration>
@@ -226,7 +226,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-4.mp3" length="4347734" type="audio/mpeg" />
             <itunes:subtitle><![CDATA[Category No 4]]></itunes:subtitle>
             <itunes:summary><![CDATA[Explanation about the fourth category of people who are special.]]></itunes:summary>
-            <itunes:author>Nouman Ali Khan</itunes:author>
+            <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>08:12</itunes:duration>
@@ -254,7 +254,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-5.mp3" length="6283670" type="audio/mpeg" />
             <itunes:subtitle><![CDATA[Category No 5]]></itunes:subtitle>
             <itunes:summary><![CDATA[Explanation about the fifth category of people who are special.]]></itunes:summary>
-            <itunes:author>Nouman Ali Khan</itunes:author>
+            <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>12:14</itunes:duration>
@@ -282,7 +282,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-6.mp3" length="2771606" type="audio/mpeg" />
             <itunes:subtitle><![CDATA[Category No 6]]></itunes:subtitle>
             <itunes:summary><![CDATA[Explanation about the sixth category of people who are special.]]></itunes:summary>
-            <itunes:author>Nouman Ali Khan</itunes:author>
+            <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>04:55</itunes:duration>
@@ -310,7 +310,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-7.mp3" length="1203734" type="audio/mpeg" />
             <itunes:subtitle><![CDATA[Category No 7]]></itunes:subtitle>
             <itunes:summary><![CDATA[Explanation about the seventh category of people who are special.]]></itunes:summary>
-            <itunes:author>Nouman Ali Khan</itunes:author>
+            <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>01:39</itunes:duration>
@@ -338,7 +338,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-8.mp3" length="8291798" type="audio/mpeg" />
             <itunes:subtitle><![CDATA[Category No 8]]></itunes:subtitle>
             <itunes:summary><![CDATA[Explanation about the eighth category of people who are special.]]></itunes:summary>
-            <itunes:author>Nouman Ali Khan</itunes:author>
+            <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>16:25</itunes:duration>
@@ -366,7 +366,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/whats-in-it-for-ibadurrahman.mp3" length="3131798" type="audio/mpeg" />
             <itunes:subtitle><![CDATA[What's In It For Ibadurrahman?]]></itunes:subtitle>
             <itunes:summary><![CDATA[What are the benefits of being one of the people who are in the special group?]]></itunes:summary>
-            <itunes:author>Nouman Ali Khan</itunes:author>
+            <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>05:40</itunes:duration>
