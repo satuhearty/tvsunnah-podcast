@@ -18,7 +18,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <atom:link href="/tvsunnah-podcast/podcast/special-group-of-people/feed/" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/podcast/special-group-of-people</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Mon, 06 Nov 2017 23:48:10 -0500</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2017 23:50:44 -0500</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -26,7 +26,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <itunes:summary>Who Gets Allah's Mercy? Allah's mercy is beyond limits but there is a special kind of mercy He has promised to His most-beloved servants. Nouman Ali Khan explains the different groups of those special people that will receive Allah's special mercy, care and immediate response, in an exclusive 2-day event at FANAR on 27th - 28h June 2013.</itunes:summary>
         <itunes:author>TVSunnah Podcast</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
+        <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-large.jpg" />
         <itunes:owner>
             <itunes:name>TVSunnah Podcast</itunes:name>
             <itunes:email>contact@tvsunnahpodcast.com</itunes:email>

@@ -39,7 +39,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <itunes:summary>{{ podcast.description | replace: '&', '&amp;' }}</itunes:summary>
         <itunes:author>{{ site.podcast_owner }}</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="{{ site.url }}{{ site.baseurl }}/{{ podcast.image }}" />
+        <itunes:image href="{{ site.url }}{{ site.baseurl }}/{{ podcast.podcast_image }}" />
         <itunes:owner>
             <itunes:name>{{ site.podcast_owner }}</itunes:name>
             <itunes:email>{{ site.podcast_email }}</itunes:email>
