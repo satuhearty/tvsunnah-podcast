@@ -18,7 +18,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <atom:link href="http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/feed/" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Tue, 07 Nov 2017 00:03:58 -0500</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2017 01:22:19 -0500</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -98,13 +98,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Makna Sakinah</title>
-            <link>http://localhost:4000/podcast/mencari-sakinah/makna-sakinah</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/makna-sakinah</link>
             <pubDate>Thu, 21 Sep 2017 23:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/makna-sakinah</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/makna-sakinah</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -126,13 +126,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Salah Sangka Tentang Ketenangan Dalam Hidup</title>
-            <link>http://localhost:4000/podcast/mencari-sakinah/salah-sangka-tentang-ketenangan-dalam-hidup</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/salah-sangka-tentang-ketenangan-dalam-hidup</link>
             <pubDate>Thu, 21 Sep 2017 22:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/salah-sangka-tentang-ketenangan-dalam-hidup</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/salah-sangka-tentang-ketenangan-dalam-hidup</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -154,13 +154,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Sakinah Yang Diberikan Kepada Nabi SAW &amp; Abu Bakar RA</title>
-            <link>http://localhost:4000/podcast/mencari-sakinah/sakinah-yang-diberikan-kepada-nabi</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/sakinah-yang-diberikan-kepada-nabi</link>
             <pubDate>Thu, 21 Sep 2017 21:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/sakinah-yang-diberikan-kepada-nabi</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/sakinah-yang-diberikan-kepada-nabi</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -182,13 +182,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Tawakkal</title>
-            <link>http://localhost:4000/podcast/mencari-sakinah/tawakkal</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/tawakkal</link>
             <pubDate>Thu, 21 Sep 2017 20:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/tawakkal</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/tawakkal</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -210,13 +210,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Doa Yang Nabi SAW Ajar Kepada Fatimah RA</title>
-            <link>http://localhost:4000/podcast/mencari-sakinah/doa-yang-nabi-ajar-kepada-fatimah</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/doa-yang-nabi-ajar-kepada-fatimah</link>
             <pubDate>Thu, 21 Sep 2017 19:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/doa-yang-nabi-ajar-kepada-fatimah</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/doa-yang-nabi-ajar-kepada-fatimah</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -238,13 +238,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Ummu Salamah Apabila Ditimpa Musibah</title>
-            <link>http://localhost:4000/podcast/mencari-sakinah/ummu-salamah-apabila-ditimpa-musibah</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/ummu-salamah-apabila-ditimpa-musibah</link>
             <pubDate>Thu, 21 Sep 2017 18:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/ummu-salamah-apabila-ditimpa-musibah</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/ummu-salamah-apabila-ditimpa-musibah</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -266,13 +266,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Pengalaman Tentang Keajaiban Doa</title>
-            <link>http://localhost:4000/podcast/mencari-sakinah/pengalaman-tentang-keajaiban-doa</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/pengalaman-tentang-keajaiban-doa</link>
             <pubDate>Thu, 21 Sep 2017 17:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/pengalaman-tentang-keajaiban-doa</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/pengalaman-tentang-keajaiban-doa</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -294,13 +294,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Kisah Orang Yang Mendapat Ketenangan</title>
-            <link>http://localhost:4000/podcast/mencari-sakinah/kisah-orang-mendapat-ketenangan</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/kisah-orang-mendapat-ketenangan</link>
             <pubDate>Thu, 21 Sep 2017 16:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/kisah-orang-mendapat-ketenangan</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/kisah-orang-mendapat-ketenangan</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -322,13 +322,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Apabila Insan Melihat Dunia Dari Dimensi Akhirat Bahagian 1</title>
-            <link>http://localhost:4000/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-1</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-1</link>
             <pubDate>Thu, 21 Sep 2017 15:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-1</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-1</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -350,13 +350,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Apabila Insan Melihat Dunia Dari Dimensi Akhirat Bahagian 2</title>
-            <link>http://localhost:4000/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-2</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-2</link>
             <pubDate>Thu, 21 Sep 2017 14:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-2</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-2</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -378,13 +378,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Syukur Bahagian 1</title>
-            <link>http://localhost:4000/podcast/mencari-sakinah/syukur-bahagian-1</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/syukur-bahagian-1</link>
             <pubDate>Thu, 21 Sep 2017 13:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/syukur-bahagian-1</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/syukur-bahagian-1</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -406,13 +406,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Syukur Bahagian 2</title>
-            <link>http://localhost:4000/podcast/mencari-sakinah/syukur-bahagian-2</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/syukur-bahagian-2</link>
             <pubDate>Thu, 21 Sep 2017 12:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/syukur-bahagian-2</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/syukur-bahagian-2</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -434,13 +434,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Doa Dalam Bahasa Selain Bahasa Arab</title>
-            <link>http://localhost:4000/podcast/mencari-sakinah/doa-dalam-bahasa-selain-bahasa-arab</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/doa-dalam-bahasa-selain-bahasa-arab</link>
             <pubDate>Thu, 21 Sep 2017 11:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/mencari-sakinah/doa-dalam-bahasa-selain-bahasa-arab</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/doa-dalam-bahasa-selain-bahasa-arab</guid>
             <description>
                 <![CDATA[
 ]]>

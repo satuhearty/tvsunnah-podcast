@@ -18,7 +18,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <atom:link href="http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/feed/" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Tue, 07 Nov 2017 00:03:58 -0500</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2017 01:22:19 -0500</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -46,13 +46,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Introduction to Why Should We Believe in God</title>
-            <link>http://localhost:4000/podcast/introduction</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/introduction</link>
             <pubDate>Fri, 22 Sep 2017 23:59:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/introduction</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/introduction</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -74,13 +74,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Why This Subject (Part 1)</title>
-            <link>http://localhost:4000/podcast/why-this-subject-part-1</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/why-this-subject-part-1</link>
             <pubDate>Fri, 22 Sep 2017 23:58:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/why-this-subject-part-1</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/why-this-subject-part-1</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -102,13 +102,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Why This Subject (Part 2)</title>
-            <link>http://localhost:4000/podcast/why-this-subject-part-2</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/why-this-subject-part-2</link>
             <pubDate>Fri, 22 Sep 2017 23:57:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/why-this-subject-part-2</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/why-this-subject-part-2</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -130,13 +130,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Describing The Undescribable</title>
-            <link>http://localhost:4000/podcast/describing-the-undescribable</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/describing-the-undescribable</link>
             <pubDate>Fri, 22 Sep 2017 23:56:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/describing-the-undescribable</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/describing-the-undescribable</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -158,13 +158,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Challenging The Authority</title>
-            <link>http://localhost:4000/podcast/challenging-the-authority</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/challenging-the-authority</link>
             <pubDate>Fri, 22 Sep 2017 23:55:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/challenging-the-authority</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/challenging-the-authority</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -186,13 +186,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>God &amp; Calamities</title>
-            <link>http://localhost:4000/podcast/god-and-calamities</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/god-and-calamities</link>
             <pubDate>Fri, 22 Sep 2017 23:54:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/god-and-calamities</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/god-and-calamities</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -214,13 +214,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>ID &amp; Evolution Theory</title>
-            <link>http://localhost:4000/podcast/id-and-evolution-theory</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/id-and-evolution-theory</link>
             <pubDate>Fri, 22 Sep 2017 23:53:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/id-and-evolution-theory</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/id-and-evolution-theory</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -242,13 +242,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Mans Reaction</title>
-            <link>http://localhost:4000/podcast/mans-reaction</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/mans-reaction</link>
             <pubDate>Fri, 22 Sep 2017 23:52:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/mans-reaction</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mans-reaction</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -270,13 +270,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>No Brainer</title>
-            <link>http://localhost:4000/podcast/no-brainer</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/no-brainer</link>
             <pubDate>Fri, 22 Sep 2017 23:51:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/no-brainer</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/no-brainer</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -298,13 +298,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>No Brainer</title>
-            <link>http://localhost:4000/podcast/throw-out-the-numbers</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/throw-out-the-numbers</link>
             <pubDate>Fri, 22 Sep 2017 23:50:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/throw-out-the-numbers</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/throw-out-the-numbers</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -326,13 +326,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Qur'an The Before &amp; After</title>
-            <link>http://localhost:4000/podcast/quran-the-before-and-after</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/quran-the-before-and-after</link>
             <pubDate>Fri, 22 Sep 2017 23:49:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/quran-the-before-and-after</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/quran-the-before-and-after</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -354,13 +354,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Do You Have a Better Answer? Benefit of Believing in God</title>
-            <link>http://localhost:4000/podcast/do-you-have-a-better-answer</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/do-you-have-a-better-answer</link>
             <pubDate>Fri, 22 Sep 2017 23:48:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/do-you-have-a-better-answer</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/do-you-have-a-better-answer</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -382,13 +382,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>One Who Doesn't Have a God</title>
-            <link>http://localhost:4000/podcast/one-who-doesnt-have-a-god</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/one-who-doesnt-have-a-god</link>
             <pubDate>Fri, 22 Sep 2017 23:47:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/one-who-doesnt-have-a-god</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/one-who-doesnt-have-a-god</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -410,13 +410,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Explore on Your Own</title>
-            <link>http://localhost:4000/podcast/explore-on-your-own</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/explore-on-your-own</link>
             <pubDate>Fri, 22 Sep 2017 23:46:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/explore-on-your-own</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/explore-on-your-own</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -438,13 +438,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Islam</title>
-            <link>http://localhost:4000/podcast/islam</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/islam</link>
             <pubDate>Fri, 22 Sep 2017 23:45:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/islam</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/islam</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -466,13 +466,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>The Test &amp; Swedish Experience</title>
-            <link>http://localhost:4000/podcast/the-test-and-swedish-experience</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/the-test-and-swedish-experience</link>
             <pubDate>Fri, 22 Sep 2017 23:44:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/the-test-and-swedish-experience</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/the-test-and-swedish-experience</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -494,13 +494,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>The Train is Coming</title>
-            <link>http://localhost:4000/podcast/the-train-is-coming</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/the-train-is-coming</link>
             <pubDate>Fri, 22 Sep 2017 23:43:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/the-train-is-coming</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/the-train-is-coming</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -522,13 +522,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Muslims &amp; Hijab</title>
-            <link>http://localhost:4000/podcast/muslims-and-hijab</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/muslims-and-hijab</link>
             <pubDate>Fri, 22 Sep 2017 23:42:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/muslims-and-hijab</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/muslims-and-hijab</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -550,13 +550,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Muslims and Beard</title>
-            <link>http://localhost:4000/podcast/muslims-and-beard</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/muslims-and-beard</link>
             <pubDate>Fri, 22 Sep 2017 23:41:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/muslims-and-beard</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/muslims-and-beard</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -578,13 +578,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Conditions of Muslims Today</title>
-            <link>http://localhost:4000/podcast/conditions-of-muslims-today</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/conditions-of-muslims-today</link>
             <pubDate>Fri, 22 Sep 2017 23:40:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/conditions-of-muslims-today</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/conditions-of-muslims-today</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -606,13 +606,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Your coming to Islam</title>
-            <link>http://localhost:4000/podcast/your-coming-to-islam</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/your-coming-to-islam</link>
             <pubDate>Fri, 22 Sep 2017 23:39:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/your-coming-to-islam</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/your-coming-to-islam</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -634,13 +634,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Worship Idol vs imaginary One (Part 1)</title>
-            <link>http://localhost:4000/podcast/worship-idol-vs-imaginary-one-part-1</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/worship-idol-vs-imaginary-one-part-1</link>
             <pubDate>Fri, 22 Sep 2017 23:38:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/worship-idol-vs-imaginary-one-part-1</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/worship-idol-vs-imaginary-one-part-1</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -662,13 +662,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Worship Idol vs imaginary One (Part 2)</title>
-            <link>http://localhost:4000/podcast/worship-idol-vs-imaginary-one-part-2</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/worship-idol-vs-imaginary-one-part-2</link>
             <pubDate>Fri, 22 Sep 2017 23:37:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/worship-idol-vs-imaginary-one-part-2</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/worship-idol-vs-imaginary-one-part-2</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -690,13 +690,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Evolution and God</title>
-            <link>http://localhost:4000/podcast/evolution-and-god</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/evolution-and-god</link>
             <pubDate>Fri, 22 Sep 2017 23:36:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/evolution-and-god</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/evolution-and-god</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -718,13 +718,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Why cant God use evolution as a vehicle Part 1</title>
-            <link>http://localhost:4000/podcast/why-cant-god-use-evolution-as-a-vehicle-part-1</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/why-cant-god-use-evolution-as-a-vehicle-part-1</link>
             <pubDate>Fri, 22 Sep 2017 23:35:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/why-cant-god-use-evolution-as-a-vehicle-part-1</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/why-cant-god-use-evolution-as-a-vehicle-part-1</guid>
             <description>
                 <![CDATA[
 ]]>
@@ -746,13 +746,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         <item>
             <title>Why cant God use evolution as a vehicle Part 2</title>
-            <link>http://localhost:4000/podcast/why-cant-god-use-evolution-as-a-vehicle-part-2</link>
+            <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/why-cant-god-use-evolution-as-a-vehicle-part-2</link>
             <pubDate>Fri, 22 Sep 2017 23:34:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
             <category><![CDATA[religion]]></category>
             <category><![CDATA[faith]]></category>
             <category><![CDATA[islam]]></category>
-            <guid isPermaLink="true">http://localhost:4000/podcast/why-cant-god-use-evolution-as-a-vehicle-part-2</guid>
+            <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/why-cant-god-use-evolution-as-a-vehicle-part-2</guid>
             <description>
                 <![CDATA[
 ]]>

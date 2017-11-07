@@ -7,7 +7,7 @@ audio: assets/audio/why-should-we-believe-in-god/do-you-have-a-better-answer.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes
 podcast: why-should-we-believe-in-god
-permalink: podcast/:categories/:title
+permalink: podcast/why-should-we-believe-in-god/:title
 image: assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg
 description: Calamities that brings us closer to God.
 podcast_file_size: 4.15 MB

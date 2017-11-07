@@ -7,7 +7,7 @@ audio: assets/audio/why-should-we-believe-in-god/no-brainer.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes
 podcast: why-should-we-believe-in-god
-permalink: podcast/:categories/:title
+permalink: podcast/why-should-we-believe-in-god/:title
 image: assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg
 description: The No Brainer dialog between Yusuf Estes and an Atheist Professor.
 podcast_file_size: 807.07 kB
