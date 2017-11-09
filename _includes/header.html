@@ -1,6 +1,6 @@
 <div id="wrapper">
 
-  <header id="header"{% if page.layout == "landing" %} class="alt"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+  <header id="header" class="alt{% if page.layout == "landing" %} fade{% endif %}{% if page.layout == "home" %} fade{% endif %}">
 	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
 	<nav>
 		<a href="#menu">Menu</a>

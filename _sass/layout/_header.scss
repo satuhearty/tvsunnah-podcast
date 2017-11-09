@@ -124,9 +124,6 @@
   }
 
   &.alt {
-    @include vendor('transition', 'opacity #{_duration(banner)} ease');
-    @include vendor('transition-delay', '0.75s');
-    @include vendor('animation', 'none');
     background-color: transparent;
     box-shadow: none;
     position: absolute;
@@ -137,11 +134,19 @@
     &.style4 { .logo { strong { color: _palette(accent4); } } }
     &.style5 { .logo { strong { color: _palette(accent5); } } }
     &.style6 { .logo { strong { color: _palette(accent6); } } }
+
+    &.fade {
+      @include vendor('transition', 'opacity #{_duration(banner)} ease');
+      @include vendor('transition-delay', '0.75s');
+      @include vendor('animation', 'none');
+    }
   }
 
   body.is-loading & {
     &.alt {
-      opacity: 0;
+      &.fade {
+        opacity: 0;
+      }
     }
   }
 
