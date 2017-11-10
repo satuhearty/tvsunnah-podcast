@@ -50,7 +50,7 @@
             <div class="inner">
               <h2 class="audio-title">{{ page.title }}</h2>
               <p class="audio-description">{{ page.description }}</p>
-              <p>{{ page.date | date: "%b %d, %Y" }}</p>
+              <p>{{ page.date | date: "%b %d, %Y" }} &nbsp; &nbsp; &nbsp; &nbsp; <em>{{ page.podcast_duration }}</em></p>
               <div id="waveform-1" class="js-waveform">
                 <audio id="audio-1" style="display: none" preload="none" src="" data-audio="{{ site.baseurl }}/{{ page.audio }}"></audio>
               </div>
