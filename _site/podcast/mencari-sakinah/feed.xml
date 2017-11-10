@@ -18,7 +18,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <atom:link href="http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/feed.xml" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Fri, 10 Nov 2017 00:47:10 -0500</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2017 00:51:12 -0500</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -106,8 +106,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/makna-sakinah</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Huraian tentang makna perkataan sakinah dalam bahasa Arab.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
@@ -134,8 +133,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/salah-sangka-tentang-ketenangan-dalam-hidup</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Adakah harta mampu memberi ketenangan dalam hidup?]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
@@ -162,8 +160,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/sakinah-yang-diberikan-kepada-nabi</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Kisah keresahan Abu Bakar RA ketika berhijrah bersama Nabi SAW.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
@@ -190,8 +187,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/tawakkal</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Huraian tentang Tawakkal dan kaitannya dengan sakinah.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
@@ -218,8 +214,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/doa-yang-nabi-ajar-kepada-fatimah</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Antara doa yang diajarkan oleh Nabi SAW ketika ditimpa musibah.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
@@ -246,8 +241,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/ummu-salamah-apabila-ditimpa-musibah</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Kecekalan Ummu Salamah apabila kehilangan suaminya dan Allah gantikan dengan yang lebih baik darinya.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
@@ -274,8 +268,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/pengalaman-tentang-keajaiban-doa</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Pengalaman Dr. Asri tentang keajaiban doa.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
@@ -302,8 +295,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/kisah-orang-mendapat-ketenangan</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Kisah benar tentang orang yang mendapat sakinah.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
@@ -330,8 +322,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-1</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Bagaimana kita boleh berusaha untuk melihat dunia dari dimensi akhirat (Bahagian 1).]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
@@ -358,8 +349,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-2</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Bagaimana kita boleh berusaha untuk melihat dunia dari dimensi akhirat (Bahagian 2).]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
@@ -386,8 +376,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/syukur-bahagian-1</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Makna Syukur dan kaitannya dengan sakinah (Bahagian 1).]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
@@ -414,8 +403,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/syukur-bahagian-2</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Makna Syukur dan kaitannya dengan sakinah (Bahagian 2).]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
@@ -442,8 +430,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/doa-dalam-bahasa-selain-bahasa-arab</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Soalan daripada salah seorang jemaah tentang hukum berdoa dalam bahasa selain bahasa arab ketika solat.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />

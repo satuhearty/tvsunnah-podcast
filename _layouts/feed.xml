@@ -62,7 +62,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.id }}</guid>
                     <description>
-                        <![CDATA[{{ post.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
+                        <![CDATA[{{ post.description | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="{{ site.url }}{{ site.baseurl }}/{{ post.image }}" />{{ post.content | expand_urls: site.url | cdata_escape }}]]>

@@ -18,7 +18,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <atom:link href="http://localhost:4000/tvsunnah-podcast/podcast/taubat-dan-doa/feed.xml" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/tvsunnah-podcast/podcast/taubat-dan-doa</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Fri, 10 Nov 2017 00:47:10 -0500</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2017 00:51:12 -0500</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -154,8 +154,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/taubat-dan-doa/taubat-dan-doa</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Dr. Mohd Asri memberi huraian tentang taubat dan doa.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/taubat-dan-doa/album-picture-small.jpg" />

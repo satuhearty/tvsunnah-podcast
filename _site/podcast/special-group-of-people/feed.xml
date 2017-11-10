@@ -18,7 +18,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <atom:link href="http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/feed.xml" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Fri, 10 Nov 2017 00:47:10 -0500</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2017 00:51:12 -0500</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -132,8 +132,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/the-special-group-of-people</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Introduction about the special group of people.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
@@ -160,8 +159,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-1</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Explanation about the first category of people who are special.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
@@ -188,8 +186,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-2-and-3</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Explanation about the second and third category of people who are special.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
@@ -216,8 +213,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-4</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Explanation about the fourth category of people who are special.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
@@ -244,8 +240,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-5</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Explanation about the fifth category of people who are special.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
@@ -272,8 +267,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-6</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Explanation about the sixth category of people who are special.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
@@ -300,8 +294,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-7</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Explanation about the seventh category of people who are special.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
@@ -328,8 +321,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-8</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[Explanation about the eighth category of people who are special.]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
@@ -356,8 +348,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <category><![CDATA[ islam ]]></category>
                     <guid isPermaLink="true">http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/whats-in-it-for-ibadurrahman</guid>
                     <description>
-                        <![CDATA[
-]]>
+                        <![CDATA[What are the benefits of being one of the people who are in the special group?]]>
                     </description>
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
