@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Worship Idol vs imaginary One (Part 1)
+title: "#22 Worship Idol vs imaginary One (Part 1)"
 id: worship-idol-vs-imaginary-one-part-1
 date: 2017-09-22 23:38:00
 audio: assets/audio/why-should-we-believe-in-god/worship-idol-vs-imaginary-one-part-1.mp3

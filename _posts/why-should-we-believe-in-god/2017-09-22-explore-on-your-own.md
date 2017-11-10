@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Explore on Your Own
+title: "#14 Explore on Your Own"
 id: explore-on-your-own
 date: 2017-09-22 23:46:00
 audio: assets/audio/why-should-we-believe-in-god/explore-on-your-own.mp3

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Loon @ Islamic University Malaysia
+title: "#1 Loon @ Islamic University Malaysia"
 id: islamic-university-malaysia
 date: 2017-09-17 23:00:00
 audio: assets/audio/loon-a-tick/islamic-university-malaysia.mp3

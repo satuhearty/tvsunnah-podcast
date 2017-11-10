@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No Brainer
+title: "#10 Throw Out The Numbers"
 id: throw-out-the-numbers
 date: 2017-09-22 23:50:00
 audio: assets/audio/why-should-we-believe-in-god/throw-out-the-numbers.mp3

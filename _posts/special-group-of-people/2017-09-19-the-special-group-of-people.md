@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Special Group of People
+title: "#1 The Special Group of People"
 id: the-special-group-of-people
 date: 2017-09-19 23:00:00
 audio: assets/audio/special-group-of-people/the-special-group-of-people.mp3

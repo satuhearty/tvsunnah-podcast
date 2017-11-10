@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kisah Orang Yang Mendapat Ketenangan
+title: "#8 Kisah Orang Yang Mendapat Ketenangan"
 id: kisah-orang-mendapat-ketenangan
 date: 2017-09-21 16:00:00
 audio: assets/audio/mencari-sakinah/kisah-orang-mendapat-ketenangan.mp3

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Syukur Bahagian 1
+title: "#11 Syukur Bahagian 1"
 id: syukur-bahagian-1
 date: 2017-09-21 13:00:00
 audio: assets/audio/mencari-sakinah/syukur-bahagian-1.mp3

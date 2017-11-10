@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Makna Sakinah
+title: "#1 Makna Sakinah"
 id: makna-sakinah
 date: 2017-09-21 23:00:00
 audio: assets/audio/mencari-sakinah/makna-sakinah.mp3

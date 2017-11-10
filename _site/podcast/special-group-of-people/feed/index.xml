@@ -18,7 +18,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <atom:link href="http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/feed/" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Thu, 09 Nov 2017 01:00:00 -0500</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2017 23:06:34 -0500</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -123,7 +123,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         
         <item>
-            <title>The Special Group of People</title>
+            <title>#1 The Special Group of People</title>
             <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/the-special-group-of-people</link>
             <pubDate>Tue, 19 Sep 2017 23:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
@@ -140,7 +140,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/the-special-group-of-people.mp3" length="10715084" type="audio/mpeg" />
-            <itunes:subtitle><![CDATA[The Special Group of People]]></itunes:subtitle>
+            <itunes:subtitle><![CDATA[#1 The Special Group of People]]></itunes:subtitle>
             <itunes:summary><![CDATA[Introduction about the special group of people.]]></itunes:summary>
             <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
@@ -151,7 +151,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         
         <item>
-            <title>Category No 1</title>
+            <title>#2 Category No 1</title>
             <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-1</link>
             <pubDate>Tue, 19 Sep 2017 22:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
@@ -168,7 +168,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-1.mp3" length="6611753" type="audio/mpeg" />
-            <itunes:subtitle><![CDATA[Category No 1]]></itunes:subtitle>
+            <itunes:subtitle><![CDATA[#2 Category No 1]]></itunes:subtitle>
             <itunes:summary><![CDATA[Explanation about the first category of people who are special.]]></itunes:summary>
             <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
@@ -179,7 +179,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         
         <item>
-            <title>Category No 2 &amp; 3</title>
+            <title>#3 Category No 2 &amp; 3</title>
             <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-2-and-3</link>
             <pubDate>Tue, 19 Sep 2017 21:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
@@ -196,7 +196,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-2-and-3.mp3" length="3483926" type="audio/mpeg" />
-            <itunes:subtitle><![CDATA[Category No 2 &amp; 3]]></itunes:subtitle>
+            <itunes:subtitle><![CDATA[#3 Category No 2 &amp; 3]]></itunes:subtitle>
             <itunes:summary><![CDATA[Explanation about the second and third category of people who are special.]]></itunes:summary>
             <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
@@ -207,7 +207,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         
         <item>
-            <title>Category No 4</title>
+            <title>#4 Category No 4</title>
             <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-4</link>
             <pubDate>Tue, 19 Sep 2017 20:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
@@ -224,7 +224,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-4.mp3" length="4347734" type="audio/mpeg" />
-            <itunes:subtitle><![CDATA[Category No 4]]></itunes:subtitle>
+            <itunes:subtitle><![CDATA[#4 Category No 4]]></itunes:subtitle>
             <itunes:summary><![CDATA[Explanation about the fourth category of people who are special.]]></itunes:summary>
             <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
@@ -235,7 +235,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         
         <item>
-            <title>Category No 5</title>
+            <title>#5 Category No 5</title>
             <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-5</link>
             <pubDate>Tue, 19 Sep 2017 19:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
@@ -252,7 +252,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-5.mp3" length="6283670" type="audio/mpeg" />
-            <itunes:subtitle><![CDATA[Category No 5]]></itunes:subtitle>
+            <itunes:subtitle><![CDATA[#5 Category No 5]]></itunes:subtitle>
             <itunes:summary><![CDATA[Explanation about the fifth category of people who are special.]]></itunes:summary>
             <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
@@ -263,7 +263,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         
         <item>
-            <title>Category No 6</title>
+            <title>#6 Category No 6</title>
             <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-6</link>
             <pubDate>Tue, 19 Sep 2017 18:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
@@ -280,7 +280,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-6.mp3" length="2771606" type="audio/mpeg" />
-            <itunes:subtitle><![CDATA[Category No 6]]></itunes:subtitle>
+            <itunes:subtitle><![CDATA[#6 Category No 6]]></itunes:subtitle>
             <itunes:summary><![CDATA[Explanation about the sixth category of people who are special.]]></itunes:summary>
             <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
@@ -291,7 +291,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         
         <item>
-            <title>Category No 7</title>
+            <title>#7 Category No 7</title>
             <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-7</link>
             <pubDate>Tue, 19 Sep 2017 17:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
@@ -308,7 +308,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-7.mp3" length="1203734" type="audio/mpeg" />
-            <itunes:subtitle><![CDATA[Category No 7]]></itunes:subtitle>
+            <itunes:subtitle><![CDATA[#7 Category No 7]]></itunes:subtitle>
             <itunes:summary><![CDATA[Explanation about the seventh category of people who are special.]]></itunes:summary>
             <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
@@ -319,7 +319,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         
         <item>
-            <title>Category No 8</title>
+            <title>#8 Category No 8</title>
             <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-8</link>
             <pubDate>Tue, 19 Sep 2017 16:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
@@ -336,7 +336,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-8.mp3" length="8291798" type="audio/mpeg" />
-            <itunes:subtitle><![CDATA[Category No 8]]></itunes:subtitle>
+            <itunes:subtitle><![CDATA[#8 Category No 8]]></itunes:subtitle>
             <itunes:summary><![CDATA[Explanation about the eighth category of people who are special.]]></itunes:summary>
             <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
@@ -347,7 +347,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
         
         <item>
-            <title>What's In It For Ibadurrahman?</title>
+            <title>#9 What's In It For Ibadurrahman?</title>
             <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/whats-in-it-for-ibadurrahman</link>
             <pubDate>Tue, 19 Sep 2017 15:00:00 +0000</pubDate>
             <dc:creator><![CDATA[]]></dc:creator>
@@ -364,7 +364,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/whats-in-it-for-ibadurrahman.mp3" length="3131798" type="audio/mpeg" />
-            <itunes:subtitle><![CDATA[What's In It For Ibadurrahman?]]></itunes:subtitle>
+            <itunes:subtitle><![CDATA[#9 What's In It For Ibadurrahman?]]></itunes:subtitle>
             <itunes:summary><![CDATA[What are the benefits of being one of the people who are in the special group?]]></itunes:summary>
             <itunes:author>TVSunnah Podcast</itunes:author>
             <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />

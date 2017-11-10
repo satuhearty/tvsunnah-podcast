@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mans Reaction
+title: "#8 Mans Reaction"
 id: mans-reaction
 date: 2017-09-22 23:52:00
 audio: assets/audio/why-should-we-believe-in-god/mans-reaction.mp3

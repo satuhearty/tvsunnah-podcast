@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Shade of The Day of Judgement
+title: "#1 The Shade of The Day of Judgement"
 id: the-shade-of-the-day-of-judgement
 date: 2017-09-01 23:00:00
 audio: assets/audio/the-shade-of-the-day-of-judgement/the-shade-of-the-day-of-judgement.mp3

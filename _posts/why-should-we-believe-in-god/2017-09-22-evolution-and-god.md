@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evolution and God
+title: "#24 Evolution and God"
 id: evolution-and-god
 date: 2017-09-22 23:36:00
 audio: assets/audio/why-should-we-believe-in-god/evolution-and-god.mp3

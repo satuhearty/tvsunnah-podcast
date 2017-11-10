@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Muslims and Beard
+title: "#19 Muslims and Beard"
 id: muslims-and-beard
 date: 2017-09-22 23:41:00
 audio: assets/audio/why-should-we-believe-in-god/muslims-and-beard.mp3

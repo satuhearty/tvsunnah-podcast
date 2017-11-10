@@ -52,7 +52,7 @@
             {% if post.podcast == page.podcast_id %}
               <div class="inner">
                 <a href="{{ post.id  | relative_url }}">
-                  <h2 class="audio-title">#{{ index }} {{ post.title }}</h2>
+                  <h2 class="audio-title">{{ post.title }}</h2>
                 </a>
                 <p class="audio-description">{{ post.description }}</p>
                 <p>{{ post.date | date: "%b %d, %Y" }}</p>

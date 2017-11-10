@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taubat & Doa
+title: "#1 Taubat & Doa"
 id: taubat-dan-doa
 date: 2017-09-03 23:00:00
 audio: assets/audio/taubat-dan-doa/taubat-dan-doa.mp3

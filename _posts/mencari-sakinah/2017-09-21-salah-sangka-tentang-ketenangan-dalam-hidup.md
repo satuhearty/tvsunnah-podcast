@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Salah Sangka Tentang Ketenangan Dalam Hidup
+title: "#2 Salah Sangka Tentang Ketenangan Dalam Hidup"
 id: salah-sangka-tentang-ketenangan-dalam-hidup
 date: 2017-09-21 22:00:00
 audio: assets/audio/mencari-sakinah/salah-sangka-tentang-ketenangan-dalam-hidup.mp3
