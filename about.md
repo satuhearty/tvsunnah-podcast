@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Contact
+title: About
 description: null
 image: null
 author: null

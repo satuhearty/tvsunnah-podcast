@@ -1,6 +1,6 @@
 ---
 layout: albums
-title: All posts
+title: Podcasts
 landing-title: 'All posts'
 description: null
 image: null
