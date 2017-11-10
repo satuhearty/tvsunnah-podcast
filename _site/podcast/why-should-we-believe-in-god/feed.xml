@@ -15,10 +15,10 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <channel>
         <title>Why Should We Believe In God</title>
-        <atom:link href="http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/feed/" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/feed.xml" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Thu, 09 Nov 2017 23:18:00 -0500</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2017 00:44:22 -0500</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -58,7 +58,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/introduction.mp3" length="1080708" type="audio/mpeg" />
@@ -86,7 +86,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/why-this-subject-part-1.mp3" length="3369326" type="audio/mpeg" />
@@ -114,7 +114,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/why-this-subject-part-2.mp3" length="2364782" type="audio/mpeg" />
@@ -142,7 +142,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/describing-the-undescribable.mp3" length="2477491" type="audio/mpeg" />
@@ -170,7 +170,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/challenging-the-authority.mp3" length="4474288" type="audio/mpeg" />
@@ -198,7 +198,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/god-and-calamities.mp3" length="4228519" type="audio/mpeg" />
@@ -226,7 +226,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/id-and-evolution-theory.mp3" length="3141804" type="audio/mpeg" />
@@ -254,7 +254,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/mans-reaction.mp3" length="1962916" type="audio/mpeg" />
@@ -282,7 +282,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/no-brainer.mp3" length="807073" type="audio/mpeg" />
@@ -310,7 +310,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/throw-out-the-numbers.mp3" length="807073" type="audio/mpeg" />
@@ -338,7 +338,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/quran-the-before-and-after.mp3" length="4712360" type="audio/mpeg" />
@@ -366,7 +366,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/do-you-have-a-better-answer.mp3" length="4151760" type="audio/mpeg" />
@@ -394,7 +394,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/one-who-doesnt-have-a-god.mp3" length="3387569" type="audio/mpeg" />
@@ -422,7 +422,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/explore-on-your-own.mp3" length="1617323" type="audio/mpeg" />
@@ -450,7 +450,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/islam.mp3" length="1033629" type="audio/mpeg" />
@@ -478,7 +478,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/the-test-and-swedish-experience.mp3" length="2058933" type="audio/mpeg" />
@@ -506,7 +506,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/the-train-is-coming.mp3" length="4309355" type="audio/mpeg" />
@@ -534,7 +534,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/muslims-and-hijab.mp3" length="2465963" type="audio/mpeg" />
@@ -562,7 +562,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/muslims-and-beard.mp3" length="1705645" type="audio/mpeg" />
@@ -590,7 +590,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/conditions-of-muslims-today.mp3" length="2335411" type="audio/mpeg" />
@@ -618,7 +618,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/your-coming-to-islam.mp3" length="1782448" type="audio/mpeg" />
@@ -646,7 +646,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/worship-idol-vs-imaginary-one-part-1.mp3" length="2753980" type="audio/mpeg" />
@@ -674,7 +674,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/worship-idol-vs-imaginary-one-part-2.mp3" length="2935420" type="audio/mpeg" />
@@ -702,7 +702,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/evolution-and-god.mp3" length="4097965" type="audio/mpeg" />
@@ -730,7 +730,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/why-cant-god-use-evolution-as-a-vehicle-part-1.mp3" length="2793350" type="audio/mpeg" />
@@ -758,7 +758,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/why-cant-god-use-evolution-as-a-vehicle-part-2.mp3" length="2700422" type="audio/mpeg" />

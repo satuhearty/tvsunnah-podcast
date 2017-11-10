@@ -15,10 +15,10 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <channel>
         <title>Mencari Sakinah</title>
-        <atom:link href="http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/feed/" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah/feed.xml" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/tvsunnah-podcast/podcast/mencari-sakinah</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Thu, 09 Nov 2017 23:18:00 -0500</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2017 00:44:22 -0500</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -110,7 +110,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/makna-sakinah.mp3" length="3620014" type="audio/mpeg" />
@@ -138,7 +138,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/salah-sangka-tentang-ketenangan-dalam-hidup.mp3" length="3892078" type="audio/mpeg" />
@@ -166,7 +166,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/sakinah-yang-diberikan-kepada-nabi.mp3" length="5380078" type="audio/mpeg" />
@@ -194,7 +194,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/tawakkal.mp3" length="2788078" type="audio/mpeg" />
@@ -222,7 +222,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/doa-yang-nabi-ajar-kepada-fatimah.mp3" length="2636206" type="audio/mpeg" />
@@ -250,7 +250,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/ummu-salamah-apabila-ditimpa-musibah.mp3" length="2988142" type="audio/mpeg" />
@@ -278,7 +278,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/pengalaman-tentang-keajaiban-doa.mp3" length="2340142" type="audio/mpeg" />
@@ -306,7 +306,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/kisah-orang-mendapat-ketenangan.mp3" length="4388014" type="audio/mpeg" />
@@ -334,7 +334,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-1.mp3" length="3964270" type="audio/mpeg" />
@@ -362,7 +362,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-2.mp3" length="4612078" type="audio/mpeg" />
@@ -390,7 +390,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/syukur-bahagian-1.mp3" length="4380142" type="audio/mpeg" />
@@ -418,7 +418,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/syukur-bahagian-2.mp3" length="4108078" type="audio/mpeg" />
@@ -446,7 +446,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/mencari-sakinah/doa-dalam-bahasa-selain-bahasa-arab.mp3" length="4748206" type="audio/mpeg" />

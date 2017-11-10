@@ -15,10 +15,10 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <channel>
         <title>Special Group of People</title>
-        <atom:link href="http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/feed/" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/feed.xml" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Thu, 09 Nov 2017 23:18:00 -0500</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2017 00:44:22 -0500</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -136,7 +136,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/the-special-group-of-people.mp3" length="10715084" type="audio/mpeg" />
@@ -164,7 +164,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-1.mp3" length="6611753" type="audio/mpeg" />
@@ -192,7 +192,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-2-and-3.mp3" length="3483926" type="audio/mpeg" />
@@ -220,7 +220,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-4.mp3" length="4347734" type="audio/mpeg" />
@@ -248,7 +248,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-5.mp3" length="6283670" type="audio/mpeg" />
@@ -276,7 +276,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-6.mp3" length="2771606" type="audio/mpeg" />
@@ -304,7 +304,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-7.mp3" length="1203734" type="audio/mpeg" />
@@ -332,7 +332,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/category-8.mp3" length="8291798" type="audio/mpeg" />
@@ -360,7 +360,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="http://localhost:4000assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
+                <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/special-group-of-people/album-picture-small.jpg" />
 ]]>
             </content:encoded>
             <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/special-group-of-people/whats-in-it-for-ibadurrahman.mp3" length="3131798" type="audio/mpeg" />

@@ -1,8 +1,3 @@
----
-podcast_id: mencari-sakinah
-permalink: podcast/mencari-sakinah/feed/
----
-
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 xmlns:content="http://purl.org/rss/1.0/modules/content/"
 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -70,7 +65,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                 <![CDATA[{{ post.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
             </description>
             <content:encoded>
-                <![CDATA[<img class="featured-image" src="{{ post.image | prepend: site.url }}" />{{ post.content | expand_urls: site.url | cdata_escape }}]]>
+                <![CDATA[<img class="featured-image" src="{{ site.url }}{{ site.baseurl }}/{{ post.image }}" />{{ post.content | expand_urls: site.url | cdata_escape }}]]>
             </content:encoded>
             <enclosure url="{{ site.url }}{{ site.baseurl }}/{{ post.audio }}" length="{{ post.podcast_length }}" type="audio/mpeg" />
             <itunes:subtitle><![CDATA[{{ post.title | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape | replace: '&', '&amp;' }}]]></itunes:subtitle>
