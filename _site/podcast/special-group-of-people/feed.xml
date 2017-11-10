@@ -18,7 +18,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <atom:link href="http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/feed.xml" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Fri, 10 Nov 2017 00:51:12 -0500</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2017 01:13:33 -0500</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -126,7 +126,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <title>#1 The Special Group of People</title>
                     <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/the-special-group-of-people</link>
                     <pubDate>Tue, 19 Sep 2017 23:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
                     <category><![CDATA[ religion ]]></category>
                     <category><![CDATA[ faith ]]></category>
                     <category><![CDATA[ islam ]]></category>
@@ -153,7 +153,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <title>#2 Category No 1</title>
                     <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-1</link>
                     <pubDate>Tue, 19 Sep 2017 22:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
                     <category><![CDATA[ religion ]]></category>
                     <category><![CDATA[ faith ]]></category>
                     <category><![CDATA[ islam ]]></category>
@@ -180,7 +180,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <title>#3 Category No 2 &amp; 3</title>
                     <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-2-and-3</link>
                     <pubDate>Tue, 19 Sep 2017 21:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
                     <category><![CDATA[ religion ]]></category>
                     <category><![CDATA[ faith ]]></category>
                     <category><![CDATA[ islam ]]></category>
@@ -207,7 +207,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <title>#4 Category No 4</title>
                     <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-4</link>
                     <pubDate>Tue, 19 Sep 2017 20:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
                     <category><![CDATA[ religion ]]></category>
                     <category><![CDATA[ faith ]]></category>
                     <category><![CDATA[ islam ]]></category>
@@ -234,7 +234,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <title>#5 Category No 5</title>
                     <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-5</link>
                     <pubDate>Tue, 19 Sep 2017 19:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
                     <category><![CDATA[ religion ]]></category>
                     <category><![CDATA[ faith ]]></category>
                     <category><![CDATA[ islam ]]></category>
@@ -261,7 +261,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <title>#6 Category No 6</title>
                     <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-6</link>
                     <pubDate>Tue, 19 Sep 2017 18:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
                     <category><![CDATA[ religion ]]></category>
                     <category><![CDATA[ faith ]]></category>
                     <category><![CDATA[ islam ]]></category>
@@ -288,7 +288,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <title>#7 Category No 7</title>
                     <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-7</link>
                     <pubDate>Tue, 19 Sep 2017 17:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
                     <category><![CDATA[ religion ]]></category>
                     <category><![CDATA[ faith ]]></category>
                     <category><![CDATA[ islam ]]></category>
@@ -315,7 +315,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <title>#8 Category No 8</title>
                     <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/category-8</link>
                     <pubDate>Tue, 19 Sep 2017 16:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
                     <category><![CDATA[ religion ]]></category>
                     <category><![CDATA[ faith ]]></category>
                     <category><![CDATA[ islam ]]></category>
@@ -342,7 +342,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <title>#9 What's In It For Ibadurrahman?</title>
                     <link>http://localhost:4000/tvsunnah-podcast/podcast/special-group-of-people/whats-in-it-for-ibadurrahman</link>
                     <pubDate>Tue, 19 Sep 2017 15:00:00 +0000</pubDate>
-                    <dc:creator><![CDATA[]]></dc:creator>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
                     <category><![CDATA[ religion ]]></category>
                     <category><![CDATA[ faith ]]></category>
                     <category><![CDATA[ islam ]]></category>
