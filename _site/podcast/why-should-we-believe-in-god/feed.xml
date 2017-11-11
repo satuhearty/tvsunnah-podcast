@@ -18,7 +18,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <atom:link href="http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/feed.xml" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Sat, 11 Nov 2017 09:32:01 -0500</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2017 10:31:30 -0500</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -46,7 +46,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
             
                 <item>
-                    <title>#26 Why cant God use evolution as a vehicle Part 2</title>
+                    <title>#26 Why Cant God Use Evolution As A Vehicle (Part 2)</title>
                     <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/why-cant-god-use-evolution-as-a-vehicle-part-2</link>
                     <pubDate>Fri, 22 Sep 2017 00:26:00 +0000</pubDate>
                     <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
@@ -62,7 +62,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
                     </content:encoded>
                     <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/why-cant-god-use-evolution-as-a-vehicle-part-2.mp3" length="2700422" type="audio/mpeg" />
-                    <itunes:subtitle><![CDATA[#26 Why cant God use evolution as a vehicle Part 2]]></itunes:subtitle>
+                    <itunes:subtitle><![CDATA[#26 Why Cant God Use Evolution As A Vehicle (Part 2)]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Explaining why evolution is not true.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
                     <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
@@ -73,7 +73,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
             
                 <item>
-                    <title>#25 Why cant God use evolution as a vehicle Part 1</title>
+                    <title>#25 Why Cant God Use Evolution As A Vehicle (Part 1)</title>
                     <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/why-cant-god-use-evolution-as-a-vehicle-part-1</link>
                     <pubDate>Fri, 22 Sep 2017 00:25:00 +0000</pubDate>
                     <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
@@ -89,7 +89,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
                     </content:encoded>
                     <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/why-cant-god-use-evolution-as-a-vehicle-part-1.mp3" length="2793350" type="audio/mpeg" />
-                    <itunes:subtitle><![CDATA[#25 Why cant God use evolution as a vehicle Part 1]]></itunes:subtitle>
+                    <itunes:subtitle><![CDATA[#25 Why Cant God Use Evolution As A Vehicle (Part 1)]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Explaining why evolution is not true.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
                     <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
@@ -127,7 +127,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
             
                 <item>
-                    <title>#23 Worship Idol vs imaginary One (Part 2)</title>
+                    <title>#23 Worship Idol vs Imaginary One (Part 2)</title>
                     <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/worship-idol-vs-imaginary-one-part-2</link>
                     <pubDate>Fri, 22 Sep 2017 00:23:00 +0000</pubDate>
                     <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
@@ -143,7 +143,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
                     </content:encoded>
                     <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/worship-idol-vs-imaginary-one-part-2.mp3" length="2935420" type="audio/mpeg" />
-                    <itunes:subtitle><![CDATA[#23 Worship Idol vs imaginary One (Part 2)]]></itunes:subtitle>
+                    <itunes:subtitle><![CDATA[#23 Worship Idol vs Imaginary One (Part 2)]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Where to go to learn more about this?]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
                     <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
@@ -154,7 +154,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         
             
                 <item>
-                    <title>#22 Worship Idol vs imaginary One (Part 1)</title>
+                    <title>#22 Worship Idol vs Imaginary One (Part 1)</title>
                     <link>http://localhost:4000/tvsunnah-podcast/podcast/why-should-we-believe-in-god/worship-idol-vs-imaginary-one-part-1</link>
                     <pubDate>Fri, 22 Sep 2017 00:22:00 +0000</pubDate>
                     <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
@@ -170,7 +170,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
                     </content:encoded>
                     <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/why-should-we-believe-in-god/worship-idol-vs-imaginary-one-part-1.mp3" length="2753980" type="audio/mpeg" />
-                    <itunes:subtitle><![CDATA[#22 Worship Idol vs imaginary One (Part 1)]]></itunes:subtitle>
+                    <itunes:subtitle><![CDATA[#22 Worship Idol vs Imaginary One (Part 1)]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Where to go to learn more about this?]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
                     <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />

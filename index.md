@@ -7,4 +7,4 @@ image: null
 author: null
 ---
 
-TVSunnah Podcast is the award-winning narrative podcasting company that aims to help listeners better understand the world and each other. Want to get involved? Follow our journey by becoming a member or subscribing to our newsletter.
+TVSunnah Podcast is a podcasting company that aims to help listeners better understand faith and Islam. Want to get involved? Follow our journey by subscribing to our newsletter.
