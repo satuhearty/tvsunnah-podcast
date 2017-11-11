@@ -2,7 +2,7 @@
 layout: post
 title: "#16 The Test & Swedish Experience"
 id: the-test-and-swedish-experience
-date: 2017-09-22 23:44:00
+date: 2017-09-22 00:16:00
 audio: assets/audio/why-should-we-believe-in-god/the-test-and-swedish-experience.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes

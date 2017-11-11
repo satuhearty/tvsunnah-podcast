@@ -2,7 +2,7 @@
 layout: post
 title: "#6 God & Calamities"
 id: god-and-calamities
-date: 2017-09-22 23:54:00
+date: 2017-09-22 00:06:00
 audio: assets/audio/why-should-we-believe-in-god/god-and-calamities.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes

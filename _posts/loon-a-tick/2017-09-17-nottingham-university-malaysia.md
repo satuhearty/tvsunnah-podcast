@@ -2,7 +2,7 @@
 layout: post
 title: "#2 Loon @ Nottingham University Malaysia"
 id: nottingham-university-malaysia
-date: 2017-09-17 22:00:00
+date: 2017-09-17 00:02:00
 audio: assets/audio/loon-a-tick/nottingham-university-malaysia.mp3
 album: Loon-A-Tick
 speaker_id: loon

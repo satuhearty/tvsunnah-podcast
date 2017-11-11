@@ -2,7 +2,7 @@
 layout: post
 title: "#4 Describing The Undescribable"
 id: describing-the-undescribable
-date: 2017-09-22 23:56:00
+date: 2017-09-22 00:04:00
 audio: assets/audio/why-should-we-believe-in-god/describing-the-undescribable.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes

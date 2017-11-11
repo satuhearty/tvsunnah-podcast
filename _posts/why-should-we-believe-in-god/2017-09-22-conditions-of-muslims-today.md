@@ -2,7 +2,7 @@
 layout: post
 title: "#20 Conditions of Muslims Today"
 id: conditions-of-muslims-today
-date: 2017-09-22 23:40:00
+date: 2017-09-22 00:20:00
 audio: assets/audio/why-should-we-believe-in-god/conditions-of-muslims-today.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes

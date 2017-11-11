@@ -2,7 +2,7 @@
 layout: post
 title: "#5 Challenging The Authority"
 id: challenging-the-authority
-date: 2017-09-22 23:55:00
+date: 2017-09-22 00:05:00
 audio: assets/audio/why-should-we-believe-in-god/challenging-the-authority.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes

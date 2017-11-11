@@ -2,7 +2,7 @@
 layout: post
 title: "#12 Do You Have a Better Answer? Benefit of Believing in God"
 id: do-you-have-a-better-answer
-date: 2017-09-22 23:48:00
+date: 2017-09-22 00:12:00
 audio: assets/audio/why-should-we-believe-in-god/do-you-have-a-better-answer.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes

@@ -2,7 +2,7 @@
 layout: post
 title: "#18 Muslims & Hijab"
 id: muslims-and-hijab
-date: 2017-09-22 23:42:00
+date: 2017-09-22 00:18:00
 audio: assets/audio/why-should-we-believe-in-god/muslims-and-hijab.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes

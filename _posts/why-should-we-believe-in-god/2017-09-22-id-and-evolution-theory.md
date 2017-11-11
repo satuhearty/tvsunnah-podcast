@@ -2,7 +2,7 @@
 layout: post
 title: "#7 ID & Evolution Theory"
 id: id-and-evolution-theory
-date: 2017-09-22 23:53:00
+date: 2017-09-22 00:07:00
 audio: assets/audio/why-should-we-believe-in-god/id-and-evolution-theory.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes

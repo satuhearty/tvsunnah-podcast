@@ -2,7 +2,7 @@
 layout: post
 title: "#3 Sakinah Yang Diberikan Kepada Nabi SAW & Abu Bakar RA"
 id: sakinah-yang-diberikan-kepada-nabi
-date: 2017-09-21 21:00:00
+date: 2017-09-21 00:03:00
 audio: assets/audio/mencari-sakinah/sakinah-yang-diberikan-kepada-nabi.mp3
 album: Mencari Sakinah
 speaker_id: drmaza

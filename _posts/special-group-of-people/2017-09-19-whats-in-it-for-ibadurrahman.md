@@ -2,7 +2,7 @@
 layout: post
 title: "#9 What's In It For Ibadurrahman?"
 id: whats-in-it-for-ibadurrahman
-date: 2017-09-19 15:00:00
+date: 2017-09-19 00:09:00
 audio: assets/audio/special-group-of-people/whats-in-it-for-ibadurrahman.mp3
 album: Special Group of People
 speaker_id: nak

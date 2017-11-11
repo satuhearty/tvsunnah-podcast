@@ -2,7 +2,7 @@
 layout: post
 title: "#1 The Shade of The Day of Judgement"
 id: the-shade-of-the-day-of-judgement
-date: 2017-09-01 23:00:00
+date: 2017-09-01 00:00:00
 audio: assets/audio/the-shade-of-the-day-of-judgement/the-shade-of-the-day-of-judgement.mp3
 album: The Shade of The Day of Judgement
 speaker_id: muftimenk

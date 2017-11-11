@@ -2,7 +2,7 @@
 layout: post
 title: "#13 Doa Dalam Bahasa Selain Bahasa Arab"
 id: doa-dalam-bahasa-selain-bahasa-arab
-date: 2017-09-21 11:00:00
+date: 2017-09-21 00:13:00
 audio: assets/audio/mencari-sakinah/doa-dalam-bahasa-selain-bahasa-arab.mp3
 album: Mencari Sakinah
 speaker_id: drmaza

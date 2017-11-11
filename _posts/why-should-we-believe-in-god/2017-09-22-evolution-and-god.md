@@ -2,7 +2,7 @@
 layout: post
 title: "#24 Evolution and God"
 id: evolution-and-god
-date: 2017-09-22 23:36:00
+date: 2017-09-22 00:24:00
 audio: assets/audio/why-should-we-believe-in-god/evolution-and-god.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes

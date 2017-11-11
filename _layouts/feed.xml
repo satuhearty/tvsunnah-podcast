@@ -50,6 +50,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
             <itunes:category text="{{ site.podcast_subcategory_one }}" />
             <itunes:category text="{{ site.podcast_subcategory_two }}" />
         </itunes:category>
+        {% assign posts = (site.posts | sorted: 'date') %}
         {% for post in site.posts %}
             {% if post.podcast == podcast.podcast_id %}
                 <item>

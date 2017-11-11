@@ -48,7 +48,8 @@
         </div>
         <div class="content">
           {% assign index = 1 %}
-          {% for post in site.posts %}
+          {% assign posts = (site.posts | sort: 'date') %}
+          {% for post in posts %}
             {% if post.podcast == page.podcast_id %}
               <div class="inner">
                 <a href="{{ post.id  | relative_url }}">

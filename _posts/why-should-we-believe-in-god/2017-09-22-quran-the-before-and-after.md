@@ -2,7 +2,7 @@
 layout: post
 title: "#11 Qur'an The Before & After"
 id: quran-the-before-and-after
-date: 2017-09-22 23:49:00
+date: 2017-09-22 00:11:00
 audio: assets/audio/why-should-we-believe-in-god/quran-the-before-and-after.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes

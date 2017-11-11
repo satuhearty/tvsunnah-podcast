@@ -2,7 +2,7 @@
 layout: post
 title: "#25 Why cant God use evolution as a vehicle Part 1"
 id: why-cant-god-use-evolution-as-a-vehicle-part-1
-date: 2017-09-22 23:35:00
+date: 2017-09-22 00:25:00
 audio: assets/audio/why-should-we-believe-in-god/why-cant-god-use-evolution-as-a-vehicle-part-1.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes

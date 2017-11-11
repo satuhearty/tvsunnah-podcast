@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, Welcome to TVSunnah Podcast'
+landing-title: 'Welcome to TVSunnah Podcast'
 description: null
 image: null
 author: null

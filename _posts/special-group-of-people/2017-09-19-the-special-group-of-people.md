@@ -2,7 +2,7 @@
 layout: post
 title: "#1 The Special Group of People"
 id: the-special-group-of-people
-date: 2017-09-19 23:00:00
+date: 2017-09-19 00:01:00
 audio: assets/audio/special-group-of-people/the-special-group-of-people.mp3
 album: Special Group of People
 speaker_id: nak

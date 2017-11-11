@@ -2,7 +2,7 @@
 layout: post
 title: "#6 Ummu Salamah Apabila Ditimpa Musibah"
 id: ummu-salamah-apabila-ditimpa-musibah
-date: 2017-09-21 18:00:00
+date: 2017-09-21 00:06:00
 audio: assets/audio/mencari-sakinah/ummu-salamah-apabila-ditimpa-musibah.mp3
 album: Mencari Sakinah
 speaker_id: drmaza

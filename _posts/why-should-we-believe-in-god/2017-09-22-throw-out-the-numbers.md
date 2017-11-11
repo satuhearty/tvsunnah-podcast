@@ -2,7 +2,7 @@
 layout: post
 title: "#10 Throw Out The Numbers"
 id: throw-out-the-numbers
-date: 2017-09-22 23:50:00
+date: 2017-09-22 00:10:00
 audio: assets/audio/why-should-we-believe-in-god/throw-out-the-numbers.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes

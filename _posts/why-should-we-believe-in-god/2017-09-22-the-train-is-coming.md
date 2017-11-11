@@ -2,7 +2,7 @@
 layout: post
 title: "#17 The Train is Coming"
 id: the-train-is-coming
-date: 2017-09-22 23:43:00
+date: 2017-09-22 00:17:00
 audio: assets/audio/why-should-we-believe-in-god/the-train-is-coming.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes

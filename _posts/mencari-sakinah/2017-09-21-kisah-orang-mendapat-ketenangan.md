@@ -2,7 +2,7 @@
 layout: post
 title: "#8 Kisah Orang Yang Mendapat Ketenangan"
 id: kisah-orang-mendapat-ketenangan
-date: 2017-09-21 16:00:00
+date: 2017-09-21 00:08:00
 audio: assets/audio/mencari-sakinah/kisah-orang-mendapat-ketenangan.mp3
 album: Mencari Sakinah
 speaker_id: drmaza

@@ -2,7 +2,7 @@
 layout: post
 title: "#1 Taubat & Doa"
 id: taubat-dan-doa
-date: 2017-09-03 23:00:00
+date: 2017-09-03 00:00:00
 audio: assets/audio/taubat-dan-doa/taubat-dan-doa.mp3
 album: Taubat & Doa
 speaker_id: drmaza

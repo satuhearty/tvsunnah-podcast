@@ -2,7 +2,7 @@
 layout: post
 title: "#1 Introduction to Why Should We Believe in God"
 id: introduction
-date: 2017-09-22 23:59:00
+date: 2017-09-22 00:01:00
 audio: assets/audio/why-should-we-believe-in-god/introduction.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes

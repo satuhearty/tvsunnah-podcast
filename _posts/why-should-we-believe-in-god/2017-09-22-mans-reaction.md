@@ -2,7 +2,7 @@
 layout: post
 title: "#8 Mans Reaction"
 id: mans-reaction
-date: 2017-09-22 23:52:00
+date: 2017-09-22 00:08:00
 audio: assets/audio/why-should-we-believe-in-god/mans-reaction.mp3
 album: Why Should We Believe In God
 speaker_id: yusufestes
