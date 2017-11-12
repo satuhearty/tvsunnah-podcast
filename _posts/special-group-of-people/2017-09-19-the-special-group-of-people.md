@@ -10,7 +10,7 @@ podcast: special-group-of-people
 permalink: podcast/special-group-of-people/:title
 image: assets/images/podcasts/special-group-of-people/album-picture-small.jpg
 description: Introduction about the special group of people.
-podcast_file_size: 10.72 MB
-podcast_duration: "07:10"
-podcast_length: 10715084
+podcast_file_size: 3.89 MB
+podcast_duration: "08:07"
+podcast_length: 3888561
 ---

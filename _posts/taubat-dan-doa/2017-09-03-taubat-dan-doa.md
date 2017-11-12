@@ -10,7 +10,7 @@ podcast: taubat-dan-doa
 permalink: podcast/taubat-dan-doa/:title
 image: assets/images/podcasts/taubat-dan-doa/album-picture-small.jpg
 description: Dr. Mohd Asri memberi huraian tentang taubat dan doa.
-podcast_file_size: 20.86 MB
-podcast_duration: "40:31"
-podcast_length: 20858117
+podcast_file_size: 20.14 MB
+podcast_duration: "41:07"
+podcast_length: 20135868
 ---

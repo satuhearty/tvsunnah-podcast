@@ -10,7 +10,7 @@ podcast: why-should-we-believe-in-god
 permalink: podcast/why-should-we-believe-in-god/:title
 image: assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg
 description: Introduction to the topic of "Why Should We Believe In God".
-podcast_file_size: 1.08 MB
-podcast_duration: "02:16"
-podcast_length: 1080708
+podcast_file_size: 2.86 MB
+podcast_duration: "03:11"
+podcast_length: 2860932
 ---

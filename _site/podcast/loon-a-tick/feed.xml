@@ -18,7 +18,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <atom:link href="http://localhost:4000/tvsunnah-podcast/podcast/loon-a-tick/feed.xml" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/tvsunnah-podcast/podcast/loon-a-tick</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Sat, 11 Nov 2017 10:31:30 -0500</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2017 23:58:12 -0500</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -157,13 +157,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/loon-a-tick/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/loon-a-tick/nottingham-university-malaysia.mp3" length="28539892" type="audio/mpeg" />
+                    <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/loon-a-tick/nottingham-university-malaysia.mp3" length="29445288" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#2 Loon @ Nottingham University Malaysia]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Loon's talk about his experience as a Muslim.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
                     <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/loon-a-tick/album-picture-small.jpg" />
                     <itunes:explicit>no</itunes:explicit>
-                    <itunes:duration>58:26</itunes:duration>
+                    <itunes:duration>59:23</itunes:duration>
                 </item>
             
         
@@ -184,13 +184,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/loon-a-tick/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/loon-a-tick/islamic-university-malaysia.mp3" length="16580873" type="audio/mpeg" />
+                    <enclosure url="http://localhost:4000/tvsunnah-podcast/assets/audio/loon-a-tick/islamic-university-malaysia.mp3" length="17037495" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#1 Loon @ Islamic University Malaysia]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Loon's talk about his journey to Islam at Islamic University Malaysia.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
                     <itunes:image href="http://localhost:4000/tvsunnah-podcast/assets/images/podcasts/loon-a-tick/album-picture-small.jpg" />
                     <itunes:explicit>no</itunes:explicit>
-                    <itunes:duration>33:32</itunes:duration>
+                    <itunes:duration>34:29</itunes:duration>
                 </item>
             
         

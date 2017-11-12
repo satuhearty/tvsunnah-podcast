@@ -10,7 +10,7 @@ podcast: mencari-sakinah
 permalink: podcast/mencari-sakinah/:title
 image: assets/images/podcasts/mencari-sakinah/album-picture-small.jpg
 description: Huraian tentang makna perkataan sakinah dalam bahasa Arab. 
-podcast_file_size: 3.62 MB
-podcast_duration: "05:26"
-podcast_length: 3620014
+podcast_file_size: 3.91 MB
+podcast_duration: "06:02"
+podcast_length: 3910560
 ---
