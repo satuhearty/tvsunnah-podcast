@@ -3,8 +3,8 @@ title: TVSunnah Podcast
 #subtitle: by TVSunnah
 email: contact@tvsunnahpodcast.com
 description: If you’re new to TVSunnah Podcast, we’ve got a lot of podcasts for you!
-baseurl: "/tvsunnah-podcast"
-url: "https://satuhearty.github.io" # the base hostname & protocol for your site
+baseurl: ""
+url: "https://www.tvsunnahpodcast.com"
 author:
 street_address: 42 Jalan SS12/1F
 city: Subang Jaya
