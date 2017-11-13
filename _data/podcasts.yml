@@ -7,6 +7,7 @@
   url: podcast/mencari-sakinah
   description: Ceramah yang telah diadakan pada pagi 1 Nov 2009. Dr Mohd Asri ditangkap JAIS pada malamnya. Ceramah ini diadakan Kelana Jaya atas jemputan Badan Kebajikan Islam Kelana Jaya.
   style: style1
+  language: ms
 - podcast_id: special-group-of-people
   title: Special Group of People
   speaker_id: nak
@@ -16,6 +17,7 @@
   url: podcast/special-group-of-people
   description: Who Gets Allah's Mercy? Allah's mercy is beyond limits but there is a special kind of mercy He has promised to His most-beloved servants. Nouman Ali Khan explains the different groups of those special people that will receive Allah's special mercy, care and immediate response, in an exclusive 2-day event at FANAR on 27th - 28h June 2013.
   style: style2
+  language: en-us
 - podcast_id: why-should-we-believe-in-god
   title: Why Should We Believe In God
   speaker_id: yusufestes
@@ -25,6 +27,7 @@
   url: podcast/why-should-we-believe-in-god
   description: Why Should We Believe in God? Sheikh Yusuf Estes, The Malaysian Tour University Malaya Malaysia Nov 2008.
   style: style3
+  language: en-us
 - podcast_id: loon-a-tick
   title: Loon-A-Tick
   speaker_id: loon
@@ -34,6 +37,7 @@
   url: podcast/loon-a-tick
   description: Amir Junaid Muhaddith Aka Loon's Trip to Malaysia
   style: style4
+  language: en-us
 - podcast_id: the-shade-of-the-day-of-judgement
   title: The Shade of The Day of Judgement
   speaker_id: muftimenk
@@ -43,6 +47,7 @@
   url: podcast/the-shade-of-the-day-of-judgement
   description: Lecture at the At-Taqwa Mosque, Taman Tun Dr ismail, Kuala Lumpur, Malaysia on 15th Dec 2012.
   style: style6
+  language: en-us
 - podcast_id: taubat-dan-doa
   title: Taubat & Doa
   speaker_id: drmaza
@@ -52,3 +57,4 @@
   url: podcast/taubat-dan-doa
   description: Ceramah Dr. Mohd Asri Zainul Abidin tentang taubat & doa.
   style: style5
+  language: ms

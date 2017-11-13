@@ -27,7 +27,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <link>{{ site.url }}{{ site.baseurl }}/{{ podcast.url }}</link>
         <description>Bringing You The World of Sunnah</description>
         <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
-        <language>en-US</language>
+        <language>{{ podcast.language }}</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
         <generator>http://jekyllrb.com/</generator>
