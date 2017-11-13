@@ -1,5 +1,5 @@
 ---
 layout: feed
-podcast_id: loon-a-tick
-permalink: podcast/loon-a-tick/feed.xml
+podcast_id: why-should-we-believe-in-god
+permalink: podcast/why-should-we-believe-in-god/feed.xml
 ---
