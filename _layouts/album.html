@@ -48,7 +48,7 @@
         </div>
         <div class="content">
           {% assign index = 1 %}
-          {% assign posts = (site.posts | sort: 'date') %}
+          {% assign posts = site.posts | sort: 'date' %}
           {% for post in posts %}
             {% if post.podcast == page.podcast_id %}
               <div class="inner">
