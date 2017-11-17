@@ -13,4 +13,6 @@ description: A story that you can try with your kids.
 podcast_file_size: 4.31 MB
 podcast_duration: "08:59"
 podcast_length: 4309355
+itunes: https://itunes.apple.com/us/podcast/17-the-train-is-coming/id1312646688?i=1000394707156
+google_play: https://play.google.com/music/m/Deggzxqdr4jza2jrcuhnshbi734?t=17_The_Train_is_Coming-Why_Should_We_Believe_In_God
 ---

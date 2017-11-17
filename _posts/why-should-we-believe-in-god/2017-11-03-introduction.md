@@ -13,4 +13,6 @@ description: Introduction to the topic of "Why Should We Believe In God".
 podcast_file_size: 2.86 MB
 podcast_duration: "03:11"
 podcast_length: 2860932
+itunes: https://itunes.apple.com/us/podcast/1-introduction-to-why-should-we-believe-in-god/id1312646688?i=1000394707154
+google_play: https://play.google.com/music/m/Dra4wcbal5fqxr6jkcte4xk6kqi?t=1_Introduction_to_Why_Should_We_Believe_in_God-Why_Should_We_Believe_In_God
 ---

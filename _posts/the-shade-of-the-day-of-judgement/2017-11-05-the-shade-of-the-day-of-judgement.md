@@ -13,4 +13,6 @@ description: Who gets the shade on the day of judgement?
 podcast_file_size: 28.88 MB
 podcast_duration: "59:12"
 podcast_length: 28881526
+itunes: https://itunes.apple.com/us/podcast/1-the-shade-of-the-day-of-judgement/id1312647156?i=1000394707227
+google_play: https://play.google.com/music/m/D2t3j5pw2dwler74sxildyxd72i?t=1_The_Shade_of_The_Day_of_Judgement-The_Shade_of_The_Day_of_Judgement
 ---

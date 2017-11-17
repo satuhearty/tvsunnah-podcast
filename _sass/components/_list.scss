@@ -70,6 +70,10 @@ ul {
       }
     }
 
+    &.inline {
+      display: inline;
+    }
+
     &.small {
       li {
         padding: 0 (_size(element-margin) * 0.5) 0 0;

@@ -13,4 +13,6 @@ description: Yusuf Estes explaining his journey to Islam.
 podcast_file_size: 1.78 MB
 podcast_duration: "03:43"
 podcast_length: 1782448
+itunes: https://itunes.apple.com/us/podcast/21-your-coming-to-islam/id1312646688?i=1000394707150
+google_play: https://play.google.com/music/m/Dutfdpchydnjejrgofq5vvkz45y?t=21_Your_coming_to_Islam-Why_Should_We_Believe_In_God
 ---

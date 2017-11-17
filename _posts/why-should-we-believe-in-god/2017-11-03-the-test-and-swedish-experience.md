@@ -13,4 +13,6 @@ description: The test that you can try on your own.
 podcast_file_size: 2.06 MB
 podcast_duration: "04:18"
 podcast_length: 2058933
+itunes: https://itunes.apple.com/us/podcast/16-the-test-swedish-experience/id1312646688?i=1000394707153
+google_play: https://play.google.com/music/m/Dotug6b5lwzyfbvuisxrxcyoqtm?t=16_The_Test__Swedish_Experience-Why_Should_We_Believe_In_God
 ---

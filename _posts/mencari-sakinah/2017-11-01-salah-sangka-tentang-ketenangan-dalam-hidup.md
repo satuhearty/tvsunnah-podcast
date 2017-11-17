@@ -13,4 +13,6 @@ description: Adakah harta mampu memberi ketenangan dalam hidup?
 podcast_file_size: 3.89 MB
 podcast_duration: "06:00"
 podcast_length: 3892078
+itunes: https://itunes.apple.com/us/podcast/2-salah-sangka-tentang-ketenangan-dalam-hidup/id1312701517?i=1000394721891
+google_play: https://play.google.com/music/m/Dduqa5eptndinfmuakwlfcuhxfm?t=2_Salah_Sangka_Tentang_Ketenangan_Dalam_Hidup-Mencari_Sakinah
 ---

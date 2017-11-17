@@ -56,7 +56,24 @@
                   <h2 class="audio-title">{{ post.title }}</h2>
                 </a>
                 <p class="audio-description">{{ post.description }}</p>
-                <p>{{ post.date | date: "%b %d, %Y" }} &nbsp; &nbsp; &nbsp; &nbsp; <em>{{ post.podcast_duration }}</em></p>
+                <p class="audio-duration">{{ post.date | date: "%b %d, %Y" }} &nbsp; &nbsp; &nbsp; &nbsp; <b><em>{{ post.podcast_duration }}</em></b></p>
+                {% if post.itunes and post.google_play %}
+                  <div class="podcast-players">
+                    Listen on: &nbsp; &nbsp; &nbsp; &nbsp;
+                    <ul class="actions inline">
+                      <li><a class="button special small margin" href="{{ post.itunes }}" target="_blank">iTunes Podcast</a></li>
+                      <li><a class="button special small margin" href="{{ post.google_play }}" target="_blank">Google Play Music</a></li>
+                    </ul>
+                  </div>
+                {% endif %}
+                <!--<span>-->
+                  <!--<a class="{{ post.itunes }}" target="_blank">-->
+                    <!--<img class="player-icons" src="{{ site.baseurl }}/assets/images/players/itunes-podcast.png">-->
+                  <!--</a>-->
+                  <!--<a class="{{ post.google_play }}" target="_blank">-->
+                    <!--<img class="player-icons" src="{{ site.baseurl }}/assets/images/players/google-play-music.png">-->
+                  <!--</a>-->
+                <!--</span>-->
                 <div id="waveform-{{ index }}" class="js-waveform">
                   <audio id="audio-{{ index }}" style="display: none" preload="none" src="" data-audio="{{ site.baseurl }}/{{ post.audio }}"></audio>
                 </div>

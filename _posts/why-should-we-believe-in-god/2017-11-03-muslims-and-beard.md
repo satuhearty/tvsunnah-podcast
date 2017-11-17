@@ -13,4 +13,6 @@ description: Do muslims have to grow beard?
 podcast_file_size: 1.71 MB
 podcast_duration: "03:34"
 podcast_length: 1705645
+itunes: https://itunes.apple.com/us/podcast/19-muslims-and-beard/id1312646688?i=1000394707151
+google_play: https://play.google.com/music/m/D76pyiqjvyj3wnqhfq2ajoe2ywi?t=19_Muslims_and_Beard-Why_Should_We_Believe_In_God
 ---

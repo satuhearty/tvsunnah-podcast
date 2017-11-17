@@ -13,4 +13,6 @@ description: Makna Syukur dan kaitannya dengan sakinah (Bahagian 1).
 podcast_file_size: 4.38 MB
 podcast_duration: "07:01"
 podcast_length: 4380142
+itunes: https://itunes.apple.com/us/podcast/11-syukur-bahagian-1/id1312701517?i=1000394721893
+google_play: https://play.google.com/music/m/Dd3bszdhhfbyj7kwune2rxk4y4y?t=11_Syukur_Bahagian_1-Mencari_Sakinah
 --- 

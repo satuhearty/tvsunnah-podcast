@@ -13,4 +13,6 @@ description: Introduction about the special group of people.
 podcast_file_size: 3.89 MB
 podcast_duration: "08:07"
 podcast_length: 3888561
+itunes: https://itunes.apple.com/us/podcast/1-the-special-group-of-people/id1312646656?i=1000394707109
+google_play: https://play.google.com/music/m/Dndswintehh2463fdhrqucegium?t=1_The_Special_Group_of_People-Special_Group_of_People
 ---

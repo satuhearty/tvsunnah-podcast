@@ -13,4 +13,6 @@ description: Do researches and scientists really tell the truth about their find
 podcast_file_size: 1.96 MB
 podcast_duration: "04:06"
 podcast_length: 1962916
+itunes: https://itunes.apple.com/us/podcast/8-mans-reaction/id1312646688?i=1000394707147
+google_play: https://play.google.com/music/m/Dqlefwnhsbyeqnrtedzey5ipc34?t=8_Mans_Reaction-Why_Should_We_Believe_In_God
 ---

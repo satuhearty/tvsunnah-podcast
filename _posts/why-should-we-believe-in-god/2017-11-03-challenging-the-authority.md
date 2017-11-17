@@ -13,4 +13,6 @@ description: Revealing the most important question; Why?
 podcast_file_size: 4.47 MB
 podcast_duration: "09:20"
 podcast_length: 4474288
+itunes: https://itunes.apple.com/us/podcast/5-challenging-the-authority/id1312646688?i=1000394707152
+google_play: https://play.google.com/music/m/D3vxqhnnyg5kh3j5fsg3ziuliry?t=5_Challenging_The_Authority-Why_Should_We_Believe_In_God
 ---

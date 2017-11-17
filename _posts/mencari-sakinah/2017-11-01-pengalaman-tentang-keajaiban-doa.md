@@ -13,4 +13,6 @@ description: Pengalaman Dr. Asri tentang keajaiban doa.
 podcast_file_size: 2.34 MB
 podcast_duration: "02:46"
 podcast_length: 2340142
+itunes: https://itunes.apple.com/us/podcast/7-pengalaman-tentang-keajaiban-doa/id1312701517?i=1000394721888
+google_play: https://play.google.com/music/m/Ditfyni645wn2hiefurflm3knsu?t=7_Pengalaman_Tentang_Keajaiban_Doa-Mencari_Sakinah
 --- 

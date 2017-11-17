@@ -13,4 +13,6 @@ description: Explaining why evolution is not true.
 podcast_file_size: 2.70 MB
 podcast_duration: "05:38"
 podcast_length: 2700422
+itunes: https://itunes.apple.com/us/podcast/26-why-cant-god-use-evolution-as-a-vehicle-part-2/id1312646688?i=1000394707145
+google_play: https://play.google.com/music/m/Drte3v4zxg5kk3aweiel7e3ew44?t=26_Why_Cant_God_Use_Evolution_As_A_Vehicle_Part_2-Why_Should_We_Believe_In_God
 ---

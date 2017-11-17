@@ -13,4 +13,6 @@ description: Antara doa yang diajarkan oleh Nabi SAW ketika ditimpa musibah.
 podcast_file_size: 2.64 MB
 podcast_duration: "03:23"
 podcast_length: 2636206
+itunes: https://itunes.apple.com/us/podcast/5-doa-yang-nabi-saw-ajar-kepada-fatimah-ra/id1312701517?i=1000394721890
+google_play: https://play.google.com/music/m/Ddtyio42fcc26yztxw2hh7t75lq?t=5_Doa_Yang_Nabi_SAW_Ajar_Kepada_Fatimah_RA-Mencari_Sakinah
 --- 

@@ -13,4 +13,6 @@ description: Calamities that brings us closer to God.
 podcast_file_size: 4.15 MB
 podcast_duration: "08:39"
 podcast_length: 4151760
+itunes: https://itunes.apple.com/us/podcast/12-do-you-have-a-better-answer-benefit-of-believing-in-god/id1312646688?i=1000394707013
+google_play: https://play.google.com/music/m/Dxihpoovhharhcq4d3nh2aqt2uy?t=12_Do_You_Have_a_Better_Answer_Benefit_of_Believing_in_God-Why_Should_We_Believe_In_God
 ---

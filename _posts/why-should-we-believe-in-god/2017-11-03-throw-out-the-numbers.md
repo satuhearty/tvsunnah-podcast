@@ -13,4 +13,6 @@ description: What is a billion?
 podcast_file_size: 807.07 kB
 podcast_duration: "01:41"
 podcast_length: 807073
+itunes: https://itunes.apple.com/us/podcast/10-throw-out-the-numbers/id1312646688?i=1000394707136
+google_play: https://play.google.com/music/m/Dokbwzxhvl43cvtk4bjnvqnpfey?t=10_Throw_Out_The_Numbers-Why_Should_We_Believe_In_God
 ---

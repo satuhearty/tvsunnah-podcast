@@ -13,4 +13,6 @@ description: Yusuf Estes explaining his own personal experience about people who
 podcast_file_size: 3.39 MB
 podcast_duration: "07:04"
 podcast_length: 3387569
+itunes: https://itunes.apple.com/us/podcast/13-one-who-doesnt-have-a-god/id1312646688?i=1000394707142
+google_play: https://play.google.com/music/m/Dy4p5mnaw3bgygyigl3442sumja?t=13_One_Who_Doesnt_Have_a_God-Why_Should_We_Believe_In_God
 ---

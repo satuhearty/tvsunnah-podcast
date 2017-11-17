@@ -13,4 +13,6 @@ description: Yusuf Estes explaining about the miracles of Quran.
 podcast_file_size: 4.71 MB
 podcast_duration: "09:50"
 podcast_length: 4712360
+itunes: https://itunes.apple.com/us/podcast/11-quran-the-before-after/id1312646688?i=1000394707141
+google_play: https://play.google.com/music/m/Dqgmxbfkigeq625uf5xeq54apgq?t=11_Quran_The_Before__After-Why_Should_We_Believe_In_God
 ---

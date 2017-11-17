@@ -13,4 +13,6 @@ description: Bagaimana kita boleh berusaha untuk melihat dunia dari dimensi akhi
 podcast_file_size: 3.96 MB
 podcast_duration: "06:09"
 podcast_length: 3964270
+itunes: https://itunes.apple.com/us/podcast/9-apabila-insan-melihat-dunia-dari-dimensi-akhirat/id1312701517?i=1000394721892
+google_play: https://play.google.com/music/m/Divlw7o46a4d5ji2slvgt436eki?t=9_Apabila_Insan_Melihat_Dunia_Dari_Dimensi_Akhirat_Bahagian_1-Mencari_Sakinah
 --- 

@@ -13,4 +13,6 @@ description: How is the condition of Muslims today?
 podcast_file_size: 2.34 MB
 podcast_duration: "04:52"
 podcast_length: 2335411
+itunes: https://itunes.apple.com/us/podcast/20-conditions-of-muslims-today/id1312646688?i=1000394707155
+google_play: https://play.google.com/music/m/Dlm26j4o63ay2tjqmsqqwzehkya?t=20_Conditions_of_Muslims_Today-Why_Should_We_Believe_In_God
 ---

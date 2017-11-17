@@ -13,4 +13,6 @@ description: How would you describe something that can't be described with human
 podcast_file_size: 2.48 MB
 podcast_duration: "05:10"
 podcast_length: 2477491
+itunes: https://itunes.apple.com/us/podcast/4-describing-the-undescribable/id1312646688?i=1000394707014
+google_play: https://play.google.com/music/m/Dnkltv7tk6k7s2yj2i3ltqa53ty?t=4_Describing_The_Undescribable-Why_Should_We_Believe_In_God
 ---

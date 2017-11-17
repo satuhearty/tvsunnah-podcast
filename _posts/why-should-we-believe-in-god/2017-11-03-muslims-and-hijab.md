@@ -13,4 +13,6 @@ description: Do you think that Muslims need to wear hijab? Think again.
 podcast_file_size: 2.47 MB
 podcast_duration: "05:09"
 podcast_length: 2465963
+itunes: https://itunes.apple.com/us/podcast/18-muslims-hijab/id1312646688?i=1000394707015
+google_play: https://play.google.com/music/m/Deqt4xwrc2nbyzuwrctrsgcth7m?t=18_Muslims__Hijab-Why_Should_We_Believe_In_God
 ---

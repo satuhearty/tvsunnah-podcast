@@ -13,4 +13,6 @@ description: Loon's talk about his journey to Islam at Islamic University Malays
 podcast_file_size: 17.04 MB
 podcast_duration: "34:29"
 podcast_length: 17037495
+itunes: https://itunes.apple.com/us/podcast/1-loon-islamic-university-malaysia/id1312654144?i=1000394708414
+google_play: https://play.google.com/music/m/Dnnrtpvxhuecqa6t4t7k3cakq4u?t=1_Loon__Islamic_University_Malaysia-Loon-A-Tick
 ---

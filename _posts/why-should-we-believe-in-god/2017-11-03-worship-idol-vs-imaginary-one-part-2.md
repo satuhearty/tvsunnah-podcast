@@ -13,4 +13,6 @@ description: Where to go to learn more about this?
 podcast_file_size: 2.94 MB
 podcast_duration: "06:07"
 podcast_length: 2935420
+itunes: https://itunes.apple.com/us/podcast/23-worship-idol-vs-imaginary-one-part-2/id1312646688?i=1000394707138
+google_play: https://play.google.com/music/m/Dyltxd5jxugekuciaj5vn77hhim?t=23_Worship_Idol_vs_Imaginary_One_Part_2-Why_Should_We_Believe_In_God
 ---

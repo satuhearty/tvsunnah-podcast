@@ -13,4 +13,6 @@ description: Kecekalan Ummu Salamah apabila kehilangan suaminya dan Allah gantik
 podcast_file_size: 2.99 MB
 podcast_duration: "04:07"
 podcast_length: 2988142
+itunes: https://itunes.apple.com/us/podcast/6-ummu-salamah-apabila-ditimpa-musibah/id1312701517?i=1000394721895
+google_play: https://play.google.com/music/m/Dtddej6xkdezuwgldrgn42ellim?t=6_Ummu_Salamah_Apabila_Ditimpa_Musibah-Mencari_Sakinah
 --- 
