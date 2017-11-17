@@ -19,6 +19,10 @@ ul {
     padding-left: 0.5em;
   }
 
+  &.inline {
+    display: inline;
+  }
+
   &.alt {
     list-style: none;
     padding-left: 0;
@@ -60,6 +64,11 @@ ul {
     list-style: none;
     padding-left: 0;
 
+    @include breakpoint(small) {
+      display: inline-block;
+      margin: 0;
+    }
+
     li {
       display: inline-block;
       padding: 0 (_size(element-margin) * 0.5) 0 0;
@@ -68,10 +77,6 @@ ul {
       &:last-child {
         padding-right: 0;
       }
-    }
-
-    &.inline {
-      display: inline;
     }
 
     &.small {
