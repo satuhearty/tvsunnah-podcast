@@ -18,7 +18,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <atom:link href="http://localhost:4000/podcast/mencari-sakinah/feed.xml" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/podcast/mencari-sakinah</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Sun, 12 Nov 2017 22:03:42 -0500</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2017 23:46:02 -0500</lastBuildDate>
         <language>ms</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -139,7 +139,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="http://localhost:4000/assets/audio/mencari-sakinah/doa-dalam-bahasa-selain-bahasa-arab.mp3" length="4748206" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/mencari-sakinah/doa-dalam-bahasa-selain-bahasa-arab.mp3" length="4748206" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#13 Doa Dalam Bahasa Selain Bahasa Arab]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Soalan daripada salah seorang jemaah tentang hukum berdoa dalam bahasa selain bahasa arab ketika solat.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -166,7 +166,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="http://localhost:4000/assets/audio/mencari-sakinah/syukur-bahagian-2.mp3" length="4108078" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/mencari-sakinah/syukur-bahagian-2.mp3" length="4108078" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#12 Syukur Bahagian 2]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Makna Syukur dan kaitannya dengan sakinah (Bahagian 2).]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -193,7 +193,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="http://localhost:4000/assets/audio/mencari-sakinah/syukur-bahagian-1.mp3" length="4380142" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/mencari-sakinah/syukur-bahagian-1.mp3" length="4380142" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#11 Syukur Bahagian 1]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Makna Syukur dan kaitannya dengan sakinah (Bahagian 1).]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -220,7 +220,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="http://localhost:4000/assets/audio/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-2.mp3" length="4612078" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-2.mp3" length="4612078" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#10 Apabila Insan Melihat Dunia Dari Dimensi Akhirat Bahagian 2]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Bagaimana kita boleh berusaha untuk melihat dunia dari dimensi akhirat (Bahagian 2).]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -247,7 +247,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="http://localhost:4000/assets/audio/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-1.mp3" length="3964270" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/mencari-sakinah/melihat-dunia-dari-dimensi-akhirat-bahagian-1.mp3" length="3964270" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#9 Apabila Insan Melihat Dunia Dari Dimensi Akhirat Bahagian 1]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Bagaimana kita boleh berusaha untuk melihat dunia dari dimensi akhirat (Bahagian 1).]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -274,7 +274,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="http://localhost:4000/assets/audio/mencari-sakinah/kisah-orang-mendapat-ketenangan.mp3" length="4388014" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/mencari-sakinah/kisah-orang-mendapat-ketenangan.mp3" length="4388014" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#8 Kisah Orang Yang Mendapat Ketenangan]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Kisah benar tentang orang yang mendapat sakinah.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -301,7 +301,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="http://localhost:4000/assets/audio/mencari-sakinah/pengalaman-tentang-keajaiban-doa.mp3" length="2340142" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/mencari-sakinah/pengalaman-tentang-keajaiban-doa.mp3" length="2340142" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#7 Pengalaman Tentang Keajaiban Doa]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Pengalaman Dr. Asri tentang keajaiban doa.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -328,7 +328,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="http://localhost:4000/assets/audio/mencari-sakinah/ummu-salamah-apabila-ditimpa-musibah.mp3" length="2988142" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/mencari-sakinah/ummu-salamah-apabila-ditimpa-musibah.mp3" length="2988142" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#6 Ummu Salamah Apabila Ditimpa Musibah]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Kecekalan Ummu Salamah apabila kehilangan suaminya dan Allah gantikan dengan yang lebih baik darinya.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -355,7 +355,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="http://localhost:4000/assets/audio/mencari-sakinah/doa-yang-nabi-ajar-kepada-fatimah.mp3" length="2636206" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/mencari-sakinah/doa-yang-nabi-ajar-kepada-fatimah.mp3" length="2636206" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#5 Doa Yang Nabi SAW Ajar Kepada Fatimah RA]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Antara doa yang diajarkan oleh Nabi SAW ketika ditimpa musibah.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -382,7 +382,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="http://localhost:4000/assets/audio/mencari-sakinah/tawakkal.mp3" length="2788078" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/mencari-sakinah/tawakkal.mp3" length="2788078" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#4 Tawakkal]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Huraian tentang Tawakkal dan kaitannya dengan sakinah.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -409,7 +409,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="http://localhost:4000/assets/audio/mencari-sakinah/sakinah-yang-diberikan-kepada-nabi.mp3" length="5380078" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/mencari-sakinah/sakinah-yang-diberikan-kepada-nabi.mp3" length="5380078" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#3 Sakinah Yang Diberikan Kepada Nabi SAW &amp; Abu Bakar RA]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Kisah keresahan Abu Bakar RA ketika berhijrah bersama Nabi SAW.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -436,7 +436,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="http://localhost:4000/assets/audio/mencari-sakinah/salah-sangka-tentang-ketenangan-dalam-hidup.mp3" length="3892078" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/mencari-sakinah/salah-sangka-tentang-ketenangan-dalam-hidup.mp3" length="3892078" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#2 Salah Sangka Tentang Ketenangan Dalam Hidup]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Adakah harta mampu memberi ketenangan dalam hidup?]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -463,7 +463,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/mencari-sakinah/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="http://localhost:4000/assets/audio/mencari-sakinah/makna-sakinah.mp3" length="3910560" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/mencari-sakinah/makna-sakinah.mp3" length="3910560" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#1 Makna Sakinah]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Huraian tentang makna perkataan sakinah dalam bahasa Arab.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
