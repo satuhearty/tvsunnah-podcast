@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Welcome to TVSunnah Podcast'
-description: null
+description: Bringing you the light.
 image: null
 author: null
 ---

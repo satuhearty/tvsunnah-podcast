@@ -2,16 +2,17 @@
 	<title>{{ site.title }} | {{ page.title }}</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-  <meta name="description" content="Bringing you the light.">
+  <meta name="description" content="{{ page.description }}">
+  <meta name="keyword" content="{{ site.keyword }}">
   <meta name="author" content="tvsunnahpodcast">
-  <link rel="icon" type="image/png" href="assets/images/favicon/favicon-16x16.png" sizes="16x16">
-  <link rel="icon" type="image/png" href="assets/images/favicon/favicon-32x32.png" sizes="32x32">
-  <link rel="icon" type="image/png" href="assets/images/favicon/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="{{ site.url }}/assets/images/favicon/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="{{ site.url }}/assets/images/favicon/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="{{ site.url }}/assets/images/favicon/favicon-96x96.png" sizes="96x96">
   <meta property="og:title" content="{{ site.title }}" />
   <meta property="og:type" content="audio.podcast" />
   <meta property="og:url" content="{{ site.url }}" />
   <meta property="og:image" content="{{ site.url }}/assets/images/tvsunnah.jpg" />
-  <meta property="og:description" content="Bringing you the light." />
+  <meta property="og:description" content="{{ page.description }}" />
   <!--[if lte IE 8]><script src="{{ "assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
 	<link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}" />
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | relative_url }}" /><![endif]-->
