@@ -70,3 +70,13 @@
   language: ms
   itunes: https://itunes.apple.com/us/podcast/taubat-dan-doa/id1312701796
   google_play: https://play.google.com/music/m/Ijakn72zubkuh7xzfywyexsu6gu?t=Taubat__Doa
+- podcast_id: tadabbur-alquran
+  title: Tadabbur Al-Quran
+  speaker_id: shofwanbadrie
+  image: assets/images/podcasts/tadabbur-alquran/album-picture-small.jpg
+  cover_image: assets/images/podcasts/tadabbur-alquran/cover-picture.jpg
+  podcast_image: assets/images/podcasts/tadabbur-alquran/album-picture-large.jpg
+  url: podcast/tadabbur-alquran
+  description: Tadabbur Al-Qur'an oleh Ustaz Shofwan Badrie.
+  style: style5
+  language: ms
