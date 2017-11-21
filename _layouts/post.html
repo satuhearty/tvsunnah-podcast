@@ -50,7 +50,7 @@
             <div class="inner">
               <h2 class="audio-title">{{ page.title }}</h2>
               <p class="audio-description">{{ page.description }}</p>
-              <p class="audio-duration">{{ page.date | date: "%b %d, %Y" }} &nbsp; &nbsp; &nbsp; &nbsp; <em>{{ page.podcast_duration }}</em></p>
+              <p class="audio-duration">{{ page.date | date: "%b %d, %Y" }} &nbsp; &nbsp; &nbsp; &nbsp; <b><em>{{ page.podcast_duration }}</em></b></p>
               {% if page.itunes and page.google_play %}
                 <div class="podcast-players">
                   Listen on: &nbsp; &nbsp; &nbsp; &nbsp;
