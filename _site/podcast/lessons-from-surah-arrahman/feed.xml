@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+>
+
+    
+
+    
+
+    <channel>
+        <title>Lessons From Surah Ar-Rahman</title>
+        <atom:link href="http://localhost:4000/podcast/lessons-from-surah-arrahman/feed.xml" rel="self" type="application/rss+xml" />
+        <link>http://localhost:4000/podcast/lessons-from-surah-arrahman</link>
+        <description>Bringing You The World of Sunnah</description>
+        <lastBuildDate>Tue, 28 Nov 2017 00:10:51 -0500</lastBuildDate>
+        <language>en-US</language>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+        <generator>http://jekyllrb.com/</generator>
+        <itunes:summary>First Lecture during the 2013 Malaysian Tour. An introduction, really, to Surah Ar-Rahman. The lecture was made 5th September 2013 at the Wilayah Mosque, Kuala Lumpur, Malaysia.</itunes:summary>
+        <itunes:author>TVSunnah Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-large.jpg" />
+        <itunes:owner>
+            <itunes:name>TVSunnah Podcast</itunes:name>
+            <itunes:email>contact@tvsunnahpodcast.com</itunes:email>
+        </itunes:owner>
+        <managingEditor>contact@tvsunnahpodcast.com (TVSunnah Podcast)</managingEditor>
+        <itunes:subtitle>First Lecture during the 2013 Malaysian Tour. An introduction, really, to Surah Ar-Rahman. The lecture was made 5th September 2013 at the Wilayah Mosque, Kuala Lumpur, Malaysia.</itunes:subtitle>
+        <image>
+            <title>Lessons From Surah Ar-Rahman</title>
+            <url>/</url>
+            <link> </link>
+        </image>
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Islam" />
+            <itunes:category text="Spirituality" />
+        </itunes:category>
+        
+        
+            
+                <item>
+                    <title>Lessons From Surah Ar-Rahman (Full)</title>
+                    <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/lessons-from-surah-arrahman</link>
+                    <pubDate>Sun, 26 Nov 2017 00:00:10 +0000</pubDate>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
+                    <category><![CDATA[ religion ]]></category>
+                    <category><![CDATA[ faith ]]></category>
+                    <category><![CDATA[ islam ]]></category>
+                    <guid isPermaLink="true">http://localhost:4000/podcast/lessons-from-surah-arrahman/lessons-from-surah-arrahman</guid>
+                    <description>
+                        <![CDATA[First Lecture during the 2013 Malaysian Tour. An introduction, really, to surah Ar Rahman. The lecture was made 5th September 2013 at the Wilayah Mosque, Kuala Lumpur, Malaysia.]]>
+                    </description>
+                    <content:encoded>
+                        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+]]>
+                    </content:encoded>
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/lessons-from-surah-arrahman.mp3" length="40058324" type="audio/mpeg" />
+                    <itunes:subtitle><![CDATA[Lessons From Surah Ar-Rahman (Full)]]></itunes:subtitle>
+                    <itunes:summary><![CDATA[First Lecture during the 2013 Malaysian Tour. An introduction, really, to surah Ar Rahman. The lecture was made 5th September 2013 at the Wilayah Mosque, Kuala Lumpur, Malaysia.]]></itunes:summary>
+                    <itunes:author>TVSunnah Podcast</itunes:author>
+                    <itunes:image href="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>01:23:28</itunes:duration>
+                </item>
+            
+        
+            
+                <item>
+                    <title>#9 Bayyinah TV - Arabic With Husna</title>
+                    <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/bayyinah-tv-arabic-with-husna</link>
+                    <pubDate>Sun, 26 Nov 2017 00:00:09 +0000</pubDate>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
+                    <category><![CDATA[ religion ]]></category>
+                    <category><![CDATA[ faith ]]></category>
+                    <category><![CDATA[ islam ]]></category>
+                    <guid isPermaLink="true">http://localhost:4000/podcast/lessons-from-surah-arrahman/bayyinah-tv-arabic-with-husna</guid>
+                    <description>
+                        <![CDATA[Extract 9 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]>
+                    </description>
+                    <content:encoded>
+                        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+]]>
+                    </content:encoded>
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/bayyinah-tv-arabic-with-husna.mp3" length="1136638" type="audio/mpeg" />
+                    <itunes:subtitle><![CDATA[#9 Bayyinah TV - Arabic With Husna]]></itunes:subtitle>
+                    <itunes:summary><![CDATA[Extract 9 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
+                    <itunes:author>TVSunnah Podcast</itunes:author>
+                    <itunes:image href="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>02:23</itunes:duration>
+                </item>
+            
+        
+            
+                <item>
+                    <title>#8 Let Allah Open The Door In Your Brain</title>
+                    <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/let-allah-open-the-door-in-your-brain</link>
+                    <pubDate>Sun, 26 Nov 2017 00:00:08 +0000</pubDate>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
+                    <category><![CDATA[ religion ]]></category>
+                    <category><![CDATA[ faith ]]></category>
+                    <category><![CDATA[ islam ]]></category>
+                    <guid isPermaLink="true">http://localhost:4000/podcast/lessons-from-surah-arrahman/let-allah-open-the-door-in-your-brain</guid>
+                    <description>
+                        <![CDATA[Extract 8 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]>
+                    </description>
+                    <content:encoded>
+                        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+]]>
+                    </content:encoded>
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/let-allah-open-the-door-in-your-brain.mp3" length="2060179" type="audio/mpeg" />
+                    <itunes:subtitle><![CDATA[#8 Let Allah Open The Door In Your Brain]]></itunes:subtitle>
+                    <itunes:summary><![CDATA[Extract 8 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
+                    <itunes:author>TVSunnah Podcast</itunes:author>
+                    <itunes:image href="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>04:18</itunes:duration>
+                </item>
+            
+        
+            
+                <item>
+                    <title>#7 The Teacher Is Allah - Teach The Qur'an With Love Even To Those Who Hate</title>
+                    <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/the-teacher-is-allah</link>
+                    <pubDate>Sun, 26 Nov 2017 00:00:07 +0000</pubDate>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
+                    <category><![CDATA[ religion ]]></category>
+                    <category><![CDATA[ faith ]]></category>
+                    <category><![CDATA[ islam ]]></category>
+                    <guid isPermaLink="true">http://localhost:4000/podcast/lessons-from-surah-arrahman/the-teacher-is-allah</guid>
+                    <description>
+                        <![CDATA[Extract 7 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]>
+                    </description>
+                    <content:encoded>
+                        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+]]>
+                    </content:encoded>
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/the-teacher-is-allah.mp3" length="2307686" type="audio/mpeg" />
+                    <itunes:subtitle><![CDATA[#7 The Teacher Is Allah - Teach The Qur'an With Love Even To Those Who Hate]]></itunes:subtitle>
+                    <itunes:summary><![CDATA[Extract 7 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
+                    <itunes:author>TVSunnah Podcast</itunes:author>
+                    <itunes:image href="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>04:49</itunes:duration>
+                </item>
+            
+        
+            
+                <item>
+                    <title>#6 No Rushing With The Qur'an</title>
+                    <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/no-rushing-with-the-quran</link>
+                    <pubDate>Sun, 26 Nov 2017 00:00:06 +0000</pubDate>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
+                    <category><![CDATA[ religion ]]></category>
+                    <category><![CDATA[ faith ]]></category>
+                    <category><![CDATA[ islam ]]></category>
+                    <guid isPermaLink="true">http://localhost:4000/podcast/lessons-from-surah-arrahman/no-rushing-with-the-quran</guid>
+                    <description>
+                        <![CDATA[Extract 6 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]>
+                    </description>
+                    <content:encoded>
+                        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+]]>
+                    </content:encoded>
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/no-rushing-with-the-quran.mp3" length="2124106" type="audio/mpeg" />
+                    <itunes:subtitle><![CDATA[#6 No Rushing With The Qur'an]]></itunes:subtitle>
+                    <itunes:summary><![CDATA[Extract 6 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
+                    <itunes:author>TVSunnah Podcast</itunes:author>
+                    <itunes:image href="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>04:26</itunes:duration>
+                </item>
+            
+        
+            
+                <item>
+                    <title>#5 The Qur'an Is An Act of Allah's Love</title>
+                    <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/the-quran-is-an-act-of-allahs-love</link>
+                    <pubDate>Sun, 26 Nov 2017 00:00:05 +0000</pubDate>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
+                    <category><![CDATA[ religion ]]></category>
+                    <category><![CDATA[ faith ]]></category>
+                    <category><![CDATA[ islam ]]></category>
+                    <guid isPermaLink="true">http://localhost:4000/podcast/lessons-from-surah-arrahman/the-quran-is-an-act-of-allahs-love</guid>
+                    <description>
+                        <![CDATA[Extract 5 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]>
+                    </description>
+                    <content:encoded>
+                        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+]]>
+                    </content:encoded>
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/the-quran-is-an-act-of-allahs-love.mp3" length="7738387" type="audio/mpeg" />
+                    <itunes:subtitle><![CDATA[#5 The Qur'an Is An Act of Allah's Love]]></itunes:subtitle>
+                    <itunes:summary><![CDATA[Extract 5 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
+                    <itunes:author>TVSunnah Podcast</itunes:author>
+                    <itunes:image href="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>16:08</itunes:duration>
+                </item>
+            
+        
+            
+                <item>
+                    <title>#4 Barakah</title>
+                    <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/barakah</link>
+                    <pubDate>Sun, 26 Nov 2017 00:00:04 +0000</pubDate>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
+                    <category><![CDATA[ religion ]]></category>
+                    <category><![CDATA[ faith ]]></category>
+                    <category><![CDATA[ islam ]]></category>
+                    <guid isPermaLink="true">http://localhost:4000/podcast/lessons-from-surah-arrahman/barakah</guid>
+                    <description>
+                        <![CDATA[Extract 4 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]>
+                    </description>
+                    <content:encoded>
+                        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+]]>
+                    </content:encoded>
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/barakah.mp3" length="4444216" type="audio/mpeg" />
+                    <itunes:subtitle><![CDATA[#4 Barakah]]></itunes:subtitle>
+                    <itunes:summary><![CDATA[Extract 4 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
+                    <itunes:author>TVSunnah Podcast</itunes:author>
+                    <itunes:image href="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>09:16</itunes:duration>
+                </item>
+            
+        
+            
+                <item>
+                    <title>#3 Ar Rahman</title>
+                    <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/arrahman</link>
+                    <pubDate>Sun, 26 Nov 2017 00:00:03 +0000</pubDate>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
+                    <category><![CDATA[ religion ]]></category>
+                    <category><![CDATA[ faith ]]></category>
+                    <category><![CDATA[ islam ]]></category>
+                    <guid isPermaLink="true">http://localhost:4000/podcast/lessons-from-surah-arrahman/arrahman</guid>
+                    <description>
+                        <![CDATA[Extract 3 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]>
+                    </description>
+                    <content:encoded>
+                        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+]]>
+                    </content:encoded>
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/arrahman.mp3" length="7008378" type="audio/mpeg" />
+                    <itunes:subtitle><![CDATA[#3 Ar Rahman]]></itunes:subtitle>
+                    <itunes:summary><![CDATA[Extract 3 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
+                    <itunes:author>TVSunnah Podcast</itunes:author>
+                    <itunes:image href="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>14:37</itunes:duration>
+                </item>
+            
+        
+            
+                <item>
+                    <title>#2 Ar Rahman vs Al Waqi'ah</title>
+                    <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/arrahman-vs-alwaqiah</link>
+                    <pubDate>Sun, 26 Nov 2017 00:00:02 +0000</pubDate>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
+                    <category><![CDATA[ religion ]]></category>
+                    <category><![CDATA[ faith ]]></category>
+                    <category><![CDATA[ islam ]]></category>
+                    <guid isPermaLink="true">http://localhost:4000/podcast/lessons-from-surah-arrahman/arrahman-vs-alwaqiah</guid>
+                    <description>
+                        <![CDATA[Extract 2 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]>
+                    </description>
+                    <content:encoded>
+                        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+]]>
+                    </content:encoded>
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/arrahman-vs-alwaqiah.mp3" length="3713287" type="audio/mpeg" />
+                    <itunes:subtitle><![CDATA[#2 Ar Rahman vs Al Waqi'ah]]></itunes:subtitle>
+                    <itunes:summary><![CDATA[Extract 2 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
+                    <itunes:author>TVSunnah Podcast</itunes:author>
+                    <itunes:image href="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>07:45</itunes:duration>
+                </item>
+            
+        
+            
+                <item>
+                    <title>#1 Three Elements of Effective Communication</title>
+                    <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/three-elements-of-effective-communication</link>
+                    <pubDate>Sun, 26 Nov 2017 00:00:01 +0000</pubDate>
+                    <dc:creator><![CDATA[TVSunnah Podcast]]></dc:creator>
+                    <category><![CDATA[ religion ]]></category>
+                    <category><![CDATA[ faith ]]></category>
+                    <category><![CDATA[ islam ]]></category>
+                    <guid isPermaLink="true">http://localhost:4000/podcast/lessons-from-surah-arrahman/three-elements-of-effective-communication</guid>
+                    <description>
+                        <![CDATA[Extract 1 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]>
+                    </description>
+                    <content:encoded>
+                        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+]]>
+                    </content:encoded>
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/three-elements-of-effective-communication.mp3" length="6773978" type="audio/mpeg" />
+                    <itunes:subtitle><![CDATA[#1 Three Elements of Effective Communication]]></itunes:subtitle>
+                    <itunes:summary><![CDATA[Extract 1 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
+                    <itunes:author>TVSunnah Podcast</itunes:author>
+                    <itunes:image href="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>14:07</itunes:duration>
+                </item>
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    </channel>
+</rss>
