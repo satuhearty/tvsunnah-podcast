@@ -18,7 +18,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <atom:link href="http://localhost:4000/podcast/tadabbur-alquran/feed.xml" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/podcast/tadabbur-alquran</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Wed, 29 Nov 2017 00:24:57 -0500</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2017 00:35:11 -0500</lastBuildDate>
         <language>ms</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
