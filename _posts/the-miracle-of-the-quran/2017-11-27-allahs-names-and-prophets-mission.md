@@ -13,6 +13,6 @@ description: Extract 3 from the "Miracle of The Quran" delivered at the Putra Wo
 podcast_file_size: 5.12 MB
 podcast_duration: "08:53"
 podcast_length: 5121331
-itunes: 
-google_play: 
+itunes: https://itunes.apple.com/us/podcast/3-allahs-names-prophets-mission/id1318605025?i=1000395398233&mt=2
+google_play: https://play.google.com/music/m/Dkdvgxicuavouhpxvzx42yepqei?t=3_Allahs_Names__Prophets_Mission-The_Miracle_of_The_Quran
 ---

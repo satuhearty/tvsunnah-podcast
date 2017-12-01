@@ -13,6 +13,6 @@ description: Extract 4 from the "Miracle of The Quran" delivered at the Putra Wo
 podcast_file_size: 5.37 MB
 podcast_duration: "09:24"
 podcast_length: 5371699
-itunes: 
-google_play: 
+itunes: https://itunes.apple.com/us/podcast/4-ethnicity-comes-from-the-father/id1318605025?i=1000395398231&mt=2
+google_play: https://play.google.com/music/m/Dt3byrajpk6leu7yluritgu32ce?t=4_Ethnicity_Comes_From_The_Father-The_Miracle_of_The_Quran
 ---

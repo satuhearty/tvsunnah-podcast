@@ -13,6 +13,6 @@ description: Extract 8 from the "Lessons From Surah Ar-Rahman" delivered at the 
 podcast_file_size: 2.06 MB
 podcast_duration: "04:18"
 podcast_length: 2060179
-itunes: 
-google_play: 
+itunes: https://itunes.apple.com/us/podcast/8-let-allah-open-the-door-in-your-brain/id1318099242?i=1000395349644&mt=2
+google_play: https://play.google.com/music/m/Dpbhuxss2irtpef6rsw7mptnzgq?t=8_Let_Allah_Open_The_Door_In_Your_Brain-Lessons_From_Surah_Ar-Rahman
 ---

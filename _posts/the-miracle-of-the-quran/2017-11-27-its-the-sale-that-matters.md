@@ -13,6 +13,6 @@ description: Extract 2 from the "Miracle of The Quran" delivered at the Putra Wo
 podcast_file_size: 8.31 MB
 podcast_duration: "15:31"
 podcast_length: 8307949
-itunes: 
-google_play: 
+itunes: https://itunes.apple.com/us/podcast/2-its-the-sale-that-matters/id1318605025?i=1000395398235&mt=2
+google_play: https://play.google.com/music/m/Dym2rmqbpac6ofq4siffpgdprpq?t=2_Its_The_Sale_That_Matters-The_Miracle_of_The_Quran
 ---

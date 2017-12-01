@@ -13,6 +13,6 @@ description: Extract 6 from the "Miracle of The Quran" delivered at the Putra Wo
 podcast_file_size: 7.69 MB
 podcast_duration: "14:14"
 podcast_length: 7689127
-itunes: 
-google_play: 
+itunes: https://itunes.apple.com/us/podcast/6-ayatul-qursi/id1318605025?i=1000395398234&mt=2
+google_play: https://play.google.com/music/m/Dozdb7gzrlo5jra4fbj36xptip4?t=6_Ayatul_Qursi-The_Miracle_of_The_Quran
 ---

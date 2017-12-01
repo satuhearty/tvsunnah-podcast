@@ -13,6 +13,6 @@ description: Extract 7 from the "Lessons From Surah Ar-Rahman" delivered at the 
 podcast_file_size: 2.31 MB
 podcast_duration: "04:49"
 podcast_length: 2307686
-itunes: 
-google_play: 
+itunes: https://itunes.apple.com/us/podcast/7-teacher-is-allah-teach-quran-love-even-to-those-who/id1318099242?i=1000395349645&mt=2
+google_play: https://play.google.com/music/m/D4d7zjcamyq7475x3h6tqnlarii?t=7_The_Teacher_Is_Allah_-_Teach_The_Quran_With_Love_Even_To_Those_Who_Hate-Lessons_From_Surah_Ar-Rahm
 ---

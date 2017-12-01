@@ -13,6 +13,6 @@ description: Extract 5 from the "Lessons From Surah Ar-Rahman" delivered at the 
 podcast_file_size: 7.74 MB
 podcast_duration: "16:08"
 podcast_length: 7738387
-itunes: 
-google_play: 
+itunes: https://itunes.apple.com/us/podcast/5-the-quran-is-an-act-of-allahs-love/id1318099242?i=1000395349641&mt=2
+google_play: https://play.google.com/music/m/Dt43oizqcvxjq2i656ke7nfcnfq?t=5_The_Quran_Is_An_Act_of_Allahs_Love-Lessons_From_Surah_Ar-Rahman
 ---

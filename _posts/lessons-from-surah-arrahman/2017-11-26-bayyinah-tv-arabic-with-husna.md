@@ -13,6 +13,6 @@ description: Extract 9 from the "Lessons From Surah Ar-Rahman" delivered at the 
 podcast_file_size: 1.14 MB
 podcast_duration: "02:23"
 podcast_length: 1136638
-itunes: 
-google_play: 
+itunes: https://itunes.apple.com/us/podcast/9-bayyinah-tv-arabic-with-husna/id1318099242?i=1000395349640&mt=2
+google_play: https://play.google.com/music/m/Dngodif32uuwcn3szahxausfezm?t=9_Bayyinah_TV_-_Arabic_With_Husna-Lessons_From_Surah_Ar-Rahman
 ---

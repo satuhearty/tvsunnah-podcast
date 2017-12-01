@@ -13,6 +13,6 @@ description: Extract 6 from the "Lessons From Surah Ar-Rahman" delivered at the 
 podcast_file_size: 2.12 MB
 podcast_duration: "04:26"
 podcast_length: 2124106
-itunes: 
-google_play: 
+itunes: https://itunes.apple.com/us/podcast/6-no-rushing-with-the-quran/id1318099242?i=1000395349643&mt=2
+google_play: https://play.google.com/music/m/Dffbpvhhypalz67zc37qmy64say?t=6_No_Rushing_With_The_Quran-Lessons_From_Surah_Ar-Rahman
 ---

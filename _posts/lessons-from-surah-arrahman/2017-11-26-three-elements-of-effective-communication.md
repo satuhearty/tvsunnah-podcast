@@ -13,6 +13,6 @@ description: Extract 1 from the "Lessons From Surah Ar-Rahman" delivered at the 
 podcast_file_size: 6.77 MB
 podcast_duration: "14:07"
 podcast_length: 6773978
-itunes: 
-google_play: 
+itunes: https://itunes.apple.com/us/podcast/1-three-elements-of-effective-communication/id1318099242?i=1000395349739&mt=2
+google_play: https://play.google.com/music/m/Dqyqi6sqbh6tpr4ajnlymosdzpa?t=1_Three_Elements_of_Effective_Communication-Lessons_From_Surah_Ar-Rahman
 ---

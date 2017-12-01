@@ -13,6 +13,6 @@ description: Extract 2 from the "Lessons From Surah Ar-Rahman" delivered at the 
 podcast_file_size: 3.71 MB
 podcast_duration: "07:45"
 podcast_length: 3713287
-itunes: 
-google_play: 
+itunes: https://itunes.apple.com/us/podcast/2-ar-rahman-vs-al-waqiah/id1318099242?i=1000395349737&mt=2
+google_play: https://play.google.com/music/m/Dhzikrczgkorr22z5h3svholmu4?t=2_Ar_Rahman_vs_Al_Waqiah-Lessons_From_Surah_Ar-Rahman
 ---

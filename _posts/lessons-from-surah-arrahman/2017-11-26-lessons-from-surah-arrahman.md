@@ -13,6 +13,6 @@ description: First Lecture during the 2013 Malaysian Tour. An introduction, real
 podcast_file_size: 40.06 MB
 podcast_duration: "01:23:28"
 podcast_length: 40058324
-itunes: 
-google_play: 
+itunes: https://itunes.apple.com/us/podcast/lessons-from-surah-ar-rahman-full/id1318099242?i=1000395349738&mt=2
+google_play: https://play.google.com/music/m/Dog4yw4bvw2zdoubqw3ug4coqym?t=Lessons_From_Surah_Ar-Rahman_Full-Lessons_From_Surah_Ar-Rahman
 ---

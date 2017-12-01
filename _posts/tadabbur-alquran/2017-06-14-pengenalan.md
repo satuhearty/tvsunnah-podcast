@@ -13,4 +13,6 @@ description: Tadabbur Al-Qur'an oleh Ustaz Shofwan Badrie yang telah diadakan di
 podcast_file_size: 51.46 MB
 podcast_duration: "01:46:50"
 podcast_length: 51461183
+itunes: https://itunes.apple.com/us/podcast/1-al-maidah-5-pengenalan/id1315519921?i=1000395023116&mt=2
+google_play: https://play.google.com/music/m/D3rdb2k6ekcziffyrh44r6azwjm?t=1_Al-Maidah_5_Pengenalan-Tadabbur_Al-Quran
 ---

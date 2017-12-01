@@ -13,6 +13,6 @@ description: Extract 5 from the "Miracle of The Quran" delivered at the Putra Wo
 podcast_file_size: 8.07 MB
 podcast_duration: "15:02"
 podcast_length: 8069690
-itunes: 
-google_play: 
+itunes: https://itunes.apple.com/us/podcast/5-singular-plural-super-plural/id1318605025?i=1000395398237&mt=2
+google_play: https://play.google.com/music/m/Dn33tziho4dh6xbpclpj5db5zim?t=5_Singular_Plural__Super_Plural-The_Miracle_of_The_Quran
 ---

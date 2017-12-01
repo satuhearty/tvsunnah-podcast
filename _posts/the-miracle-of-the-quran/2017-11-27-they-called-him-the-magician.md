@@ -13,6 +13,6 @@ description: Extract 1 from the "Miracle of The Quran" delivered at the Putra Wo
 podcast_file_size: 4.35 MB
 podcast_duration: "07:16"
 podcast_length: 4348896
-itunes: 
-google_play: 
+itunes: https://itunes.apple.com/us/podcast/1-they-called-him-the-magician/id1318605025?i=1000395398236&mt=2
+google_play: https://play.google.com/music/m/D5inwfhjeqqej5kaxfepi5q5xxu?t=1_They_Called_Him_The_Magician-The_Miracle_of_The_Quran
 ---
