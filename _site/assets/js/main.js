@@ -374,16 +374,19 @@
 
       const formatTime = function (time) {
         return [
-          Math.floor((time % 3600) / 60), // minutes
+          ('00' + Math.floor(time / 3600)).slice(-2), // hours
+          ('00' + Math.floor((time % 3600) / 60)).slice(-2), // minutes
           ('00' + Math.floor(time % 60)).slice(-2) // seconds
         ].join(':');
       };
 
       // Show current time
       wavesurfer.on('audioprocess', function () {
-        $(counterId).text(formatTime(wavesurfer.getCurrentTime()));
-        if (!isNaN(wavesurfer.getDuration())) {
-          $(durationId).text('-' + formatTime(wavesurfer.getDuration() - wavesurfer.getCurrentTime()));
+        const currentTime = wavesurfer.getCurrentTime();
+        const duration = wavesurfer.getDuration();
+        $(counterId).text(formatTime(currentTime));
+        if (!isNaN(duration)) {
+          // $(durationId).text('-' + formatTime(duration - currentTime));
         }
       });
 
