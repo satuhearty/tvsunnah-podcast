@@ -18,7 +18,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <atom:link href="http://localhost:4000/podcast/why-should-we-believe-in-god/feed.xml" rel="self" type="application/rss+xml" />
         <link>http://localhost:4000/podcast/why-should-we-believe-in-god</link>
         <description>Bringing You The World of Sunnah</description>
-        <lastBuildDate>Sun, 31 Dec 2017 15:10:41 -0500</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2017 16:30:14 -0500</lastBuildDate>
         <language>en-us</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -780,13 +780,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/why-should-we-believe-in-god/introduction.mp3" length="2860932" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/why-should-we-believe-in-god/introduction.mp3" length="1855148" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#1 Introduction to Why Should We Believe in God]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Introduction to the topic of "Why Should We Believe In God".]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
                     <itunes:image href="http://localhost:4000/assets/images/podcasts/why-should-we-believe-in-god/album-picture-small.jpg" />
                     <itunes:explicit>no</itunes:explicit>
-                    <itunes:duration>03:11</itunes:duration>
+                    <itunes:duration>01:06</itunes:duration>
                 </item>
             
         

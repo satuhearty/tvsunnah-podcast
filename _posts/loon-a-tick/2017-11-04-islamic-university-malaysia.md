@@ -4,7 +4,7 @@ title: "#1 Loon @ Islamic University Malaysia"
 id: islamic-university-malaysia
 date: 2017-11-04 00:01:00
 audio: assets/audio/loon-a-tick/islamic-university-malaysia.mp3
-album: Loon-A-Tick
+album: My Journey To Islam
 speaker_id: loon
 podcast: loon-a-tick
 permalink: podcast/loon-a-tick/:title

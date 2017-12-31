@@ -4,7 +4,7 @@ title: "#2 Loon @ Nottingham University Malaysia"
 id: nottingham-university-malaysia
 date: 2017-11-04 00:02:00
 audio: assets/audio/loon-a-tick/nottingham-university-malaysia.mp3
-album: Loon-A-Tick
+album: My Journey To Islam
 speaker_id: loon
 podcast: loon-a-tick
 permalink: podcast/loon-a-tick/:title
