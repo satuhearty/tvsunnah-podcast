@@ -8,7 +8,7 @@ album: My Journey To Islam
 speaker_id: loon
 podcast: loon-a-tick
 permalink: podcast/loon-a-tick/:title
-image: assets/images/podcasts/loon-a-tick/album-picture-small.jpg
+image: assets/images/podcasts/loon-a-tick/album-picture-small-2.jpg
 description: Loon's talk about his journey to Islam at Islamic University Malaysia.
 podcast_file_size: 16.58 MB
 podcast_duration: "33:32"

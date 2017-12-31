@@ -51,9 +51,9 @@
 - podcast_id: loon-a-tick
   title: My Journey To Islam
   speaker_id: loon
-  image: assets/images/podcasts/loon-a-tick/album-picture-small.jpg
-  cover_image: assets/images/podcasts/loon-a-tick/cover-picture.jpg
-  podcast_image: assets/images/podcasts/loon-a-tick/album-picture-large.jpg
+  image: assets/images/podcasts/loon-a-tick/album-picture-small-2.jpg
+  cover_image: assets/images/podcasts/loon-a-tick/cover-picture-2.jpg
+  podcast_image: assets/images/podcasts/loon-a-tick/album-picture-large-2.jpg
   url: podcast/loon-a-tick
   description: Amir Junaid Muhaddith Aka Loon's Trip to Malaysia
   style: style4
