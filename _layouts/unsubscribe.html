@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+
+{% include head.html %}
+
+<body>
+
+{% include header.html %}
+
+<div id="main" class="alt center">
+  <section id="about-header">
+    <div class="inner">
+      <h2>Unsubscribe</h2>
+      <p>We are so sad to see you go. Enter your email below to unsubscribe from our newsletter.</p>
+    </div>
+  </section>
+  <section>
+    <div class="inner">
+      <form action="https://formspree.io/{{ site.email }}" method="POST">
+        <div class="row">
+          <div class="4u 12u$(medium)">&nbsp;</div>
+          <div class="4u 12u$(medium)">
+            <div class="field">
+              <label for="email">Email</label>
+              <input type="email" name="email" id="email" />
+              <input type="hidden" name="_subject" value="New Unsubscribe Request" />
+              <input type="hidden" name="_next" value="//tvsunnahpodcast.com/" />
+            </div>
+            <ul class="actions">
+              <li><input type="submit" value="Unsubscribe" class="special"></li>
+            </ul>
+          </div>
+          <div class="4u$ 12u$(medium)">&nbsp;</div>
+        </div>
+      </form>
+    </div>
+  </section>
+</div>
+
+{% include footer.html %}
+
+</body>
+
+</html>
