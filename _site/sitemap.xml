@@ -337,10 +337,10 @@
 <loc>http://localhost:4000/generic.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/podcast/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/podcast/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/landing.html</loc>
@@ -368,6 +368,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/podcast/the-shade-of-the-day-of-judgement/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/unsubscribe/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/podcast/why-should-we-believe-in-god/</loc>
