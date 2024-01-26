@@ -68,7 +68,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <content:encoded>
                         <![CDATA[<img class="featured-image" src="{{ site.url }}{{ site.baseurl }}/{{ post.image }}" />{{ post.content | expand_urls: site.url | cdata_escape }}]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/{{ post.audio }}" length="{{ post.podcast_length }}" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/{{ post.audio }}" length="{{ post.podcast_length }}" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[{{ post.title | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape | replace: '&', '&amp;' }}]]></itunes:subtitle>
                     <itunes:summary><![CDATA[{{ post.description | expand_urls: site.url | cdata_escape | replace: '&', '&amp;' }}]]></itunes:summary>
                     <itunes:author>{{ site.podcast_owner }}</itunes:author>

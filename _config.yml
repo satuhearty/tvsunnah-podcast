@@ -5,7 +5,7 @@ email: contact@tvsunnahpodcast.com
 description: If you’re new to TVSunnah Podcast, we’ve got a lot of podcasts for you!
 keyword: podcast, tvsunnah, tvsunnah podcast, islamic podcast, islam, sunnah, religion, education, ahli sunnah wal jamaah
 baseurl: ""
-url: "https://www.tvsunnahpodcast.com"
+url: "https://satuhearty.github.io/tvsunnah-podcast"
 author:
 street_address: 42 Jalan SS12/1F
 city: Subang Jaya
@@ -13,7 +13,6 @@ state: Selangor
 zip_code: 47500
 country: Malaysia
 phone: +6012 3076703
-
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

@@ -9,9 +9,9 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 >
 
-    
 
-    
+
+
 
     <channel>
         <title>Lessons From Surah Ar-Rahman</title>
@@ -42,23 +42,23 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
             <itunes:category text="Islam" />
             <itunes:category text="Spirituality" />
         </itunes:category>
-        
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 <item>
                     <title>Lessons From Surah Ar-Rahman (Full)</title>
                     <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/lessons-from-surah-arrahman</link>
@@ -75,7 +75,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/lessons-from-surah-arrahman.mp3" length="40058324" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/lessons-from-surah-arrahman/lessons-from-surah-arrahman.mp3" length="40058324" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[Lessons From Surah Ar-Rahman (Full)]]></itunes:subtitle>
                     <itunes:summary><![CDATA[First Lecture during the 2013 Malaysian Tour. An introduction, really, to surah Ar Rahman. The lecture was made 5th September 2013 at the Wilayah Mosque, Kuala Lumpur, Malaysia.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -83,9 +83,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>01:23:28</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#9 Bayyinah TV - Arabic With Husna</title>
                     <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/bayyinah-tv-arabic-with-husna</link>
@@ -102,7 +102,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/bayyinah-tv-arabic-with-husna.mp3" length="1136638" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/lessons-from-surah-arrahman/bayyinah-tv-arabic-with-husna.mp3" length="1136638" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#9 Bayyinah TV - Arabic With Husna]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Extract 9 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -110,9 +110,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>02:23</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#8 Let Allah Open The Door In Your Brain</title>
                     <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/let-allah-open-the-door-in-your-brain</link>
@@ -129,7 +129,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/let-allah-open-the-door-in-your-brain.mp3" length="2060179" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/lessons-from-surah-arrahman/let-allah-open-the-door-in-your-brain.mp3" length="2060179" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#8 Let Allah Open The Door In Your Brain]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Extract 8 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -137,9 +137,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>04:18</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#7 The Teacher Is Allah - Teach The Qur'an With Love Even To Those Who Hate</title>
                     <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/the-teacher-is-allah</link>
@@ -156,7 +156,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/the-teacher-is-allah.mp3" length="2307686" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/lessons-from-surah-arrahman/the-teacher-is-allah.mp3" length="2307686" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#7 The Teacher Is Allah - Teach The Qur'an With Love Even To Those Who Hate]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Extract 7 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -164,9 +164,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>04:49</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#6 No Rushing With The Qur'an</title>
                     <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/no-rushing-with-the-quran</link>
@@ -183,7 +183,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/no-rushing-with-the-quran.mp3" length="2124106" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/lessons-from-surah-arrahman/no-rushing-with-the-quran.mp3" length="2124106" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#6 No Rushing With The Qur'an]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Extract 6 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -191,9 +191,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>04:26</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#5 The Qur'an Is An Act of Allah's Love</title>
                     <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/the-quran-is-an-act-of-allahs-love</link>
@@ -210,7 +210,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/the-quran-is-an-act-of-allahs-love.mp3" length="7738387" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/lessons-from-surah-arrahman/the-quran-is-an-act-of-allahs-love.mp3" length="7738387" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#5 The Qur'an Is An Act of Allah's Love]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Extract 5 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -218,9 +218,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>16:08</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#4 Barakah</title>
                     <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/barakah</link>
@@ -237,7 +237,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/barakah.mp3" length="4444216" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/lessons-from-surah-arrahman/barakah.mp3" length="4444216" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#4 Barakah]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Extract 4 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -245,9 +245,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>09:16</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#3 Ar Rahman</title>
                     <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/arrahman</link>
@@ -264,7 +264,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/arrahman.mp3" length="7008378" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/lessons-from-surah-arrahman/arrahman.mp3" length="7008378" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#3 Ar Rahman]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Extract 3 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -272,9 +272,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>14:37</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#2 Ar Rahman vs Al Waqi'ah</title>
                     <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/arrahman-vs-alwaqiah</link>
@@ -291,7 +291,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/arrahman-vs-alwaqiah.mp3" length="3713287" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/lessons-from-surah-arrahman/arrahman-vs-alwaqiah.mp3" length="3713287" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#2 Ar Rahman vs Al Waqi'ah]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Extract 2 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -299,9 +299,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>07:45</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#1 Three Elements of Effective Communication</title>
                     <link>http://localhost:4000/podcast/lessons-from-surah-arrahman/three-elements-of-effective-communication</link>
@@ -318,7 +318,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/lessons-from-surah-arrahman/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/lessons-from-surah-arrahman/three-elements-of-effective-communication.mp3" length="6773978" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/lessons-from-surah-arrahman/three-elements-of-effective-communication.mp3" length="6773978" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#1 Three Elements of Effective Communication]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Extract 1 from the "Lessons From Surah Ar-Rahman" delivered at the Wilayah Mosque on the 5th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -326,135 +326,135 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>14:07</itunes:duration>
                 </item>
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     </channel>
 </rss>

@@ -9,9 +9,9 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 >
 
-    
 
-    
+
+
 
     <channel>
         <title>Tadabbur Al-Quran</title>
@@ -42,43 +42,43 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
             <itunes:category text="Islam" />
             <itunes:category text="Spirituality" />
         </itunes:category>
-        
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 <item>
                     <title>#12 Al-Maidah (5) : 11</title>
                     <link>http://localhost:4000/podcast/tadabbur-alquran/al-maidah-11</link>
@@ -95,7 +95,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/tadabbur-alquran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/tadabbur-alquran/al-maidah-11.mp3" length="46102664" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/tadabbur-alquran/al-maidah-11.mp3" length="46102664" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#12 Al-Maidah (5) : 11]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Tadabbur Al-Qur'an oleh Ustaz Shofwan Badrie yang telah diadakan di The Glasshouse, Subang Jaya pada 13 November 2017.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -103,113 +103,113 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>01:35:40</itunes:duration>
                 </item>
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 <item>
                     <title>#11 Al-Maidah (5): 9</title>
                     <link>http://localhost:4000/podcast/tadabbur-alquran/al-maidah-9-dan-10</link>
@@ -226,7 +226,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/tadabbur-alquran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/tadabbur-alquran/al-maidah-9-dan-10.mp3" length="39054535" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/tadabbur-alquran/al-maidah-9-dan-10.mp3" length="39054535" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#11 Al-Maidah (5): 9]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Tadabbur Al-Qur'an oleh Ustaz Shofwan Badrie yang telah diadakan di The Glasshouse, Subang Jaya pada 23 Oktober 2017.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -234,9 +234,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>01:20:59</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#10 Al-Maidah (5): 8</title>
                     <link>http://localhost:4000/podcast/tadabbur-alquran/al-maidah-8</link>
@@ -253,7 +253,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/tadabbur-alquran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/tadabbur-alquran/al-maidah-8.mp3" length="40862407" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/tadabbur-alquran/al-maidah-8.mp3" length="40862407" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#10 Al-Maidah (5): 8]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Tadabbur Al-Qur'an oleh Ustaz Shofwan Badrie yang telah diadakan di The Glasshouse, Subang Jaya pada 16 Oktober 2017.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -261,9 +261,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>01:24:45</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#9 Al-Maidah (5): 7</title>
                     <link>http://localhost:4000/podcast/tadabbur-alquran/al-maidah-7</link>
@@ -280,7 +280,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/tadabbur-alquran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/tadabbur-alquran/al-maidah-7.mp3" length="43350172" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/tadabbur-alquran/al-maidah-7.mp3" length="43350172" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#9 Al-Maidah (5): 7]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Tadabbur Al-Qur'an oleh Ustaz Shofwan Badrie yang telah diadakan di The Glasshouse, Subang Jaya pada 9 Oktober 2017.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -288,9 +288,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>01:29:56</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#8 Maidah (5): 5 &amp; 6</title>
                     <link>http://localhost:4000/podcast/tadabbur-alquran/al-maidah-5-dan-6</link>
@@ -307,7 +307,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/tadabbur-alquran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/tadabbur-alquran/al-maidah-5-dan-6.mp3" length="43032779" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/tadabbur-alquran/al-maidah-5-dan-6.mp3" length="43032779" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#8 Maidah (5): 5 &amp; 6]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Tadabbur Al-Qur'an oleh Ustaz Shofwan Badrie yang telah diadakan di The Glasshouse, Subang Jaya pada 2 Oktober 2017.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -315,9 +315,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>01:29:16</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#7 Al-Maidah (5): 4</title>
                     <link>http://localhost:4000/podcast/tadabbur-alquran/al-maidah-4</link>
@@ -334,7 +334,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/tadabbur-alquran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/tadabbur-alquran/al-maidah-4.mp3" length="36282055" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/tadabbur-alquran/al-maidah-4.mp3" length="36282055" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#7 Al-Maidah (5): 4]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Tadabbur Al-Qur'an oleh Ustaz Shofwan Badrie yang telah diadakan di The Glasshouse, Subang Jaya pada 11 September 2017.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -342,9 +342,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>01:15:12</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#6 Al-Maidah (5): 3.2</title>
                     <link>http://localhost:4000/podcast/tadabbur-alquran/al-maidah-3-bahagian-2</link>
@@ -361,7 +361,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/tadabbur-alquran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/tadabbur-alquran/al-maidah-3-bahagian-2.mp3" length="40449225" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/tadabbur-alquran/al-maidah-3-bahagian-2.mp3" length="40449225" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#6 Al-Maidah (5): 3.2]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Tadabbur Al-Qur'an oleh Ustaz Shofwan Badrie yang telah diadakan di The Glasshouse, Subang Jaya pada 4 September 2017.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -369,9 +369,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>01:23:53</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#5 Al-Maidah (5): 3.1</title>
                     <link>http://localhost:4000/podcast/tadabbur-alquran/al-maidah-3-bahagian-1</link>
@@ -388,7 +388,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/tadabbur-alquran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/tadabbur-alquran/al-maidah-3-bahagian-1.mp3" length="48413577" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/tadabbur-alquran/al-maidah-3-bahagian-1.mp3" length="48413577" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#5 Al-Maidah (5): 3.1]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Tadabbur Al-Qur'an oleh Ustaz Shofwan Badrie yang telah diadakan di The Glasshouse, Subang Jaya pada 14 Ogos 2017.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -396,9 +396,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>01:40:29</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#4 Al-Maidah (5): 2 &amp; 3</title>
                     <link>http://localhost:4000/podcast/tadabbur-alquran/al-maidah-2-dan-3</link>
@@ -415,7 +415,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/tadabbur-alquran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/tadabbur-alquran/al-maidah-2-dan-3.mp3" length="53372133" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/tadabbur-alquran/al-maidah-2-dan-3.mp3" length="53372133" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#4 Al-Maidah (5): 2 &amp; 3]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Tadabbur Al-Qur'an oleh Ustaz Shofwan Badrie yang telah diadakan di The Glasshouse, Subang Jaya pada 7 Ogos 2017.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -423,9 +423,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>01:50:49</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#3 Al-Maidah (5): 2</title>
                     <link>http://localhost:4000/podcast/tadabbur-alquran/al-maidah-2</link>
@@ -442,7 +442,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/tadabbur-alquran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/tadabbur-alquran/al-maidah-2.mp3" length="43280647" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/tadabbur-alquran/al-maidah-2.mp3" length="43280647" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#3 Al-Maidah (5): 2]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Tadabbur Al-Qur'an oleh Ustaz Shofwan Badrie yang telah diadakan di The Glasshouse, Subang Jaya pada 24 Julai 2017.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -450,9 +450,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>01:29:47</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#2 Al-Maidah (5): 1</title>
                     <link>http://localhost:4000/podcast/tadabbur-alquran/al-maidah-1</link>
@@ -469,7 +469,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/tadabbur-alquran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/tadabbur-alquran/al-maidah-1.mp3" length="47784007" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/tadabbur-alquran/al-maidah-1.mp3" length="47784007" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#2 Al-Maidah (5): 1]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Tadabbur Al-Qur'an oleh Ustaz Shofwan Badrie yang telah diadakan di The Glasshouse, Subang Jaya pada 10 Julai 2017.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -477,9 +477,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>01:39:10</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#1 Al-Maidah (5): Pengenalan</title>
                     <link>http://localhost:4000/podcast/tadabbur-alquran/pengenalan</link>
@@ -496,7 +496,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/tadabbur-alquran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/tadabbur-alquran/pengenalan.mp3" length="51461183" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/tadabbur-alquran/pengenalan.mp3" length="51461183" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#1 Al-Maidah (5): Pengenalan]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Tadabbur Al-Qur'an oleh Ustaz Shofwan Badrie yang telah diadakan di The Glasshouse, Subang Jaya pada 14 Jun 2017.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -504,7 +504,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>01:46:50</itunes:duration>
                 </item>
-            
-        
+
+
     </channel>
 </rss>

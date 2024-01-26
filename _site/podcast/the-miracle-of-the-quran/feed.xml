@@ -9,9 +9,9 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 >
 
-    
 
-    
+
+
 
     <channel>
         <title>The Miracle of The Quran</title>
@@ -42,9 +42,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
             <itunes:category text="Islam" />
             <itunes:category text="Spirituality" />
         </itunes:category>
-        
-        
-            
+
+
+
                 <item>
                     <title>The Miracle of The Quran (Full)</title>
                     <link>http://localhost:4000/podcast/the-miracle-of-the-quran/the-miracle-of-the-quran</link>
@@ -61,7 +61,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/the-miracle-of-the-quran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/the-miracle-of-the-quran/the-miracle-of-the-quran.mp3" length="52703878" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/the-miracle-of-the-quran/the-miracle-of-the-quran.mp3" length="52703878" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[The Miracle of The Quran (Full)]]></itunes:subtitle>
                     <itunes:summary><![CDATA[The Miracle of The Quran by Nouman Ali Khan at IIUM during the 2013 Malaysian Tour. Held at the Putra World Trade Centre, Kuala Lumpur on the 6th Sep 2013.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -69,9 +69,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>01:48:01</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#6 Ayatul Qursi</title>
                     <link>http://localhost:4000/podcast/the-miracle-of-the-quran/ayatul-qursi</link>
@@ -88,7 +88,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/the-miracle-of-the-quran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/the-miracle-of-the-quran/ayatul-qursi.mp3" length="7689127" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/the-miracle-of-the-quran/ayatul-qursi.mp3" length="7689127" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#6 Ayatul Qursi]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Extract 6 from the "Miracle of The Quran" delivered at the Putra World Trade Centre (PWTC), Kuala Lumpur on the 6th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -96,9 +96,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>14:14</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#5 Singular, Plural, &amp; Super Plural</title>
                     <link>http://localhost:4000/podcast/the-miracle-of-the-quran/singular-plural-and-super-plural</link>
@@ -115,7 +115,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/the-miracle-of-the-quran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/the-miracle-of-the-quran/singular-plural-and-super-plural.mp3" length="8069690" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/the-miracle-of-the-quran/singular-plural-and-super-plural.mp3" length="8069690" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#5 Singular, Plural, &amp; Super Plural]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Extract 5 from the "Miracle of The Quran" delivered at the Putra World Trade Centre (PWTC), Kuala Lumpur on the 6th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -123,9 +123,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>15:02</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#4 Ethnicity Comes From The Father</title>
                     <link>http://localhost:4000/podcast/the-miracle-of-the-quran/ethnicity-comes-from-the-father</link>
@@ -142,7 +142,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/the-miracle-of-the-quran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/the-miracle-of-the-quran/ethnicity-comes-from-the-father.mp3" length="5371699" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/the-miracle-of-the-quran/ethnicity-comes-from-the-father.mp3" length="5371699" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#4 Ethnicity Comes From The Father]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Extract 4 from the "Miracle of The Quran" delivered at the Putra World Trade Centre (PWTC), Kuala Lumpur on the 6th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -150,9 +150,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>09:24</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#3 Allah's Names &amp; Prophet's Mission</title>
                     <link>http://localhost:4000/podcast/the-miracle-of-the-quran/allahs-names-and-prophets-mission</link>
@@ -169,7 +169,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/the-miracle-of-the-quran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/the-miracle-of-the-quran/allahs-names-and-prophets-mission.mp3" length="5121331" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/the-miracle-of-the-quran/allahs-names-and-prophets-mission.mp3" length="5121331" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#3 Allah's Names &amp; Prophet's Mission]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Extract 3 from the "Miracle of The Quran" delivered at the Putra World Trade Centre (PWTC), Kuala Lumpur on the 6th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -177,9 +177,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>08:53</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#2 It's The Sale That Matters</title>
                     <link>http://localhost:4000/podcast/the-miracle-of-the-quran/its-the-sale-that-matters</link>
@@ -196,7 +196,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/the-miracle-of-the-quran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/the-miracle-of-the-quran/its-the-sale-that-matters.mp3" length="8307949" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/the-miracle-of-the-quran/its-the-sale-that-matters.mp3" length="8307949" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#2 It's The Sale That Matters]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Extract 2 from the "Miracle of The Quran" delivered at the Putra World Trade Centre (PWTC), Kuala Lumpur on the 6th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -204,9 +204,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>15:31</itunes:duration>
                 </item>
-            
-        
-            
+
+
+
                 <item>
                     <title>#1 They Called Him The Magician</title>
                     <link>http://localhost:4000/podcast/the-miracle-of-the-quran/they-called-him-the-magician</link>
@@ -223,7 +223,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                         <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/images/podcasts/the-miracle-of-the-quran/album-picture-small.jpg" />
 ]]>
                     </content:encoded>
-                    <enclosure url="https://dts.podtrac.com/redirect.mp3/www.tvsunnahpodcast.com/assets/audio/the-miracle-of-the-quran/they-called-him-the-magician.mp3" length="4348896" type="audio/mpeg" />
+                    <enclosure url="https://dts.podtrac.com/redirect.mp3/satuhearty.github.io/tvsunnah-podcast/assets/audio/the-miracle-of-the-quran/they-called-him-the-magician.mp3" length="4348896" type="audio/mpeg" />
                     <itunes:subtitle><![CDATA[#1 They Called Him The Magician]]></itunes:subtitle>
                     <itunes:summary><![CDATA[Extract 1 from the "Miracle of The Quran" delivered at the Putra World Trade Centre (PWTC), Kuala Lumpur on the 6th Sep 2013 during his 2013 Malaysian Tour.]]></itunes:summary>
                     <itunes:author>TVSunnah Podcast</itunes:author>
@@ -231,155 +231,155 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                     <itunes:explicit>no</itunes:explicit>
                     <itunes:duration>07:16</itunes:duration>
                 </item>
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     </channel>
 </rss>
